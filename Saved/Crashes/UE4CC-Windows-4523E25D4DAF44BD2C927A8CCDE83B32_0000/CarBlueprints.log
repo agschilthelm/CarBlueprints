@@ -1,0 +1,696 @@
+﻿Log file open, 12/09/17 09:34:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CarBlueprints
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1275283197) SRandInit(-1275283197).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161845
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.09-14.34.31:587][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-14.34.31:587][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.09-14.34.31:637][  0]LogInit: Computer: LAPTOP-QGRD1O7A
+[2017.12.09-14.34.31:637][  0]LogInit: User: agsch
+[2017.12.09-14.34.31:637][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.09-14.34.31:637][  0]LogInit: High frequency timer resolution =2.835941 MHz
+[2017.12.09-14.34.31:637][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.09-14.34.31:638][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.09-14.34.31:638][  0]LogMemory: Process Physical Memory: 277.63 MB used, 277.63 MB peak
+[2017.12.09-14.34.31:638][  0]LogMemory: Process Virtual Memory: 275.81 MB used, 275.81 MB peak
+[2017.12.09-14.34.31:638][  0]LogMemory: Physical Memory: 4636.41 MB used,  3436.13 MB free, 8072.54 MB total
+[2017.12.09-14.34.31:638][  0]LogMemory: Virtual Memory: 666.72 MB used,  3436.13 MB free, 134217728.00 MB total
+[2017.12.09-14.34.32:530][  0]LogInit: Using OS detected language (en-US).
+[2017.12.09-14.34.32:530][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.09-14.34.32:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.09-14.34.35:878][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.09-14.34.36:317][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2017.12.09-14.34.36:317][  0]LogD3D11RHI:       2019/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.09-14.34.36:325][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2017.12.09-14.34.36:325][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.09-14.34.36:326][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.09-14.34.36:326][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.09-14.34.36:326][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.09-14.34.36:335][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.09-14.34.36:336][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2017.12.09-14.34.36:336][  0]LogWindows: EnumDisplayDevices:
+[2017.12.09-14.34.36:336][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2017.12.09-14.34.36:336][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.12.09-14.34.36:336][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2017.12.09-14.34.36:336][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.09-14.34.36:336][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2017.12.09-14.34.36:336][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.09-14.34.36:336][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.09-14.34.36:336][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.09-14.34.36:362][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.09-14.34.36:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.09-14.34.36:464][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Intermediate/Shaders/WorkingDirectory/12928/).
+[2017.12.09-14.34.36:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agsch/AppData/Local/Temp/UnrealShaderWorkingDir/F341713D45B5388E1CF00EA4D142709C/'.
+[2017.12.09-14.34.36:466][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.09-14.34.38:765][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.09-14.34.38:806][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.09-14.34.38:847][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.09-14.34.38:887][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.09-14.34.38:934][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.09-14.34.38:976][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.09-14.34.39:018][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.09-14.34.39:059][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.09-14.34.39:096][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.09-14.34.39:141][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.09-14.34.39:182][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.09-14.34.39:225][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.09-14.34.39:266][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.09-14.34.39:309][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.09-14.34.39:350][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.09-14.34.39:441][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.09-14.34.39:441][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.09-14.34.39:474][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.09-14.34.39:561][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.09-14.34.39:586][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.09-14.34.39:628][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.09-14.34.39:670][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.09-14.34.39:711][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.09-14.34.39:757][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.09-14.34.39:757][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.09-14.34.40:312][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: Loaded boot cache 0.41s 93MB C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.09-14.34.40:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.09-14.34.40:750][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.09-14.34.40:764][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agsch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.09-14.34.40:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.09-14.34.40:824][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.09-14.34.40:845][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-14.34.40:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.09-14.34.42:475][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2017.12.09-14.34.42:625][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.09-14.34.43:158][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.09-14.34.43:550][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.09-14.34.43:589][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.09-14.34.43:590][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.09-14.34.43:590][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.09-14.34.43:590][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.09-14.34.43:590][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.09-14.34.44:585][  0]LogNetVersion: CarBlueprints , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3571599761)
+[2017.12.09-14.34.45:140][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054633 seconds
+[2017.12.09-14.34.45:146][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.09-14.34.45:146][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.09-14.34.45:146][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.09-14.34.45:197][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.09-14.34.51:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.09-14.34.51:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.09-14.34.52:194][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.09-14.34.52:706][  0]SourceControl: Source control is disabled
+[2017.12.09-14.34.52:706][  0]SourceControl: Source control is disabled
+[2017.12.09-14.34.52:759][  0]SourceControl: Source control is disabled
+[2017.12.09-14.34.52:806][  0]SourceControl: Source control is disabled
+[2017.12.09-14.34.53:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.09-14.34.53:665][  0]LogOcInput: OculusInput pre-init called
+[2017.12.09-14.34.53:951][  0]LogEngine: Initializing Engine...
+[2017.12.09-14.34.53:955][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.09-14.34.54:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.09-14.34.54:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.12.09-14.34.54:544][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.09-14.34.54:570][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-14.34.54:700][  0]LogInit: FAudioDevice initialized.
+[2017.12.09-14.34.54:788][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.09-14.34.54:807][  0]LogInit: Texture streaming: Enabled
+[2017.12.09-14.34.54:913][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.09-14.34.55:248][  0]LogInit: Transaction tracking system initialized
+[2017.12.09-14.34.55:614][  0]BlueprintLog: New page: Editor Load
+[2017.12.09-14.34.56:625][  0]LocalizationService: Localization service is disabled
+[2017.12.09-14.34.57:367][  0]LogConsoleResponse: Display: 
+[2017.12.09-14.34.57:857][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.09-14.34.57:857][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.09-14.34.57:859][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/' took 0.02s
+[2017.12.09-14.34.57:859][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.09-14.34.59:058][  0]SourceControl: Source control is disabled
+[2017.12.09-14.34.59:061][  0]Cmd: MAP LOAD FILE="../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.09-14.34.59:062][  0]LightingResults: New page: Lighting Build
+[2017.12.09-14.34.59:103][  0]MapCheck: New page: Map Check
+[2017.12.09-14.34.59:103][  0]LightingResults: New page: Lighting Build
+[2017.12.09-14.34.59:358][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.09-14.34.59:358][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:358][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:359][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:359][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.09-14.34.59:359][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:359][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.09-14.34.59:360][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:361][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:361][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:361][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.09-14.34.59:361][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:362][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.09-14.34.59:362][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.09-14.34.59:362][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:362][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.09-14.34.59:362][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.09-14.34.59:362][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:362][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.09-14.34.59:362][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.09-14.34.59:363][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:363][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.09-14.34.59:363][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.09-14.34.59:363][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.09-14.34.59:363][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.09-14.34.59:374][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/M_FPGun'
+[2017.12.09-14.34.59:374][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/M_FPGun' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset.
+[2017.12.09-14.34.59:375][  0]LoadErrors: Error: /Game/VehicleAdv/GunMeshes/SK_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/M_FPGun
+[2017.12.09-14.34.59:375][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/M_FPGun'
+[2017.12.09-14.34.59:375][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/M_FPGun' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset.
+[2017.12.09-14.34.59:375][  0]LoadErrors: Error: /Game/VehicleAdv/GunMeshes/SK_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/M_FPGun
+[2017.12.09-14.34.59:375][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton'
+[2017.12.09-14.34.59:375][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset.
+[2017.12.09-14.34.59:375][  0]LoadErrors: Error: /Game/VehicleAdv/GunMeshes/SK_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2017.12.09-14.34.59:375][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton'
+[2017.12.09-14.34.59:376][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset.
+[2017.12.09-14.34.59:376][  0]LoadErrors: Error: /Game/VehicleAdv/GunMeshes/SK_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2017.12.09-14.35.00:022][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton'
+[2017.12.09-14.35.00:023][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton Referenced by SK_FPGun
+[2017.12.09-14.35.00:023][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton' while loading NULL.
+[2017.12.09-14.35.00:023][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton Referenced by SK_FPGun
+[2017.12.09-14.35.00:024][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/M_FPGun'
+[2017.12.09-14.35.00:024][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun Referenced by SK_FPGun
+[2017.12.09-14.35.00:024][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/M_FPGun' while loading NULL.
+[2017.12.09-14.35.00:024][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun Referenced by SK_FPGun
+[2017.12.09-14.35.00:029][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.09-14.35.00:030][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.09-14.35.00:030][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.09-14.35.00:030][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.09-14.35.00:030][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.09-14.35.00:030][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.09-14.35.00:030][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.09-14.35.00:031][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.09-14.35.00:031][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.09-14.35.00:031][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.09-14.35.00:031][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.09-14.35.00:031][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.09-14.35.00:031][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.09-14.35.00:031][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.09-14.35.00:031][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.09-14.35.00:032][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.09-14.35.00:032][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.09-14.35.00:032][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.09-14.35.00:032][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.09-14.35.00:032][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.09-14.35.00:032][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.09-14.35.00:032][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.09-14.35.00:032][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading NULL.
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.09-14.35.00:033][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading NULL.
+[2017.12.09-14.35.00:033][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.09-14.35.00:272][  0]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: Failed to compile Material /Game/VehicleAdv/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Missing Material Function
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.09-14.35.00:275][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.09-14.35.00:630][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.09-14.35.00:837][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.09-14.35.00:887][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.09-14.35.00:947][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.78ms to complete.
+[2017.12.09-14.35.00:947][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.887
+[2017.12.09-14.35.01:196][  0]LogCollectionManager: Loaded 0 collections in 0.001276 seconds
+[2017.12.09-14.35.01:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/Collections/' took 0.01s
+[2017.12.09-14.35.01:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/Developers/agsch/Collections/' took 0.01s
+[2017.12.09-14.35.01:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/Collections/' took 0.01s
+[2017.12.09-14.35.01:308][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.09-14.35.01:321][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2388 classes and 503 folders.
+[2017.12.09-14.35.01:385][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2017.12.09-14.35.01:872][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.09-14.35.01:930][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.09-14.35.02:025][  0]LogSlate: Took 0.012464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-14.35.02:034][  0]LogSlate: Took 0.006002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.09-14.35.02:049][  0]LogSlate: Took 0.006157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.09-14.35.02:239][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-14.35.02:551][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.09-14.35.02:551][  0]LogLoad: (Engine Initialization) Total time: 33.96 seconds
+[2017.12.09-14.35.02:551][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.09-14.35.02:552][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.09-14.35.02:572][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.09-14.35.02:572][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.09-14.35.02:572][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2017.12.09-14.35.02:572][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2017.12.09-14.35.02:572][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1
+[2017.12.09-14.35.02:596][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.09-14.35.02:691][  0]LogSlate: Took 0.010555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-14.35.02:760][  1]LogAssetRegistry: Asset discovery search completed in 20.3103 seconds
+[2017.12.09-14.35.02:763][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2017.12.09-14.35.02:763][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2017.12.09-14.35.09:990][404]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.10:895][456]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.10:913][457]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.10:929][458]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.10:946][459]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.10:973][460]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:006][461]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:032][462]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:062][463]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:092][464]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:123][465]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:156][466]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:183][467]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:214][468]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:244][469]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:275][470]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:306][471]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:339][472]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:367][473]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:396][474]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:426][475]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:456][476]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:488][477]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:516][478]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:546][479]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:576][480]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:606][481]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:639][482]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:666][483]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:696][484]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:726][485]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:757][486]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:789][487]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:820][488]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:850][489]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:880][490]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:910][491]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:940][492]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.11:971][493]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:004][494]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:032][495]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:063][496]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:093][497]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:124][498]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:188][500]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:217][501]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:235][502]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:262][503]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:293][504]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:323][505]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:354][506]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:386][507]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:415][508]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:445][509]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:475][510]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:506][511]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:540][512]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:568][513]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:598][514]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:629][515]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:661][516]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:690][517]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:721][518]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:754][519]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:781][520]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:811][521]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:842][522]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:872][523]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:904][524]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:936][525]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.12:963][526]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:072][530]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:088][531]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:103][532]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:121][533]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:139][534]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:173][535]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:198][536]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:229][537]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:260][538]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:760][564]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:776][565]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:793][566]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:810][567]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:837][568]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:867][569]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:896][570]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:926][571]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:956][572]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.13:990][573]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:056][574]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:070][575]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:088][576]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:110][577]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:173][579]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:223][580]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:237][581]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:254][582]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:279][583]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:309][584]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:339][585]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:369][586]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:400][587]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:430][588]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:461][589]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:490][590]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:521][591]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:555][592]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:582][593]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:612][594]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:739][599]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:756][600]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:773][601]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:790][602]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:806][603]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:913][607]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:930][608]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:946][609]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:963][610]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.14:981][611]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:012][612]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:042][613]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:072][614]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:105][615]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:134][616]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:163][617]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:194][618]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:224][619]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:254][620]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:289][621]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:320][622]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:356][623]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:380][624]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:412][625]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:441][626]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:476][627]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:506][628]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:534][629]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:564][630]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:594][631]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:625][632]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:654][633]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:686][634]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:715][635]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:744][636]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:775][637]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:805][638]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:839][639]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:865][640]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:895][641]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:925][642]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:957][643]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.15:989][644]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:016][645]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:559][675]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:575][676]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:593][677]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:622][678]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:655][679]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:682][680]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:712][681]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:742][682]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:773][683]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:807][684]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:832][685]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:864][686]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:894][687]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:924][688]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:954][689]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.16:986][690]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:014][691]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:045][692]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:075][693]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:105][694]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:139][695]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:167][696]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:196][697]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:227][698]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:258][699]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:288][700]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:322][701]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:356][702]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:379][703]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:409][704]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:440][705]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:471][706]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:505][707]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:531][708]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:562][709]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:592][710]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:623][711]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:656][712]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:683][713]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:716][714]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:744][715]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:774][716]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:805][717]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:838][718]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:865][719]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:896][720]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:926][721]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:956][722]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.17:987][723]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:022][724]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:049][725]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:079][726]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:110][727]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:170][729]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:205][730]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:222][731]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:248][732]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:278][733]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:309][734]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:339][735]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:370][736]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:405][737]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:430][738]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:460][739]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:491][740]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:522][741]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:650][746]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:666][747]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:683][748]LogAnimation: Warning: SkeletalMesh SK_FPGun has no skeleton. This needs to fixed before an animation can be set
+[2017.12.09-14.35.18:726][749]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-14.35.21:181][749]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2017.12.09-14.35.31:816][749]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.12.09-14.35.31:824][749]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.09-14.35.31:831][749]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.09-14.35.32:063][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.09-14.35.32:488][749]LogSlate: Took 0.004455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.09-14.35.32:550][749]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2017.12.09-14.35.32:557][749]LogRenderer: Reallocating scene render targets to support 964x672 Format 10 NumSamples 1 (Frame:1).
+[2017.12.09-14.35.48:977][504]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2017.12.09-14.35.48:985][504]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Missing Material Function
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.09-14.35.48:987][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.09-14.35.49:134][504]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Missing Material Function
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.09-14.35.49:136][504]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.09-14.35.49:166][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.12.09-14.35.49:173][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2017.12.09-14.35.49:175][504]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.09-14.35.49:177][504]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.09-14.35.49:191][504]LogSlate: Took 0.007304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.09-14.36.35:032][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.09-14.36.36:778][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdv/GunMeshes/SK_FPGun" FILE="../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset" SILENT=true
+[2017.12.09-14.36.36:846][624]LogSavePackage: Save=30.10ms
+[2017.12.09-14.36.36:846][624]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/SK_FPGun9F7861E14BF7EA37D6FC7785C9E5375E.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset'
+[2017.12.09-14.36.36:852][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/GunMeshes/SK_FPGun.uasset
+[2017.12.09-14.37.21:272][486]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CarBlueprints
+[2017.12.09-14.37.21:272][486]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.12.09-14.37.21:272][486]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.12.09-14.37.21:272][486]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.12.09-14.37.21:272][486]LogTemp: BranchPath = LAPTOP-QGRD1O7A/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = LAPTOP-QGRD1O7A/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.12.09-14.37.21:272][486]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\agsch\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.09-14.38.25:584][146]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.09-14.38.25:705][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.09-14.38.25:717][146]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 9, 2017, 4:38:25 AM)
+[2017.12.09-14.38.25:717][146]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.09-14.38.25:742][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025078s)
+[2017.12.09-14.38.25:743][146]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.09-14.38.25:743][146]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2017.12.09-14.38.25:743][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.026285s)
+[2017.12.09-14.38.25:768][146]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.09-14.38.25:804][146]LogInit: FAudioDevice initialized.
+[2017.12.09-14.38.25:849][146]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.09-14.38.25:859][146]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.09-09.38.25
+[2017.12.09-14.38.25:864][146]LogWorld: Bringing up level for play took: 0.012718
+[2017.12.09-14.38.25:917][146]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.12.09-14.38.25:926][146]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.791
+[2017.12.09-14.38.54:968][569]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.12.09-14.44.03:895][249]LogSavePackage: Save=52.72ms
+[2017.12.09-14.44.03:895][249]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/BP_BaseWeaponE961E56B4F0FCB846964D9AF42A4992F.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset'
+[2017.12.09-14.44.03:901][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset
+[2017.12.09-14.45.35:963][974]LogSlate: Took 0.008407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.09-14.46.36:422][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.035
+[2017.12.09-14.46.36:425][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2017.12.09-14.46.36:497][947]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2017.12.09-14.46.36:497][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2017.12.09-14.46.36:706][947]LogSavePackage: Save=197.89ms
+[2017.12.09-14.46.36:706][947]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/VehicleBlueprint_Auto12829D8EF40D30D45B8D2E2B4CB52F581.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset'
+[2017.12.09-14.46.36:708][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset
+[2017.12.09-14.46.36:709][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/BP_BaseWeapon] ([1] browsable assets)...
+[2017.12.09-14.46.36:779][947]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/BP_BaseWeapon.BP_BaseWeapon]
+[2017.12.09-14.46.36:779][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/BP_BaseWeapon]
+[2017.12.09-14.46.36:840][947]LogSavePackage: Save=53.70ms
+[2017.12.09-14.46.36:840][947]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/BP_BaseWeapon_Auto1E1F9258249219AE7609DC4B5E0C93432.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/BP_BaseWeapon_Auto1.uasset'
+[2017.12.09-14.46.36:841][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/BP_BaseWeapon_Auto1.uasset
+[2017.12.09-14.46.36:841][947]LogFileHelpers: Auto-saving content packages took 0.418
+[2017.12.09-14.50.03:017][897]BlueprintLog: New page: Compile BP_Projectile
+[2017.12.09-14.50.04:095][925]LogSavePackage: Save=26.99ms
+[2017.12.09-14.50.04:095][925]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/BP_ProjectileE01384CD44F9A222164426B3777AC018.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2017.12.09-14.50.04:098][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2017.12.09-14.50.26:339][559]BlueprintLog: New page: Compile BP_BaseWeapon
+[2017.12.09-14.50.35:304][635]LogSavePackage: Save=133.32ms
+[2017.12.09-14.50.35:305][635]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/BP_BaseWeaponBD1B66E649F7A3D2ADAF2CB1648A3BC7.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset'
+[2017.12.09-14.50.35:322][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset
+[2017.12.09-14.53.19:404][285]BlueprintLog: New page: Compile BP_BaseWeapon
+[2017.12.09-14.53.25:690][293]LogSavePackage: Save=477.73ms
+[2017.12.09-14.53.25:690][293]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Saved/BP_BaseWeapon8B46659B4509DED0452CE099A87C2C1D.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset'
+[2017.12.09-14.53.25:715][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Blueprints/BP_BaseWeapon.uasset
