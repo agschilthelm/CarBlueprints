@@ -1,0 +1,776 @@
+﻿Log file open, 12/16/17 19:54:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CarBlueprints
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1795745265) SRandInit(-1795745265).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.229766
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.17-00.54.31:975][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.17-00.54.31:975][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.17-00.54.31:996][  0]LogInit: Computer: DESKTOP-I9SMP4L
+[2017.12.17-00.54.31:996][  0]LogInit: User: AricsPC
+[2017.12.17-00.54.31:996][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.17-00.54.31:996][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2017.12.17-00.54.31:997][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.17-00.54.31:997][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.17-00.54.31:997][  0]LogMemory: Process Physical Memory: 278.29 MB used, 278.29 MB peak
+[2017.12.17-00.54.31:997][  0]LogMemory: Process Virtual Memory: 274.08 MB used, 274.08 MB peak
+[2017.12.17-00.54.31:997][  0]LogMemory: Physical Memory: 3730.11 MB used,  4335.14 MB free, 8065.26 MB total
+[2017.12.17-00.54.31:997][  0]LogMemory: Virtual Memory: 706.32 MB used,  4335.14 MB free, 134217728.00 MB total
+[2017.12.17-00.54.32:494][  0]LogInit: Using OS detected language (en-US).
+[2017.12.17-00.54.32:494][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.17-00.54.32:498][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.17-00.54.33:300][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.17-00.54.33:355][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.12.17-00.54.33:355][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.17-00.54.33:363][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.17-00.54.33:363][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.17-00.54.33:365][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.17-00.54.33:365][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.17-00.54.33:365][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.17-00.54.33:372][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.17-00.54.33:372][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.12.17-00.54.33:372][  0]LogWindows: EnumDisplayDevices:
+[2017.12.17-00.54.33:372][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.17-00.54.33:372][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.17-00.54.33:372][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.17-00.54.33:372][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.17-00.54.33:372][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.12.17-00.54.33:372][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.17-00.54.33:372][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.17-00.54.33:372][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.17-00.54.33:403][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.17-00.54.33:418][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.17-00.54.33:419][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Intermediate/Shaders/WorkingDirectory/13288/).
+[2017.12.17-00.54.33:419][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aric's PC/AppData/Local/Temp/UnrealShaderWorkingDir/3E3379EC469752C34EE08C80645360B7/'.
+[2017.12.17-00.54.33:419][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.17-00.54.34:527][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.17-00.54.34:621][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.17-00.54.34:714][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.17-00.54.34:811][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.17-00.54.34:909][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.17-00.54.35:005][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.17-00.54.35:099][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.17-00.54.35:192][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.17-00.54.35:279][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.17-00.54.35:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.17-00.54.35:472][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.17-00.54.35:564][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.17-00.54.35:643][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.17-00.54.35:742][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.17-00.54.35:840][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.17-00.54.36:017][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.17-00.54.36:017][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.17-00.54.36:100][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.17-00.54.36:285][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.17-00.54.36:336][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.17-00.54.36:425][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.17-00.54.36:520][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.17-00.54.36:614][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.17-00.54.36:707][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.17-00.54.36:707][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.17-00.54.37:659][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.17-00.54.37:773][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.17-00.54.37:773][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.17-00.54.37:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.17-00.54.37:774][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.17-00.54.37:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.17-00.54.37:774][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.17-00.54.37:792][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.17-00.54.37:805][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aric's PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.17-00.54.37:818][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.17-00.54.37:818][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.17-00.54.37:819][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.17-00.54.37:819][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.17-00.54.38:136][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2017.12.17-00.54.38:297][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.17-00.54.38:887][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.17-00.54.38:959][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.17-00.54.38:959][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.17-00.54.38:959][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.17-00.54.38:959][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.17-00.54.38:959][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.17-00.54.38:961][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.17-00.54.39:496][  0]LogNetVersion: CarBlueprints , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3571599761)
+[2017.12.17-00.54.39:799][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054630 seconds
+[2017.12.17-00.54.39:805][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.17-00.54.39:805][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.17-00.54.39:805][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.17-00.54.39:909][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.17-00.54.43:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.17-00.54.43:560][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.17-00.54.44:585][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.17-00.54.45:219][  0]SourceControl: Source control is disabled
+[2017.12.17-00.54.45:219][  0]SourceControl: Source control is disabled
+[2017.12.17-00.54.45:296][  0]SourceControl: Source control is disabled
+[2017.12.17-00.54.45:375][  0]SourceControl: Source control is disabled
+[2017.12.17-00.54.46:405][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.17-00.54.46:805][  0]LogOcInput: OculusInput pre-init called
+[2017.12.17-00.54.47:204][  0]LogEngine: Initializing Engine...
+[2017.12.17-00.54.47:206][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.17-00.54.47:459][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.17-00.54.47:459][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.17-00.54.47:672][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.17-00.54.47:682][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.54.47:994][  0]LogInit: FAudioDevice initialized.
+[2017.12.17-00.54.48:187][  0]LogDerivedDataCache: Saved boot cache 0.19s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.17-00.54.48:215][  0]LogInit: Texture streaming: Enabled
+[2017.12.17-00.54.48:406][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.17-00.54.48:760][  0]LogInit: Transaction tracking system initialized
+[2017.12.17-00.54.49:287][  0]BlueprintLog: New page: Editor Load
+[2017.12.17-00.54.50:790][  0]LocalizationService: Localization service is disabled
+[2017.12.17-00.54.52:007][  0]LogConsoleResponse: Display: 
+[2017.12.17-00.54.52:248][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.17-00.54.52:248][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.17-00.54.52:248][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.17-00.54.53:413][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' took 0.02s
+[2017.12.17-00.54.54:026][  0]SourceControl: Source control is disabled
+[2017.12.17-00.54.54:026][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.17-00.54.54:027][  0]LightingResults: New page: Lighting Build
+[2017.12.17-00.54.54:095][  0]MapCheck: New page: Map Check
+[2017.12.17-00.54.54:095][  0]LightingResults: New page: Lighting Build
+[2017.12.17-00.54.54:266][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.54.54:266][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:266][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:266][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:266][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.17-00.54.54:267][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.54.54:267][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:267][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:267][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:267][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.17-00.54.54:267][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.54.54:267][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:267][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:267][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:267][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.17-00.54.54:267][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.54.54:267][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:268][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:268][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:268][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.17-00.54.54:270][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.54.54:270][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:270][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:270][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:270][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.17-00.54.54:270][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.54.54:270][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:270][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:270][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:270][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.17-00.54.54:271][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.54.54:271][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:271][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:271][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:271][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.17-00.54.54:271][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.54.54:271][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:271][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:271][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:272][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.17-00.54.54:272][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.54.54:272][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:272][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:272][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:272][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.17-00.54.54:272][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.54.54:272][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:272][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:272][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:273][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.17-00.54.54:273][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.54.54:273][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:273][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:273][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:273][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.17-00.54.54:273][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.54.54:273][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:273][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.54.54:273][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.54.54:273][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.17-00.54.54:646][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.54.54:646][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.17-00.54.54:646][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.17-00.54.54:646][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.17-00.54.54:646][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.54.54:646][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.17-00.54.54:647][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.17-00.54.54:647][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.17-00.54.54:647][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.54.54:647][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.17-00.54.54:647][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.17-00.54.54:647][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.17-00.54.54:647][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.54.54:647][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.17-00.54.54:647][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.17-00.54.54:647][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.17-00.54.54:648][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.54.54:648][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.17-00.54.54:648][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.17-00.54.54:648][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.17-00.54.54:648][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.54.54:648][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.17-00.54.54:648][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.17-00.54.54:648][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.17-00.54.54:649][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.54.54:649][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.17-00.54.54:649][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.17-00.54.54:649][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.17-00.54.54:649][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.54.54:649][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.17-00.54.54:649][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.17-00.54.54:649][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.17-00.54.54:649][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.54.54:649][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.17-00.54.54:650][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading NULL.
+[2017.12.17-00.54.54:650][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.17-00.54.54:650][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.54.54:650][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.17-00.54.54:650][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading NULL.
+[2017.12.17-00.54.54:650][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.17-00.54.54:835][  0]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: Failed to compile Material /Game/VehicleAdv/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Missing Material Function
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.17-00.54.54:837][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.17-00.54.55:036][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.54.55:071][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.17-00.54.55:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.17-00.54.55:192][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.201ms to complete.
+[2017.12.17-00.54.55:192][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.166
+[2017.12.17-00.54.55:417][  0]LogCollectionManager: Loaded 0 collections in 0.001986 seconds
+[2017.12.17-00.54.55:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Collections/' took 0.01s
+[2017.12.17-00.54.55:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Developers/AricsPC/Collections/' took 0.01s
+[2017.12.17-00.54.55:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Collections/' took 0.01s
+[2017.12.17-00.54.55:528][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.17-00.54.55:537][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2388 classes and 503 folders.
+[2017.12.17-00.54.55:643][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.12.17-00.54.55:699][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.12.17-00.54.55:767][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.17-00.54.55:790][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.17-00.54.55:792][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.17-00.54.55:802][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.17-00.54.55:918][  0]LogRenderer: Reallocating scene render targets to support 932x436 Format 10 NumSamples 1 (Frame:1).
+[2017.12.17-00.54.56:156][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.12.17-00.54.56:156][  0]LogLoad: (Engine Initialization) Total time: 26.47 seconds
+[2017.12.17-00.54.56:156][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.17-00.54.56:157][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.17-00.54.56:157][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.17-00.54.56:175][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.17-00.54.56:177][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.17-00.54.56:177][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.17-00.54.56:177][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2017.12.17-00.54.56:177][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2017.12.17-00.54.56:177][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1
+[2017.12.17-00.54.56:197][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.17-00.54.56:253][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.54.56:320][  1]LogAssetRegistry: Asset discovery search completed in 18.2068 seconds
+[2017.12.17-00.54.56:322][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.17-00.54.56:322][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.12.17-00.54.57:206][ 40]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.55.03:714][427]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.55.04:164][427]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.12.17-00.55.04:856][427]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.17-00.55.04:968][427]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.17-00.55.05:421][428]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.17-00.55.09:382][594]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.55.09:429][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.55.09:429][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.55.09:430][594]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:55:09 PM)
+[2017.12.17-00.55.09:430][594]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.55.09:463][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032984s)
+[2017.12.17-00.55.09:464][594]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.55.09:464][594]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2017.12.17-00.55.09:465][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.034546s)
+[2017.12.17-00.55.09:488][594]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.55.09:504][594]LogInit: FAudioDevice initialized.
+[2017.12.17-00.55.09:548][594]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.55.09:573][594]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.55.09
+[2017.12.17-00.55.09:575][594]LogWorld: Bringing up level for play took: 0.017180
+[2017.12.17-00.55.09:655][594]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.17-00.55.09:659][594]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.564
+[2017.12.17-00.55.09:659][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.55.12:519][750]LogBlueprintUserMessages: [BP_Weapon_Pickup2_68] Seocndary Added
+[2017.12.17-00.55.14:673][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.55.14:712][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.59.19:363][518]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.17-00.59.19:739][518]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.17-00.59.19:869][518]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.17-00.59.20:373][518]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2017.12.17-00.59.20:395][518]LogRenderer: Reallocating scene render targets to support 932x672 Format 10 NumSamples 1 (Frame:1).
+[2017.12.17-00.59.25:040][762]LogStaticMesh: Building static mesh VehicleBodyCollision...
+[2017.12.17-00.59.25:126][762]LogStaticMesh: Built static mesh [0.09s] /Game/VehicleAdv/Vehicle/VehicleBodyCollision.VehicleBodyCollision
+[2017.12.17-00.59.25:763][762]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2017.12.17-01.00.41:988][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.17-01.00.42:038][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.12.17-01.00.47:333][329]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.17-01.00.47:366][329]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.17-01.02.06:525][537]LogStaticMesh: Building static mesh VehicleBodyCollision...
+[2017.12.17-01.02.06:525][537]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.17-01.02.06:569][537]LogStaticMesh: Built static mesh [0.04s] /Game/VehicleAdv/Vehicle/VehicleBodyCollision.VehicleBodyCollision
+[2017.12.17-01.02.06:579][537]LogStaticMesh: Warning: VehicleBodyCollision has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.17-01.02.12:108][803]LogSavePackage: Save=15.26ms
+[2017.12.17-01.02.12:108][803]LogSavePackage: Moving '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/VehicleBodyCollision86E7AA934FF5D80A0673FCA76E646C0C.tmp' to '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset'
+[2017.12.17-01.02.12:113][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset
+[2017.12.17-01.02.15:306][961]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-01.02.15:324][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.15:325][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-01.02.15:325][961]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 3:02:15 PM)
+[2017.12.17-01.02.15:325][961]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-01.02.15:357][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031393s)
+[2017.12.17-01.02.15:357][961]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-01.02.15:358][961]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2017.12.17-01.02.15:358][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.032726s)
+[2017.12.17-01.02.15:386][961]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-01.02.15:401][961]LogInit: FAudioDevice initialized.
+[2017.12.17-01.02.15:433][961]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-01.02.15:442][961]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-20.02.15
+[2017.12.17-01.02.15:443][961]LogWorld: Bringing up level for play took: 0.007318
+[2017.12.17-01.02.15:446][961]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.777
+[2017.12.17-01.02.15:446][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.21:397][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.21:437][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.40:826][280]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-01.02.43:365][354]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-01.02.43:413][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.43:414][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-01.02.43:414][354]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 3:02:43 PM)
+[2017.12.17-01.02.43:414][354]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-01.02.43:447][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033160s)
+[2017.12.17-01.02.43:448][354]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-01.02.43:448][354]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2017.12.17-01.02.43:449][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.034311s)
+[2017.12.17-01.02.43:469][354]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-01.02.43:485][354]LogInit: FAudioDevice initialized.
+[2017.12.17-01.02.43:516][354]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-01.02.43:528][354]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-20.02.43
+[2017.12.17-01.02.43:529][354]LogWorld: Bringing up level for play took: 0.007216
+[2017.12.17-01.02.43:532][354]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.691
+[2017.12.17-01.02.43:532][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.51:999][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.02.52:041][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.03.37:323][336]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-01.03.40:620][458]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-01.03.40:667][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.03.40:667][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-01.03.40:668][458]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 3:03:40 PM)
+[2017.12.17-01.03.40:668][458]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-01.03.40:701][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032902s)
+[2017.12.17-01.03.40:701][458]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-01.03.40:702][458]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2017.12.17-01.03.40:702][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.034448s)
+[2017.12.17-01.03.40:725][458]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-01.03.40:740][458]LogInit: FAudioDevice initialized.
+[2017.12.17-01.03.40:775][458]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-01.03.40:787][458]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-20.03.40
+[2017.12.17-01.03.40:788][458]LogWorld: Bringing up level for play took: 0.007501
+[2017.12.17-01.03.40:790][458]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.568
+[2017.12.17-01.03.40:791][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.03.48:137][896]LogBlueprintUserMessages: [BP_Weapon_Pickup2_68] Seocndary Added
+[2017.12.17-01.04.05:040][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.04.05:082][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-01.04.11:090][104]Cmd: QUIT_EDITOR
+[2017.12.17-01.04.11:423][104]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.17-01.04.11:453][104]LogExit: Preparing to exit.
+[2017.12.17-01.04.12:015][104]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' was aborted.
+[2017.12.17-01.04.12:064][104]LogExit: Editor shut down
+[2017.12.17-01.04.12:069][104]LogExit: Transaction tracking system shut down
+[2017.12.17-01.04.12:262][104]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.17-01.04.12:262][104]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' was aborted.
+[2017.12.17-01.04.12:263][104]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.17-01.04.12:263][104]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.17-01.04.12:263][104]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.17-01.04.12:343][104]LogExit: Object subsystem successfully closed.
+[2017.12.17-01.04.12:364][104]LogD3D11RHI: Shutdown
+[2017.12.17-01.04.12:364][104]LogD3D11RHI: CleanupD3DDevice
+[2017.12.17-01.04.12:488][104]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (546)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (544)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module SkeletonEditor (542)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (540)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.12.17-01.04.12:509][104]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.12.17-01.04.12:509][104]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.17-01.04.12:510][104]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.12.17-01.04.12:510][104]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.12.17-01.04.12:510][104]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.12.17-01.04.12:510][104]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Collections/' was aborted.
+[2017.12.17-01.04.12:510][104]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Developers/AricsPC/Collections/' was aborted.
+[2017.12.17-01.04.12:510][104]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Collections/' was aborted.
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.17-01.04.12:511][104]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.17-01.04.12:512][104]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.17-01.04.12:512][104]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.17-01.04.12:512][104]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.17-01.04.12:512][104]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.17-01.04.12:615][104]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.17-01.04.12:616][104]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.17-01.04.12:617][104]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.17-01.04.12:670][104]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.17-01.04.12:671][104]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.17-01.04.12:671][104]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.17-01.04.12:671][104]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.17-01.04.12:671][104]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.17-01.04.12:692][104]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.12.17-01.04.12:693][104]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.12.17-01.04.12:694][104]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.12.17-01.04.12:862][104]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module RawInput (310)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.17-01.04.12:863][104]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.17-01.04.12:864][104]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.17-01.04.12:866][104]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.17-01.04.12:866][104]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.17-01.04.12:866][104]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.17-01.04.12:868][104]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.17-01.04.12:969][104]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.17-01.04.13:069][104]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.17-01.04.13:072][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.17-01.04.13:072][104]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.17-01.04.13:072][104]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.17-01.04.13:072][104]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.17-01.04.13:077][104]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.17-01.04.13:078][104]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.17-01.04.13:086][104]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.17-01.04.13:087][104]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.17-01.04.13:089][104]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.17-01.04.13:094][104]LogDerivedDataCache: Shutdown
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.17-01.04.13:094][104]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.17-01.04.13:095][104]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.17-01.04.13:096][104]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.17-01.04.13:097][104]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.17-01.04.13:098][104]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.17-01.04.13:098][104]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.17-01.04.13:098][104]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.17-01.04.13:098][104]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.17-01.04.13:098][104]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.17-01.04.13:098][104]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.17-01.04.13:098][104]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.17-01.04.13:098][104]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B89ED070C-4916-01D1-91BC-0582E13D4BA8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=cd1f60b7479b32bd24c174b1375c1b70%7C4ba7aa541e964517b0d99766beec29d1%7Cb30741d6-520e-4fea-be44-def22d0e3946&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.17-01.04.13:112][104]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.17-01.04.13:116][104]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.17-01.04.13:116][104]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.17-01.04.13:116][104]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.17-01.04.13:117][104]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.17-01.04.13:117][104]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.17-01.04.13:117][104]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.17-01.04.13:117][104]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.17-01.04.13:120][104]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.17-01.04.13:121][104]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.17-01.04.13:130][104]LogExit: Exiting.
+[2017.12.17-01.04.13:173][104]Log file closed, 12/16/17 20:04:13

@@ -1,0 +1,1671 @@
+﻿Log file open, 12/16/17 19:13:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CarBlueprints
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1231990130) SRandInit(1231990130).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227947
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.17-00.13.19:960][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.17-00.13.19:960][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.17-00.13.19:972][  0]LogInit: Computer: DESKTOP-I9SMP4L
+[2017.12.17-00.13.19:972][  0]LogInit: User: AricsPC
+[2017.12.17-00.13.19:972][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.17-00.13.19:972][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2017.12.17-00.13.19:973][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.17-00.13.19:973][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.17-00.13.19:973][  0]LogMemory: Process Physical Memory: 278.17 MB used, 278.17 MB peak
+[2017.12.17-00.13.19:973][  0]LogMemory: Process Virtual Memory: 276.14 MB used, 276.14 MB peak
+[2017.12.17-00.13.19:973][  0]LogMemory: Physical Memory: 3779.67 MB used,  4285.59 MB free, 8065.26 MB total
+[2017.12.17-00.13.19:973][  0]LogMemory: Virtual Memory: 708.39 MB used,  4285.59 MB free, 134217728.00 MB total
+[2017.12.17-00.13.21:077][  0]LogInit: Using OS detected language (en-US).
+[2017.12.17-00.13.21:078][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.17-00.13.21:082][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.17-00.13.21:872][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.17-00.13.21:922][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.12.17-00.13.21:922][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.17-00.13.21:931][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.17-00.13.21:931][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.17-00.13.21:933][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.17-00.13.21:933][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.17-00.13.21:933][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.17-00.13.21:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.17-00.13.21:940][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.12.17-00.13.21:940][  0]LogWindows: EnumDisplayDevices:
+[2017.12.17-00.13.21:940][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.17-00.13.21:940][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.17-00.13.21:940][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.17-00.13.21:940][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.17-00.13.21:940][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.12.17-00.13.21:940][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.17-00.13.21:940][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.17-00.13.21:940][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.17-00.13.21:971][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.17-00.13.21:987][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.17-00.13.21:987][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Intermediate/Shaders/WorkingDirectory/14956/).
+[2017.12.17-00.13.21:988][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aric's PC/AppData/Local/Temp/UnrealShaderWorkingDir/D84FEAD44D7DF63E7D5656B84A57AE9A/'.
+[2017.12.17-00.13.21:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.17-00.13.23:084][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.17-00.13.23:175][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.17-00.13.23:267][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.17-00.13.23:362][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.17-00.13.23:452][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.17-00.13.23:545][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.17-00.13.23:641][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.17-00.13.23:739][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.17-00.13.23:828][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.17-00.13.23:921][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.17-00.13.24:014][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.17-00.13.24:107][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.17-00.13.24:184][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.17-00.13.24:274][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.17-00.13.24:364][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.17-00.13.24:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.17-00.13.24:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.17-00.13.24:613][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.17-00.13.24:799][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.17-00.13.24:844][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.17-00.13.24:937][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.17-00.13.25:028][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.17-00.13.25:117][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.17-00.13.25:209][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.17-00.13.25:209][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.17-00.13.26:166][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.17-00.13.26:269][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.17-00.13.26:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.17-00.13.26:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.17-00.13.26:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.17-00.13.26:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.17-00.13.26:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.17-00.13.26:288][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.17-00.13.26:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aric's PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.17-00.13.26:311][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.17-00.13.26:312][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.17-00.13.26:312][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.17-00.13.26:312][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.17-00.13.26:603][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2017.12.17-00.13.26:760][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.17-00.13.26:946][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.17-00.13.27:442][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.17-00.13.27:515][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.17-00.13.27:515][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.17-00.13.27:515][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.17-00.13.27:515][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.17-00.13.27:515][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.17-00.13.27:962][  0]LogNetVersion: CarBlueprints , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3571599761)
+[2017.12.17-00.13.28:255][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.048853 seconds
+[2017.12.17-00.13.28:261][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.17-00.13.28:261][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.17-00.13.28:261][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.17-00.13.28:376][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.17-00.13.32:147][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.17-00.13.32:206][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.17-00.13.33:200][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.17-00.13.33:825][  0]SourceControl: Source control is disabled
+[2017.12.17-00.13.33:825][  0]SourceControl: Source control is disabled
+[2017.12.17-00.13.33:903][  0]SourceControl: Source control is disabled
+[2017.12.17-00.13.33:981][  0]SourceControl: Source control is disabled
+[2017.12.17-00.13.35:016][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.17-00.13.35:410][  0]LogOcInput: OculusInput pre-init called
+[2017.12.17-00.13.35:803][  0]LogEngine: Initializing Engine...
+[2017.12.17-00.13.35:805][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.17-00.13.36:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.17-00.13.36:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.17-00.13.36:269][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.17-00.13.36:279][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.13.36:646][  0]LogInit: FAudioDevice initialized.
+[2017.12.17-00.13.36:852][  0]LogDerivedDataCache: Saved boot cache 0.21s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.17-00.13.36:880][  0]LogInit: Texture streaming: Enabled
+[2017.12.17-00.13.37:078][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.17-00.13.37:429][  0]LogInit: Transaction tracking system initialized
+[2017.12.17-00.13.37:957][  0]BlueprintLog: New page: Editor Load
+[2017.12.17-00.13.39:434][  0]LocalizationService: Localization service is disabled
+[2017.12.17-00.13.40:648][  0]LogConsoleResponse: Display: 
+[2017.12.17-00.13.40:890][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.17-00.13.40:890][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.17-00.13.40:890][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.17-00.13.42:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' took 0.02s
+[2017.12.17-00.13.42:644][  0]SourceControl: Source control is disabled
+[2017.12.17-00.13.42:644][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.17-00.13.42:644][  0]LightingResults: New page: Lighting Build
+[2017.12.17-00.13.42:714][  0]MapCheck: New page: Map Check
+[2017.12.17-00.13.42:715][  0]LightingResults: New page: Lighting Build
+[2017.12.17-00.13.42:892][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.13.42:892][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:892][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:892][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:892][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.17-00.13.42:893][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.13.42:893][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:893][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:893][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:893][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.17-00.13.42:893][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.13.42:893][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:893][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:893][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:893][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.17-00.13.42:893][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.13.42:893][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:894][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:894][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:894][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.17-00.13.42:896][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.13.42:896][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:896][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:896][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:896][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2017.12.17-00.13.42:896][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.13.42:896][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:896][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:896][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:896][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2017.12.17-00.13.42:896][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.13.42:897][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:897][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:897][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:897][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2017.12.17-00.13.42:897][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.13.42:897][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:897][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:897][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:897][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2017.12.17-00.13.42:897][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.13.42:897][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:898][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.17-00.13.42:898][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.13.42:898][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:898][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.17-00.13.42:898][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.13.42:898][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:898][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:898][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2017.12.17-00.13.42:899][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.13.42:899][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:899][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2017.12.17-00.13.42:899][  0]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2017.12.17-00.13.42:899][  0]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2017.12.17-00.13.43:243][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.13.43:243][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.17-00.13.43:243][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.17-00.13.43:244][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2017.12.17-00.13.43:244][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.13.43:244][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.17-00.13.43:244][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.17-00.13.43:244][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2017.12.17-00.13.43:244][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.13.43:244][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.17-00.13.43:244][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.17-00.13.43:244][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2017.12.17-00.13.43:245][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.13.43:245][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.17-00.13.43:245][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.17-00.13.43:245][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2017.12.17-00.13.43:245][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2017.12.17-00.13.43:245][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.17-00.13.43:245][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2017.12.17-00.13.43:245][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2017.12.17-00.13.43:246][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2017.12.17-00.13.43:246][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.17-00.13.43:246][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2017.12.17-00.13.43:246][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2017.12.17-00.13.43:246][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2017.12.17-00.13.43:246][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.17-00.13.43:246][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2017.12.17-00.13.43:246][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2017.12.17-00.13.43:247][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2017.12.17-00.13.43:247][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.17-00.13.43:247][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2017.12.17-00.13.43:247][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2017.12.17-00.13.43:247][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2017.12.17-00.13.43:247][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.17-00.13.43:247][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading NULL.
+[2017.12.17-00.13.43:247][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2017.12.17-00.13.43:247][  0]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2017.12.17-00.13.43:247][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.17-00.13.43:248][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading NULL.
+[2017.12.17-00.13.43:248][  0]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.12.17-00.13.43:333][  0]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: Failed to compile Material /Game/VehicleAdv/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: 	Missing Material Function
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2017.12.17-00.13.43:335][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.12.17-00.13.43:336][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.12.17-00.13.43:336][  0]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.12.17-00.13.43:666][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.13.43:703][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.17-00.13.43:739][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.17-00.13.43:825][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.616ms to complete.
+[2017.12.17-00.13.43:825][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.181
+[2017.12.17-00.13.44:026][  0]LogCollectionManager: Loaded 0 collections in 0.002435 seconds
+[2017.12.17-00.13.44:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Collections/' took 0.01s
+[2017.12.17-00.13.44:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Developers/AricsPC/Collections/' took 0.01s
+[2017.12.17-00.13.44:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Collections/' took 0.01s
+[2017.12.17-00.13.44:137][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.17-00.13.44:146][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2388 classes and 503 folders.
+[2017.12.17-00.13.44:258][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.17-00.13.44:315][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.12.17-00.13.44:387][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.17-00.13.44:412][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.17-00.13.44:416][  0]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.17-00.13.44:425][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.17-00.13.44:541][  0]LogRenderer: Reallocating scene render targets to support 932x436 Format 10 NumSamples 1 (Frame:1).
+[2017.12.17-00.13.44:791][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.12.17-00.13.44:792][  0]LogLoad: (Engine Initialization) Total time: 27.18 seconds
+[2017.12.17-00.13.44:792][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.17-00.13.44:792][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.17-00.13.44:792][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.17-00.13.44:810][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.17-00.13.44:812][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.17-00.13.44:812][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2017.12.17-00.13.44:812][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2017.12.17-00.13.44:812][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2017.12.17-00.13.44:812][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1
+[2017.12.17-00.13.44:832][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.17-00.13.44:885][  0]LogSlate: Took 0.001116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.13.44:945][  1]LogAssetRegistry: Asset discovery search completed in 18.3635 seconds
+[2017.12.17-00.13.44:948][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.12.17-00.13.44:948][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2017.12.17-00.13.53:497][487]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.13.53:600][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.13.53:600][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.13.53:600][487]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:13:53 PM)
+[2017.12.17-00.13.53:600][487]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.13.53:631][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031032s)
+[2017.12.17-00.13.53:632][487]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.13.53:633][487]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2017.12.17-00.13.53:633][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.032483s)
+[2017.12.17-00.13.53:645][487]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.13.53:661][487]LogInit: FAudioDevice initialized.
+[2017.12.17-00.13.53:706][487]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.13.53:717][487]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.13.53
+[2017.12.17-00.13.53:718][487]LogWorld: Bringing up level for play took: 0.007403
+[2017.12.17-00.13.53:785][487]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.12.17-00.13.53:815][487]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.407
+[2017.12.17-00.13.53:816][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.14.03:588][ 61]LogBlueprintUserMessages: [VehicleBlueprint2_698] 99
+[2017.12.17-00.14.03:772][ 72]LogBlueprintUserMessages: [VehicleBlueprint2_698] 98
+[2017.12.17-00.14.04:038][ 88]LogBlueprintUserMessages: [VehicleBlueprint2_698] 97
+[2017.12.17-00.14.04:221][ 99]LogBlueprintUserMessages: [VehicleBlueprint2_698] 96
+[2017.12.17-00.14.04:421][111]LogBlueprintUserMessages: [VehicleBlueprint2_698] 95
+[2017.12.17-00.14.04:588][121]LogBlueprintUserMessages: [VehicleBlueprint2_698] 94
+[2017.12.17-00.14.04:788][133]LogBlueprintUserMessages: [VehicleBlueprint2_698] 93
+[2017.12.17-00.14.05:221][159]LogBlueprintUserMessages: [VehicleBlueprint2_698] 92
+[2017.12.17-00.14.05:389][169]LogBlueprintUserMessages: [VehicleBlueprint2_698] 91
+[2017.12.17-00.14.05:571][180]LogBlueprintUserMessages: [VehicleBlueprint2_698] 90
+[2017.12.17-00.14.05:755][191]LogBlueprintUserMessages: [VehicleBlueprint2_698] 89
+[2017.12.17-00.14.05:938][202]LogBlueprintUserMessages: [VehicleBlueprint2_698] 88
+[2017.12.17-00.14.06:122][213]LogBlueprintUserMessages: [VehicleBlueprint2_698] 87
+[2017.12.17-00.14.06:305][224]LogBlueprintUserMessages: [VehicleBlueprint2_698] 86
+[2017.12.17-00.14.06:439][232]LogBlueprintUserMessages: [VehicleBlueprint2_698] 85
+[2017.12.17-00.14.06:622][243]LogBlueprintUserMessages: [VehicleBlueprint2_698] 84
+[2017.12.17-00.14.06:805][254]LogBlueprintUserMessages: [VehicleBlueprint2_698] 83
+[2017.12.17-00.14.06:988][265]LogBlueprintUserMessages: [VehicleBlueprint2_698] 82
+[2017.12.17-00.14.07:172][276]LogBlueprintUserMessages: [VehicleBlueprint2_698] 81
+[2017.12.17-00.14.07:372][288]LogBlueprintUserMessages: [VehicleBlueprint2_698] 80
+[2017.12.17-00.14.07:539][298]LogBlueprintUserMessages: [VehicleBlueprint2_698] 79
+[2017.12.17-00.14.07:722][309]LogBlueprintUserMessages: [VehicleBlueprint2_698] 78
+[2017.12.17-00.14.07:888][319]LogBlueprintUserMessages: [VehicleBlueprint2_698] 77
+[2017.12.17-00.14.08:089][331]LogBlueprintUserMessages: [VehicleBlueprint2_698] 76
+[2017.12.17-00.14.08:255][341]LogBlueprintUserMessages: [VehicleBlueprint2_698] 75
+[2017.12.17-00.14.08:438][352]LogBlueprintUserMessages: [VehicleBlueprint2_698] 74
+[2017.12.17-00.14.08:622][363]LogBlueprintUserMessages: [VehicleBlueprint2_698] 73
+[2017.12.17-00.14.08:772][372]LogBlueprintUserMessages: [VehicleBlueprint2_698] 72
+[2017.12.17-00.14.08:955][383]LogBlueprintUserMessages: [VehicleBlueprint2_698] 71
+[2017.12.17-00.14.09:139][394]LogBlueprintUserMessages: [VehicleBlueprint2_698] 70
+[2017.12.17-00.14.09:305][404]LogBlueprintUserMessages: [VehicleBlueprint2_698] 69
+[2017.12.17-00.14.18:942][982]LogBlueprintUserMessages: [VehicleBlueprint2_698] 68
+[2017.12.17-00.14.19:324][  5]LogBlueprintUserMessages: [VehicleBlueprint2_698] 67
+[2017.12.17-00.14.19:474][ 14]LogBlueprintUserMessages: [VehicleBlueprint2_698] 66
+[2017.12.17-00.14.19:624][ 23]LogBlueprintUserMessages: [VehicleBlueprint2_698] 65
+[2017.12.17-00.14.19:758][ 31]LogBlueprintUserMessages: [VehicleBlueprint2_698] 64
+[2017.12.17-00.14.19:925][ 41]LogBlueprintUserMessages: [VehicleBlueprint2_698] 63
+[2017.12.17-00.14.20:091][ 51]LogBlueprintUserMessages: [VehicleBlueprint2_698] 62
+[2017.12.17-00.14.20:224][ 59]LogBlueprintUserMessages: [VehicleBlueprint2_698] 61
+[2017.12.17-00.14.20:391][ 69]LogBlueprintUserMessages: [VehicleBlueprint2_698] 60
+[2017.12.17-00.14.20:974][104]LogBlueprintUserMessages: [VehicleBlueprint2_698] 59
+[2017.12.17-00.14.21:174][116]LogBlueprintUserMessages: [VehicleBlueprint2_698] 58
+[2017.12.17-00.14.21:957][163]LogBlueprintUserMessages: [VehicleBlueprint2_698] 57
+[2017.12.17-00.14.22:158][175]LogBlueprintUserMessages: [VehicleBlueprint2_698] 56
+[2017.12.17-00.14.22:358][187]LogBlueprintUserMessages: [VehicleBlueprint2_698] 55
+[2017.12.17-00.14.22:558][199]LogBlueprintUserMessages: [VehicleBlueprint2_698] 54
+[2017.12.17-00.14.22:758][211]LogBlueprintUserMessages: [VehicleBlueprint2_698] 53
+[2017.12.17-00.14.22:958][223]LogBlueprintUserMessages: [VehicleBlueprint2_698] 52
+[2017.12.17-00.14.23:158][235]LogBlueprintUserMessages: [VehicleBlueprint2_698] 51
+[2017.12.17-00.14.23:358][247]LogBlueprintUserMessages: [VehicleBlueprint2_698] 50
+[2017.12.17-00.14.23:557][259]LogBlueprintUserMessages: [VehicleBlueprint2_698] 49
+[2017.12.17-00.14.23:758][271]LogBlueprintUserMessages: [VehicleBlueprint2_698] 48
+[2017.12.17-00.14.23:958][283]LogBlueprintUserMessages: [VehicleBlueprint2_698] 47
+[2017.12.17-00.14.24:157][295]LogBlueprintUserMessages: [VehicleBlueprint2_698] 46
+[2017.12.17-00.14.24:358][307]LogBlueprintUserMessages: [VehicleBlueprint2_698] 45
+[2017.12.17-00.14.24:557][319]LogBlueprintUserMessages: [VehicleBlueprint2_698] 44
+[2017.12.17-00.14.24:758][331]LogBlueprintUserMessages: [VehicleBlueprint2_698] 43
+[2017.12.17-00.14.24:958][343]LogBlueprintUserMessages: [VehicleBlueprint2_698] 42
+[2017.12.17-00.14.25:158][355]LogBlueprintUserMessages: [VehicleBlueprint2_698] 41
+[2017.12.17-00.14.25:358][367]LogBlueprintUserMessages: [VehicleBlueprint2_698] 40
+[2017.12.17-00.14.25:558][379]LogBlueprintUserMessages: [VehicleBlueprint2_698] 39
+[2017.12.17-00.14.25:758][391]LogBlueprintUserMessages: [VehicleBlueprint2_698] 38
+[2017.12.17-00.14.25:958][403]LogBlueprintUserMessages: [VehicleBlueprint2_698] 37
+[2017.12.17-00.14.26:158][415]LogBlueprintUserMessages: [VehicleBlueprint2_698] 36
+[2017.12.17-00.14.26:358][427]LogBlueprintUserMessages: [VehicleBlueprint2_698] 35
+[2017.12.17-00.14.26:558][439]LogBlueprintUserMessages: [VehicleBlueprint2_698] 34
+[2017.12.17-00.14.26:758][451]LogBlueprintUserMessages: [VehicleBlueprint2_698] 33
+[2017.12.17-00.14.26:974][464]LogBlueprintUserMessages: [VehicleBlueprint2_698] 32
+[2017.12.17-00.14.27:175][476]LogBlueprintUserMessages: [VehicleBlueprint2_698] 31
+[2017.12.17-00.14.27:375][488]LogBlueprintUserMessages: [VehicleBlueprint2_698] 30
+[2017.12.17-00.14.27:574][500]LogBlueprintUserMessages: [VehicleBlueprint2_698] 29
+[2017.12.17-00.14.27:758][511]LogBlueprintUserMessages: [VehicleBlueprint2_698] 28
+[2017.12.17-00.14.27:958][523]LogBlueprintUserMessages: [VehicleBlueprint2_698] 27
+[2017.12.17-00.14.28:158][535]LogBlueprintUserMessages: [VehicleBlueprint2_698] 26
+[2017.12.17-00.14.28:358][547]LogBlueprintUserMessages: [VehicleBlueprint2_698] 25
+[2017.12.17-00.14.28:575][560]LogBlueprintUserMessages: [VehicleBlueprint2_698] 24
+[2017.12.17-00.14.28:774][572]LogBlueprintUserMessages: [VehicleBlueprint2_698] 23
+[2017.12.17-00.14.28:975][584]LogBlueprintUserMessages: [VehicleBlueprint2_698] 22
+[2017.12.17-00.14.29:175][596]LogBlueprintUserMessages: [VehicleBlueprint2_698] 21
+[2017.12.17-00.14.29:375][608]LogBlueprintUserMessages: [VehicleBlueprint2_698] 20
+[2017.12.17-00.14.29:574][620]LogBlueprintUserMessages: [VehicleBlueprint2_698] 19
+[2017.12.17-00.14.29:775][632]LogBlueprintUserMessages: [VehicleBlueprint2_698] 18
+[2017.12.17-00.14.29:974][644]LogBlueprintUserMessages: [VehicleBlueprint2_698] 17
+[2017.12.17-00.14.30:174][656]LogBlueprintUserMessages: [VehicleBlueprint2_698] 16
+[2017.12.17-00.14.30:374][668]LogBlueprintUserMessages: [VehicleBlueprint2_698] 15
+[2017.12.17-00.14.30:575][680]LogBlueprintUserMessages: [VehicleBlueprint2_698] 14
+[2017.12.17-00.14.30:775][692]LogBlueprintUserMessages: [VehicleBlueprint2_698] 13
+[2017.12.17-00.14.30:958][703]LogBlueprintUserMessages: [VehicleBlueprint2_698] 12
+[2017.12.17-00.14.31:158][715]LogBlueprintUserMessages: [VehicleBlueprint2_698] 11
+[2017.12.17-00.14.31:358][727]LogBlueprintUserMessages: [VehicleBlueprint2_698] 10
+[2017.12.17-00.14.31:558][739]LogBlueprintUserMessages: [VehicleBlueprint2_698] 9
+[2017.12.17-00.14.31:758][751]LogBlueprintUserMessages: [VehicleBlueprint2_698] 8
+[2017.12.17-00.14.31:958][763]LogBlueprintUserMessages: [VehicleBlueprint2_698] 7
+[2017.12.17-00.14.32:158][775]LogBlueprintUserMessages: [VehicleBlueprint2_698] 6
+[2017.12.17-00.14.32:358][787]LogBlueprintUserMessages: [VehicleBlueprint2_698] 5
+[2017.12.17-00.14.32:558][799]LogBlueprintUserMessages: [VehicleBlueprint2_698] 4
+[2017.12.17-00.14.32:758][811]LogBlueprintUserMessages: [VehicleBlueprint2_698] 3
+[2017.12.17-00.14.32:958][823]LogBlueprintUserMessages: [VehicleBlueprint2_698] 2
+[2017.12.17-00.14.33:158][835]LogBlueprintUserMessages: [VehicleBlueprint2_698] 1
+[2017.12.17-00.14.33:358][847]LogBlueprintUserMessages: [VehicleBlueprint2_698] 0
+[2017.12.17-00.14.35:860][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.14.35:897][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.14.48:391][739]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.14.48:846][739]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2017.12.17-00.14.49:542][739]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.17-00.15.02:698][489]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.17-00.15.07:298][721]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.17-00.19.40:283][ 84]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.19.43:066][175]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.19.43:117][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.19.43:118][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.19.43:118][175]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:19:43 PM)
+[2017.12.17-00.19.43:118][175]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.19.43:152][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033822s)
+[2017.12.17-00.19.43:153][175]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.19.43:153][175]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2017.12.17-00.19.43:153][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.035112s)
+[2017.12.17-00.19.43:175][175]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.19.43:191][175]LogInit: FAudioDevice initialized.
+[2017.12.17-00.19.43:226][175]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.19.43:238][175]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.19.43
+[2017.12.17-00.19.43:239][175]LogWorld: Bringing up level for play took: 0.007520
+[2017.12.17-00.19.43:241][175]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.018
+[2017.12.17-00.19.43:242][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.19.55:404][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.19.55:449][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.21.57:154][ 76]LogEditorTransaction: Undo Delete current selection
+[2017.12.17-00.21.57:549][ 76]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.17-00.22.01:969][314]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.22.51:273][ 84]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.23.15:329][425]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.23.18:114][521]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.23.18:165][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.23.18:165][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.23.18:165][521]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:23:18 PM)
+[2017.12.17-00.23.18:165][521]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.23.18:198][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032148s)
+[2017.12.17-00.23.18:198][521]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.23.18:199][521]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.12.17-00.23.18:199][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.033511s)
+[2017.12.17-00.23.18:220][521]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.23.18:236][521]LogInit: FAudioDevice initialized.
+[2017.12.17-00.23.18:267][521]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.23.18:278][521]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.23.18
+[2017.12.17-00.23.18:279][521]LogWorld: Bringing up level for play took: 0.007374
+[2017.12.17-00.23.18:282][521]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.059
+[2017.12.17-00.23.18:283][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.23.23:504][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.23.23:546][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.25.53:089][710]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.26.00:493][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.26.00:545][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.26.00:545][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.26.00:545][ 75]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:26:00 PM)
+[2017.12.17-00.26.00:545][ 75]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.26.00:581][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036376s)
+[2017.12.17-00.26.00:582][ 75]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.26.00:583][ 75]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2017.12.17-00.26.00:583][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.038002s)
+[2017.12.17-00.26.00:606][ 75]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.26.00:622][ 75]LogInit: FAudioDevice initialized.
+[2017.12.17-00.26.00:656][ 75]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.26.00:668][ 75]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.26.00
+[2017.12.17-00.26.00:670][ 75]LogWorld: Bringing up level for play took: 0.008540
+[2017.12.17-00.26.00:673][ 75]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.45
+[2017.12.17-00.26.00:673][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.26.07:178][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.26.07:220][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.27.01:164][485]LogSavePackage: Save=383.80ms
+[2017.12.17-00.27.01:164][485]LogSavePackage: Moving '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/VehicleAdvExampleMap_Auto15CEECC5B43FF815CAD2DDB8D393CA81B.tmp' to '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2017.12.17-00.27.01:168][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap
+[2017.12.17-00.27.01:170][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.438
+[2017.12.17-00.27.01:170][485]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.438
+[2017.12.17-00.27.01:173][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2017.12.17-00.27.01:213][485]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2017.12.17-00.27.01:213][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2017.12.17-00.27.01:570][485]LogSavePackage: Save=341.24ms
+[2017.12.17-00.27.01:570][485]LogSavePackage: Moving '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/VehicleBlueprint_Auto19D253F8D4C0B94EB929367AAF2C122EC.tmp' to '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset'
+[2017.12.17-00.27.01:573][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset
+[2017.12.17-00.27.01:573][485]LogFileHelpers: Auto-saving content packages took 0.402
+[2017.12.17-00.28.11:185][702]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.28.14:209][803]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.28.14:263][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.28.14:263][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.28.14:263][803]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:28:14 PM)
+[2017.12.17-00.28.14:263][803]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.28.14:298][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035236s)
+[2017.12.17-00.28.14:299][803]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.28.14:299][803]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.12.17-00.28.14:300][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.036823s)
+[2017.12.17-00.28.14:321][803]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.28.14:337][803]LogInit: FAudioDevice initialized.
+[2017.12.17-00.28.14:368][803]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.28.14:378][803]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.28.14
+[2017.12.17-00.28.14:378][803]LogWorld: Bringing up level for play took: 0.007665
+[2017.12.17-00.28.14:381][803]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.158
+[2017.12.17-00.28.14:382][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.28.25:229][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.28.25:272][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.31.59:835][507]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CarBlueprints
+[2017.12.17-00.31.59:835][507]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.12.17-00.31.59:835][507]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.12.17-00.31.59:835][507]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.12.17-00.31.59:853][508]LogTemp: BranchPath = DESKTOP-I9SMP4L/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-I9SMP4L/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.12.17-00.31.59:859][508]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Aric's PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.17-00.34.46:147][303]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.34.49:545][428]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.34.49:594][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.34.49:594][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.34.49:594][428]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:34:49 PM)
+[2017.12.17-00.34.49:594][428]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.34.49:628][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034129s)
+[2017.12.17-00.34.49:629][428]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.34.49:630][428]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2017.12.17-00.34.49:630][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.035726s)
+[2017.12.17-00.34.49:655][428]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.34.49:671][428]LogInit: FAudioDevice initialized.
+[2017.12.17-00.34.49:705][428]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.34.49:714][428]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.34.49
+[2017.12.17-00.34.49:715][428]LogWorld: Bringing up level for play took: 0.007442
+[2017.12.17-00.34.49:718][428]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.505
+[2017.12.17-00.34.49:719][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.34.57:111][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.34.57:150][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.35.04:563][252]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.36.23:145][423]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2017.12.17-00.38.07:277][216]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.38.11:393][374]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.38.11:419][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.38.11:419][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.38.11:420][374]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:38:11 PM)
+[2017.12.17-00.38.11:420][374]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.38.11:454][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034098s)
+[2017.12.17-00.38.11:455][374]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.38.11:455][374]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2017.12.17-00.38.11:455][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.035687s)
+[2017.12.17-00.38.11:478][374]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.38.11:495][374]LogInit: FAudioDevice initialized.
+[2017.12.17-00.38.11:531][374]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.38.11:554][374]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.38.11
+[2017.12.17-00.38.11:557][374]LogWorld: Bringing up level for play took: 0.017453
+[2017.12.17-00.38.11:561][374]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.662
+[2017.12.17-00.38.11:561][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.38.22:203][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.38.22:246][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.38.35:589][677]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.39.05:260][205]LogSavePackage: Save=388.52ms
+[2017.12.17-00.39.05:260][205]LogSavePackage: Moving '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/VehicleAdvExampleMap_Auto2A8B53FDF4BF30C63587108B73726E2ED.tmp' to '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap'
+[2017.12.17-00.39.05:263][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto2.umap
+[2017.12.17-00.39.05:266][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.446
+[2017.12.17-00.39.05:266][205]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.446
+[2017.12.17-00.39.05:269][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2017.12.17-00.39.05:309][205]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2017.12.17-00.39.05:309][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2017.12.17-00.39.05:671][205]LogSavePackage: Save=345.47ms
+[2017.12.17-00.39.05:671][205]LogSavePackage: Moving '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/VehicleBlueprint_Auto215EA993A4A6615974A0328A49EF8D649.tmp' to '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto2.uasset'
+[2017.12.17-00.39.05:674][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto2.uasset
+[2017.12.17-00.39.05:675][205]LogFileHelpers: Auto-saving content packages took 0.407
+[2017.12.17-00.39.08:299][322]BlueprintLog: New page: Compile VehicleBlueprint
+[2017.12.17-00.39.10:713][394]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.17-00.39.10:738][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.39.10:738][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-00.39.10:739][394]PIE: New page: PIE session: VehicleAdvExampleMap (Dec 16, 2017, 2:39:10 PM)
+[2017.12.17-00.39.10:739][394]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2017.12.17-00.39.10:772][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033089s)
+[2017.12.17-00.39.10:772][394]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2017.12.17-00.39.10:773][394]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2017.12.17-00.39.10:773][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.034640s)
+[2017.12.17-00.39.10:795][394]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.17-00.39.10:810][394]LogInit: FAudioDevice initialized.
+[2017.12.17-00.39.10:847][394]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2017.12.17-00.39.10:901][394]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2017.12.16-19.39.10
+[2017.12.17-00.39.10:904][394]LogWorld: Bringing up level for play took: 0.052923
+[2017.12.17-00.39.10:912][394]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.689
+[2017.12.17-00.39.10:913][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.39.10:931][394]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.10:931][394]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.10:931][394]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.10:931][394]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:106][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:106][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:107][395]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:117][396]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:136][397]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:136][397]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:136][397]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:136][397]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:152][398]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:152][398]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:152][398]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:152][398]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:169][399]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:169][399]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:169][399]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:169][399]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:187][400]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:187][400]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:187][400]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:187][400]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:202][401]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:203][401]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:203][401]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:203][401]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:220][402]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:220][402]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:220][402]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:220][402]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:236][403]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:236][403]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:236][403]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:236][403]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:252][404]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:252][404]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:252][404]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:252][404]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:270][405]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:270][405]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:270][405]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:270][405]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:286][406]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:286][406]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:286][406]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:286][406]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:303][407]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:303][407]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:303][407]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:303][407]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:319][408]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:319][408]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:319][408]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:319][408]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:335][409]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:335][409]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:335][409]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:335][409]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:352][410]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:352][410]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:352][410]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:352][410]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:369][411]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:369][411]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:369][411]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:369][411]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:386][412]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:386][412]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:386][412]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:386][412]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:401][413]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:402][413]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:402][413]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:402][413]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:419][414]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:419][414]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:419][414]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:419][414]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:435][415]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:435][415]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:435][415]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:435][415]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:452][416]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:452][416]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:452][416]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:452][416]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:468][417]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:469][417]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:469][417]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:469][417]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:485][418]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:485][418]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:485][418]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:485][418]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:502][419]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:502][419]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:502][419]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:502][419]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:519][420]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:519][420]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:519][420]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:519][420]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:536][421]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:536][421]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:536][421]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:536][421]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:551][422]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:552][422]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:552][422]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:552][422]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:569][423]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:569][423]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:569][423]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:569][423]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:586][424]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:586][424]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:586][424]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:586][424]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:602][425]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:602][425]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:602][425]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:602][425]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:619][426]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:619][426]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:619][426]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:619][426]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:636][427]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:636][427]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:636][427]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:636][427]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:652][428]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:652][428]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:652][428]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:652][428]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:669][429]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:669][429]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:669][429]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:669][429]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:686][430]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:686][430]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:686][430]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:686][430]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:702][431]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:702][431]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:702][431]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:702][431]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:719][432]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:719][432]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:719][432]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:719][432]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:736][433]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:736][433]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:736][433]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:736][433]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:752][434]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:752][434]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:752][434]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:752][434]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:769][435]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:769][435]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:769][435]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:769][435]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:786][436]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:786][436]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:786][436]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:786][436]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:802][437]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:802][437]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:802][437]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:802][437]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:819][438]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:819][438]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:819][438]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:819][438]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:836][439]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:836][439]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:836][439]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:836][439]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:852][440]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:852][440]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:852][440]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:852][440]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:869][441]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:869][441]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:869][441]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:869][441]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:886][442]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:886][442]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:886][442]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:886][442]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:902][443]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:902][443]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:903][443]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:903][443]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:919][444]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:919][444]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:919][444]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:919][444]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:936][445]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:936][445]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:936][445]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:936][445]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:953][446]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:953][446]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:953][446]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:953][446]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:969][447]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:969][447]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:969][447]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:969][447]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:986][448]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:986][448]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.11:986][448]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.11:986][448]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:002][449]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:003][449]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:003][449]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:003][449]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:019][450]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:019][450]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:019][450]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:019][450]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:035][451]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:035][451]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:035][451]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:035][451]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:053][452]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:053][452]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:053][452]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:053][452]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:068][453]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:068][453]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:068][453]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:068][453]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:086][454]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:086][454]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:086][454]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:086][454]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:102][455]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:102][455]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:102][455]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:102][455]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:119][456]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:119][456]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:119][456]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:119][456]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:136][457]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:136][457]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:136][457]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:136][457]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:152][458]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:152][458]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:152][458]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:152][458]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:168][459]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:168][459]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:169][459]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:169][459]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:186][460]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:186][460]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:186][460]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:186][460]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:203][461]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:203][461]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:203][461]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:203][461]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:219][462]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:219][462]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:219][462]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:219][462]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:235][463]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:236][463]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:236][463]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:236][463]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:253][464]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:253][464]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:253][464]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:253][464]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:269][465]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:269][465]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:269][465]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:269][465]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:286][466]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:286][466]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:286][466]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:286][466]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:302][467]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:302][467]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:302][467]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:302][467]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:320][468]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:320][468]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:320][468]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:320][468]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:335][469]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:335][469]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:335][469]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:335][469]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:352][470]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:352][470]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:352][470]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:352][470]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:369][471]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:369][471]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:369][471]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:369][471]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:386][472]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:386][472]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:386][472]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:386][472]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:402][473]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:402][473]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:402][473]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:403][473]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:419][474]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:419][474]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:419][474]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:419][474]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:436][475]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:436][475]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:436][475]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:436][475]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:452][476]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:452][476]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:452][476]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:452][476]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:468][477]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:468][477]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:468][477]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:468][477]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:485][478]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:485][478]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:485][478]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:485][478]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:502][479]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:502][479]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:502][479]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:502][479]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:519][480]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:519][480]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:519][480]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:519][480]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:535][481]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:535][481]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:535][481]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:535][481]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:552][482]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:552][482]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:552][482]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:552][482]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:569][483]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:569][483]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:569][483]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:569][483]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:585][484]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:585][484]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:585][484]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:585][484]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:602][485]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:602][485]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:602][485]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:602][485]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:618][486]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:618][486]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:618][486]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:618][486]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:636][487]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:636][487]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:636][487]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:636][487]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:651][488]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:651][488]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:651][488]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:651][488]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:668][489]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:668][489]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:668][489]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:668][489]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:686][490]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:686][490]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:686][490]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:686][490]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:702][491]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:702][491]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:702][491]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:702][491]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:718][492]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:718][492]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:718][492]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:718][492]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:735][493]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:735][493]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:735][493]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:735][493]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:751][494]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:751][494]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:751][494]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:751][494]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:768][495]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:768][495]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:769][495]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:769][495]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:785][496]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:785][496]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:785][496]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:785][496]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:801][497]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:801][497]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:801][497]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:801][497]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:819][498]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:819][498]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:819][498]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:819][498]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:834][499]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:835][499]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:835][499]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:835][499]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:851][500]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:851][500]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:851][500]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:851][500]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:868][501]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:868][501]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:868][501]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:868][501]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:885][502]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:885][502]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:885][502]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:885][502]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:901][503]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:901][503]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:901][503]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:901][503]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:918][504]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:918][504]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:918][504]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:918][504]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:936][505]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:936][505]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:936][505]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:936][505]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:952][506]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:952][506]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:952][506]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:952][506]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:969][507]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:969][507]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:969][507]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:969][507]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:985][508]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:985][508]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.12:985][508]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.12:985][508]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:002][509]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:002][509]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:002][509]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:002][509]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:018][510]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:018][510]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:018][510]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:018][510]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:036][511]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:036][511]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:036][511]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:036][511]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:052][512]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:052][512]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:052][512]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:052][512]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:069][513]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:069][513]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:069][513]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:069][513]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:085][514]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:085][514]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:085][514]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:085][514]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:102][515]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:102][515]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:102][515]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:102][515]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:119][516]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:119][516]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:119][516]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:119][516]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:135][517]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:135][517]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:135][517]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:135][517]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:152][518]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:152][518]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:152][518]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:152][518]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:169][519]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:169][519]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:169][519]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:169][519]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:185][520]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:185][520]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:185][520]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:185][520]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:202][521]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:202][521]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:202][521]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:202][521]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:218][522]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:219][522]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:219][522]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:219][522]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:235][523]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:235][523]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:235][523]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:235][523]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:252][524]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:252][524]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:252][524]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:252][524]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:269][525]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:269][525]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:269][525]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:269][525]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:285][526]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:285][526]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:285][526]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:285][526]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:301][527]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:301][527]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:301][527]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:301][527]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:318][528]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:318][528]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:318][528]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:318][528]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:335][529]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:335][529]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:335][529]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:335][529]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:352][530]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:352][530]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:352][530]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:352][530]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:368][531]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:368][531]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:368][531]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:368][531]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:385][532]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:385][532]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:385][532]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:385][532]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:402][533]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:402][533]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:402][533]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:402][533]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:418][534]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:418][534]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:418][534]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:419][534]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:435][535]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:435][535]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:435][535]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:435][535]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:452][536]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:452][536]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:452][536]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:452][536]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:469][537]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:469][537]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:469][537]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:469][537]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:485][538]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:486][538]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:486][538]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:486][538]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:502][539]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:502][539]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:502][539]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:502][539]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:519][540]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:519][540]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:519][540]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:519][540]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:535][541]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:535][541]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:535][541]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:535][541]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:552][542]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:552][542]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:552][542]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:552][542]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:568][543]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:568][543]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:568][543]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:568][543]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:585][544]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:585][544]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:585][544]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:585][544]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:601][545]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:602][545]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:602][545]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:602][545]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:618][546]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:619][546]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:619][546]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:619][546]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:635][547]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:635][547]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:635][547]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:635][547]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:652][548]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:652][548]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:652][548]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:652][548]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:668][549]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:668][549]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:668][549]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:668][549]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:685][550]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:685][550]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:685][550]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:685][550]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:701][551]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:702][551]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:702][551]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:702][551]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:718][552]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:718][552]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:718][552]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:718][552]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:735][553]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:735][553]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:735][553]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:735][553]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:751][554]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:752][554]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:752][554]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:752][554]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:768][555]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:768][555]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:768][555]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:768][555]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:785][556]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:785][556]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:785][556]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:785][556]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:802][557]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:802][557]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:802][557]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:802][557]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:818][558]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:819][558]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:819][558]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:819][558]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:835][559]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:836][559]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:836][559]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:836][559]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:852][560]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:852][560]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:852][560]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:852][560]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:868][561]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:868][561]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:868][561]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:868][561]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:885][562]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:885][562]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:885][562]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:885][562]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:902][563]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:902][563]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:902][563]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:902][563]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:918][564]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:918][564]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:918][564]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:918][564]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:935][565]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:935][565]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:935][565]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:935][565]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:952][566]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:952][566]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:952][566]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:952][566]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:969][567]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:969][567]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:969][567]LogBlueprintUserMessages: [VehicleBlueprint2_698] Hello
+[2017.12.17-00.39.13:969][567]LogBlueprintUserMessages: [VehicleBlueprint_C_1] Hello
+[2017.12.17-00.39.13:970][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.39.14:015][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2017.12.17-00.39.51:418][475]Cmd: QUIT_EDITOR
+[2017.12.17-00.39.52:417][475]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.17-00.39.52:448][475]LogExit: Preparing to exit.
+[2017.12.17-00.39.53:136][475]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' was aborted.
+[2017.12.17-00.39.53:199][475]LogExit: Editor shut down
+[2017.12.17-00.39.53:204][475]LogExit: Transaction tracking system shut down
+[2017.12.17-00.39.53:361][475]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.17-00.39.53:361][475]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/' was aborted.
+[2017.12.17-00.39.53:361][475]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.17-00.39.53:362][475]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.17-00.39.53:362][475]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.17-00.39.53:441][475]LogExit: Object subsystem successfully closed.
+[2017.12.17-00.39.53:459][475]LogD3D11RHI: Shutdown
+[2017.12.17-00.39.53:459][475]LogD3D11RHI: CleanupD3DDevice
+[2017.12.17-00.39.53:583][475]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (540)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.12.17-00.39.53:604][475]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.12.17-00.39.53:604][475]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.12.17-00.39.53:605][475]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Collections/' was aborted.
+[2017.12.17-00.39.53:605][475]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Content/Developers/AricsPC/Collections/' was aborted.
+[2017.12.17-00.39.53:605][475]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprints/Saved/Collections/' was aborted.
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.12.17-00.39.53:605][475]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.17-00.39.53:606][475]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.17-00.39.53:627][475]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.17-00.39.53:628][475]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.17-00.39.53:680][475]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.17-00.39.53:681][475]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.17-00.39.53:681][475]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.17-00.39.53:681][475]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.17-00.39.53:681][475]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.17-00.39.53:704][475]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.17-00.39.53:704][475]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.17-00.39.53:704][475]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.17-00.39.53:704][475]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.12.17-00.39.53:705][475]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.12.17-00.39.53:706][475]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.12.17-00.39.53:931][475]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module RawInput (310)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.17-00.39.53:932][475]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.17-00.39.53:933][475]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.17-00.39.53:934][475]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.17-00.39.53:934][475]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.17-00.39.53:935][475]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.17-00.39.53:936][475]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.17-00.39.53:936][475]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.17-00.39.53:937][475]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.17-00.39.54:038][475]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.17-00.39.54:139][475]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.17-00.39.54:142][475]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.17-00.39.54:142][475]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.17-00.39.54:142][475]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.17-00.39.54:142][475]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.17-00.39.54:148][475]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.17-00.39.54:148][475]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.17-00.39.54:148][475]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.17-00.39.54:148][475]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.17-00.39.54:148][475]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.17-00.39.54:149][475]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.17-00.39.54:150][475]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.17-00.39.54:150][475]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.17-00.39.54:157][475]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.17-00.39.54:158][475]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.17-00.39.54:160][475]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.17-00.39.54:199][475]LogDerivedDataCache: Shutdown
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.17-00.39.54:199][475]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.17-00.39.54:200][475]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.17-00.39.54:201][475]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.17-00.39.54:202][475]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.17-00.39.54:203][475]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.17-00.39.54:203][475]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.17-00.39.54:203][475]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.17-00.39.54:203][475]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0EB211A-42F4-62B6-10E3-8CB5C4C23F8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=cd1f60b7479b32bd24c174b1375c1b70%7C4ba7aa541e964517b0d99766beec29d1%7Cb30741d6-520e-4fea-be44-def22d0e3946&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.17-00.39.54:224][475]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.17-00.39.54:228][475]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.17-00.39.54:228][475]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.17-00.39.54:228][475]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.17-00.39.54:229][475]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.17-00.39.54:229][475]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.17-00.39.54:229][475]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.17-00.39.54:229][475]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.17-00.39.54:232][475]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.17-00.39.54:241][475]LogExit: Exiting.
+[2017.12.17-00.39.54:280][475]Log file closed, 12/16/17 19:39:54
