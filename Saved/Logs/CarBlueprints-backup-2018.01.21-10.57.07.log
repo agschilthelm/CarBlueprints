@@ -1,0 +1,1489 @@
+﻿Log file open, 01/21/18 10:49:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CarBlueprints
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(347026720) SRandInit(347026720).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.364244
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.21-15.49.56:946][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-15.49.56:947][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.21-15.49.56:979][  0]LogInit: Computer: DESKTOP-I9SMP4L
+[2018.01.21-15.49.56:979][  0]LogInit: User: AricsPC
+[2018.01.21-15.49.56:979][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.21-15.49.56:979][  0]LogInit: High frequency timer resolution =2.250002 MHz
+[2018.01.21-15.49.56:980][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.21-15.49.56:980][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.49.56:980][  0]LogMemory: Process Physical Memory: 280.45 MB used, 280.45 MB peak
+[2018.01.21-15.49.56:980][  0]LogMemory: Process Virtual Memory: 286.46 MB used, 286.46 MB peak
+[2018.01.21-15.49.56:980][  0]LogMemory: Physical Memory: 5571.90 MB used,  2493.36 MB free, 8065.26 MB total
+[2018.01.21-15.49.56:980][  0]LogMemory: Virtual Memory: 720.58 MB used,  2493.36 MB free, 134217728.00 MB total
+[2018.01.21-15.50.01:166][  0]LogInit: Using OS detected language (en-US).
+[2018.01.21-15.50.01:166][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.21-15.50.01:182][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.21-15.50.04:348][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.21-15.50.04:480][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.01.21-15.50.04:480][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.21-15.50.04:502][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.01.21-15.50.04:502][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.21-15.50.04:510][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.21-15.50.04:510][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.21-15.50.04:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.21-15.50.04:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.21-15.50.04:532][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.01.21-15.50.04:532][  0]LogWindows: EnumDisplayDevices:
+[2018.01.21-15.50.04:532][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.01.21-15.50.04:533][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.21-15.50.04:533][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.21-15.50.04:534][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.21-15.50.04:534][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.01.21-15.50.04:534][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.21-15.50.04:534][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.21-15.50.04:534][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.21-15.50.04:621][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.21-15.50.04:657][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.21-15.50.04:662][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Intermediate/Shaders/WorkingDirectory/1912/).
+[2018.01.21-15.50.04:663][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aric's PC/AppData/Local/Temp/UnrealShaderWorkingDir/CC40FF124018F14EE0928F9D58CD4CE5/'.
+[2018.01.21-15.50.04:663][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.21-15.50.10:059][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.21-15.50.10:425][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.21-15.50.10:837][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.21-15.50.11:195][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.21-15.50.11:524][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.21-15.50.11:878][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.21-15.50.12:257][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.21-15.50.12:650][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.21-15.50.13:026][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.21-15.50.13:339][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.21-15.50.13:649][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.21-15.50.14:024][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.21-15.50.14:389][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.21-15.50.14:717][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.21-15.50.15:099][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.21-15.50.15:783][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.21-15.50.15:783][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.21-15.50.16:081][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.21-15.50.16:689][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.21-15.50.16:878][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.21-15.50.17:261][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.21-15.50.17:673][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.21-15.50.18:048][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.21-15.50.18:499][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.21-15.50.18:499][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.21-15.50.22:724][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.21-15.50.23:083][  0]LogDerivedDataCache: Loaded boot cache 0.36s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.21-15.50.23:083][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.21-15.50.23:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.21-15.50.23:084][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.21-15.50.23:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.21-15.50.23:084][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.21-15.50.23:145][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.21-15.50.23:160][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aric's PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.21-15.50.23:206][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.21-15.50.23:207][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.21-15.50.23:209][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-15.50.23:210][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-15.50.29:944][  0]LogAssetRegistry: FAssetRegistry took 0.0409 seconds to start up
+[2018.01.21-15.50.30:671][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-15.50.33:388][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.21-15.50.33:653][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.21-15.50.33:653][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.21-15.50.33:653][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.21-15.50.33:653][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.21-15.50.33:653][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.21-15.50.33:657][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.21-15.50.35:406][  0]LogNetVersion: CarBlueprints , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3571599761)
+[2018.01.21-15.50.36:355][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.157103 seconds
+[2018.01.21-15.50.36:372][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.21-15.50.36:372][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.01.21-15.50.36:372][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.21-15.50.52:046][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.21-15.50.52:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.21-15.50.55:944][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.21-15.50.58:680][  0]SourceControl: Source control is disabled
+[2018.01.21-15.50.58:680][  0]SourceControl: Source control is disabled
+[2018.01.21-15.50.59:142][  0]SourceControl: Source control is disabled
+[2018.01.21-15.50.59:526][  0]SourceControl: Source control is disabled
+[2018.01.21-15.51.04:032][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.21-15.51.05:444][  0]LogOcInput: OculusInput pre-init called
+[2018.01.21-15.51.06:877][  0]LogEngine: Initializing Engine...
+[2018.01.21-15.51.06:883][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.21-15.51.07:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.21-15.51.07:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.21-15.51.08:624][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.21-15.51.08:656][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.51.09:153][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-15.51.09:416][  0]LogDerivedDataCache: Saved boot cache 0.26s 93MB C:/Users/Aric's PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.21-15.51.09:441][  0]LogInit: Texture streaming: Enabled
+[2018.01.21-15.51.10:250][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.21-15.51.11:753][  0]LogInit: Transaction tracking system initialized
+[2018.01.21-15.51.13:844][  0]BlueprintLog: New page: Editor Load
+[2018.01.21-15.51.20:168][  0]LocalizationService: Localization service is disabled
+[2018.01.21-15.51.24:703][  0]LogConsoleResponse: Display: 
+[2018.01.21-15.51.25:444][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.21-15.51.25:444][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.21-15.51.25:444][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.21-15.51.26:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/' took 0.03s
+[2018.01.21-15.51.34:294][  0]SourceControl: Source control is disabled
+[2018.01.21-15.51.34:295][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdvBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-15.51.34:299][  0]LightingResults: New page: Lighting Build
+[2018.01.21-15.51.34:598][  0]MapCheck: New page: Map Check
+[2018.01.21-15.51.34:598][  0]LightingResults: New page: Lighting Build
+[2018.01.21-15.51.35:654][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.01.21-15.51.35:657][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-15.51.35:704][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-15.51.36:009][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 304.512ms to complete.
+[2018.01.21-15.51.36:010][  0]LogFileHelpers: Loading map 'MainMenu' took 1.715
+[2018.01.21-15.51.36:477][  0]LogCollectionManager: Loaded 0 collections in 0.008636 seconds
+[2018.01.21-15.51.36:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Saved/Collections/' took 0.01s
+[2018.01.21-15.51.36:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/Developers/AricsPC/Collections/' took 0.01s
+[2018.01.21-15.51.36:879][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/Collections/' took 0.01s
+[2018.01.21-15.51.36:879][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.21-15.51.36:949][  0]LogContentBrowser: Native class hierarchy populated in 0.0693 seconds. Added 2388 classes and 503 folders.
+[2018.01.21-15.51.37:428][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2018.01.21-15.51.37:682][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0029 seconds. Added 0 classes and 0 folders.
+[2018.01.21-15.51.38:117][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2018.01.21-15.51.38:496][  0]LogSlate: Took 0.002036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-15.51.38:515][  0]LogSlate: Took 0.000627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.21-15.51.38:546][  0]LogSlate: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.21-15.51.39:005][  0]LogRenderer: Reallocating scene render targets to support 932x436 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-15.51.39:774][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2018.01.21-15.51.39:775][  0]LogLoad: (Engine Initialization) Total time: 111.80 seconds
+[2018.01.21-15.51.39:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.21-15.51.39:775][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.21-15.51.39:775][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.21-15.51.40:118][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.01.21-15.51.40:118][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.01.21-15.51.40:118][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2018.01.21-15.51.40:119][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.01.21-15.51.40:119][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1
+[2018.01.21-15.51.40:148][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.21-15.51.40:255][  0]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-15.51.41:826][  5]LogAssetRegistry: Asset discovery search completed in 71.9055 seconds
+[2018.01.21-15.51.41:835][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.21-15.51.41:838][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.003246 seconds (updated 0 objects)
+[2018.01.21-15.52.43:153][433]LogSlate: Took 0.000732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-15.52.43:943][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-15.52.43:943][433]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2018.01.21-15.52.43:944][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:944][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2018.01.21-15.52.43:945][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-15.52.43:945][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:946][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2018.01.21-15.52.43:946][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-15.52.43:947][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:947][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2018.01.21-15.52.43:948][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-15.52.43:948][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:948][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2018.01.21-15.52.43:956][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-15.52.43:956][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:957][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-15.52.43:958][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:958][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-15.52.43:959][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:960][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-15.52.43:960][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:961][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-15.52.43:961][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:962][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2018.01.21-15.52.43:962][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-15.52.43:963][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:963][433]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2018.01.21-15.52.43:964][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-15.52.43:964][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.43:965][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-15.52.43:965][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-15.52.44:051][433]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-15.52.44:448][433]LogBlueprint: Warning: [VehicleAdvGameMode] 'Player1' variable not found. Base class was probably changed.
+[2018.01.21-15.52.44:449][433]LogBlueprint: Warning: [VehicleAdvGameMode] 'Player2' variable not found. Base class was probably changed.
+[2018.01.21-15.52.44:449][433]LogBlueprint: Warning: [VehicleAdvGameMode] 'Player1' variable not found. Base class was probably changed.
+[2018.01.21-15.52.44:449][433]LogBlueprint: Warning: [VehicleAdvGameMode] 'Player2' variable not found. Base class was probably changed.
+[2018.01.21-15.52.45:636][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-15.52.45:636][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2018.01.21-15.52.45:637][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.01.21-15.52.45:638][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-15.52.45:638][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2018.01.21-15.52.45:638][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.01.21-15.52.45:639][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-15.52.45:639][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2018.01.21-15.52.45:640][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.01.21-15.52.45:641][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-15.52.45:641][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2018.01.21-15.52.45:641][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2018.01.21-15.52.45:643][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-15.52.45:643][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2018.01.21-15.52.45:643][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.01.21-15.52.45:645][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-15.52.45:645][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2018.01.21-15.52.45:645][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2018.01.21-15.52.45:646][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-15.52.45:647][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2018.01.21-15.52.45:647][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.01.21-15.52.45:648][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-15.52.45:648][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2018.01.21-15.52.45:649][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.01.21-15.52.45:650][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-15.52.45:650][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2018.01.21-15.52.45:651][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading NULL.
+[2018.01.21-15.52.45:651][433]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-15.52.45:652][433]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.01.21-15.52.45:652][433]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading NULL.
+[2018.01.21-15.52.46:805][433]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.01.21-15.52.46:814][433]LogMaterial: Warning: Failed to compile Material /Game/VehicleAdv/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Missing Material Function
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.01.21-15.52.46:815][433]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.01.21-15.52.47:326][433]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.52.47:468][433]Cmd: MAP LOAD FILE="../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/VehicleAdvBP/Maps/StandardLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-15.52.47:469][433]LightingResults: New page: Lighting Build
+[2018.01.21-15.52.47:471][433]LoadErrors: New page: Loading map: StandardLevel.umap
+[2018.01.21-15.52.47:472][433]MapCheck: New page: Map Check
+[2018.01.21-15.52.47:472][433]LightingResults: New page: Lighting Build
+[2018.01.21-15.52.47:893][433]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-15.52.48:068][433]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-15.52.48:409][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 340.505ms to complete.
+[2018.01.21-15.52.48:411][433]LogFileHelpers: Loading map 'StandardLevel' took 0.944
+[2018.01.21-15.52.59:961][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0036 seconds. Added 113 classes and 0 folders.
+[2018.01.21-15.53.02:927][775]LogSlate: Took 0.000758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.21-15.53.03:283][776]LogSlate: Took 0.000676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.21-15.53.32:366][400]BlueprintLog: New page: Compile VehicleBlueprint
+[2018.01.21-15.53.46:171][619]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-15.53.46:171][619]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-15.53.46:171][619]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_1:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-15.53.46:171][619]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_6:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-15.53.47:405][650]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-15.54.00:843][  1]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-15.54.04:175][ 51]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.54.04:406][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.54.04:406][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.54.04:407][ 51]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.54.04:407][ 51]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.54.04:426][ 51]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.54.04:426][ 51]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.54.04:426][ 51]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:54:04 AM)
+[2018.01.21-15.54.04:429][ 51]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.54.04:493][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063192s)
+[2018.01.21-15.54.04:495][ 51]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.54.04:496][ 51]LogPlayLevel: PIE: World Init took: (0.002832s)
+[2018.01.21-15.54.04:496][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.067135s)
+[2018.01.21-15.54.04:560][ 51]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.54.04:609][ 51]LogInit: FAudioDevice initialized.
+[2018.01.21-15.54.04:694][ 51]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.54.04:722][ 51]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.54.04
+[2018.01.21-15.54.04:724][ 51]LogWorld: Bringing up level for play took: 0.015500
+[2018.01.21-15.54.05:135][ 51]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0025 seconds. Added 11 classes and 0 folders.
+[2018.01.21-15.54.05:143][ 51]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.54.05:143][ 51]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.21-15.54.05:143][ 51]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.54.05:144][ 51]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.54.05:145][ 51]LogInit: WinSock: I am DESKTOP-I9SMP4L (192.168.86.117:0)
+[2018.01.21-15.54.05:146][ 51]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.54.05:146][ 51]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.01.21-15.54.05:152][ 51]LogBlueprintUserMessages: [MyGameInstance_C_0] Server: Error: trying to leave current state: 0
+[2018.01.21-15.54.05:161][ 51]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.866
+[2018.01.21-15.54.05:166][ 51]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:54:05 AM)
+[2018.01.21-15.54.05:266][ 51]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.54.05:266][ 51]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.54.05:267][ 51]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.21-15.54.05:267][ 51]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.54.05:267][ 51]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.54.05:268][ 51]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.54.05:269][ 51]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.54.05:280][ 51]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.984
+[2018.01.21-15.54.05:311][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.54.05:315][ 51]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59838
+[2018.01.21-15.54.05:316][ 51]LogHandshake: SendConnectChallenge. Timestamp: 0.016785, Cookie: 116037054043252219225042122043075221104061014182148021052198
+[2018.01.21-15.54.05:510][ 51]LogHandshake: SendChallengeResponse. Timestamp: 0.016785, Cookie: 116037054043252219225042122043075221104061014182148021052198
+[2018.01.21-15.54.05:724][ 52]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59838
+[2018.01.21-15.54.05:724][ 52]LogHandshake: SendChallengeAck. InCookie: 116037054043252219225042122043075221104061014182148021052198
+[2018.01.21-15.54.05:724][ 52]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59838
+[2018.01.21-15.54.05:724][ 52]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.54.05:725][ 52]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:54:05, [UNetConnection] RemoteAddr: 127.0.0.1:59838, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.54.05:725][ 52]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59838, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.54.05:735][ 52]LogNetVersion: CarBlueprints 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3229010851)
+[2018.01.21-15.54.05:735][ 52]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.54.05:797][ 53]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.54.05:797][ 53]LogNet: Remote platform little endian=1
+[2018.01.21-15.54.05:797][ 53]LogNet: This platform little endian=1
+[2018.01.21-15.54.05:847][ 54]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-BC67BD5543B0C4DFF2943F9DABC975F1 userId: DESKTOP-I9SMP4L-BC67BD5543B0C4DFF2943F9DABC975F1
+[2018.01.21-15.54.05:852][ 54]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.54.05:852][ 54]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.54.05:916][ 54]Cmd: MEM
+[2018.01.21-15.54.05:971][ 54]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.54.05:971][ 54]LogMemory: Process Physical Memory: 1412.84 MB used, 1439.46 MB peak
+[2018.01.21-15.54.05:971][ 54]LogMemory: Process Virtual Memory: 2480.30 MB used, 2480.30 MB peak
+[2018.01.21-15.54.05:971][ 54]LogMemory: Physical Memory: 6933.50 MB used,  1131.76 MB free, 8065.26 MB total
+[2018.01.21-15.54.05:972][ 54]LogMemory: Virtual Memory: 3329.92 MB used,  1131.76 MB free, 134217728.00 MB total
+[2018.01.21-15.54.05:972][ 54]LogMemory: 
+[2018.01.21-15.54.05:972][ 54]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.54.06:034][ 54]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.54.06:035][ 54]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.54.06:056][ 54]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.54.06
+[2018.01.21-15.54.06:057][ 54]LogWorld: Bringing up level for play took: 0.014397
+[2018.01.21-15.54.06:058][ 54]LogLoad: Took 0.205769 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.54.06:100][ 55]LogNet: Client netspeed is 10000
+[2018.01.21-15.54.06:101][ 55]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-BC67BD5543B0C4DFF2943F9DABC975F1?SplitscreenCount=1
+[2018.01.21-15.54.06:102][ 55]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.54.06:112][ 55]LogNet: Join succeeded: DESKTOP-I9SMP4L-BC67
+[2018.01.21-15.54.06:208][ 56]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.54.06:215][ 56]LogBlueprintUserMessages: [MyGameInstance_C_1] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.54.06:220][ 56]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.54.11:380][155]LogBlueprintUserMessages: [BP_Projectile_C_0] Server: BP_Projectile1
+[2018.01.21-15.54.11:381][155]LogBlueprintUserMessages: [BP_Projectile_C_1] Server: BP_Projectile
+[2018.01.21-15.54.12:560][182]LogBlueprintUserMessages: [BP_Projectile_C_2] Server: BP_Projectile3
+[2018.01.21-15.54.12:561][182]LogBlueprintUserMessages: [BP_Projectile_C_3] Server: BP_Projectile2
+[2018.01.21-15.54.13:226][197]LogBlueprintUserMessages: [BP_Projectile_C_4] Server: BP_Projectile5
+[2018.01.21-15.54.13:226][197]LogBlueprintUserMessages: [BP_Projectile_C_5] Server: BP_Projectile4
+[2018.01.21-15.54.14:428][227]LogBlueprintUserMessages: [BP_Projectile_C_6] Server: BP_Projectile7
+[2018.01.21-15.54.14:428][227]LogBlueprintUserMessages: [BP_Projectile_C_7] Server: BP_Projectile6
+[2018.01.21-15.54.15:526][254]LogBlueprintUserMessages: [BP_Projectile_C_8] Server: BP_Projectile9
+[2018.01.21-15.54.15:526][254]LogBlueprintUserMessages: [BP_Projectile_C_9] Server: BP_Projectile8
+[2018.01.21-15.54.16:214][271]LogBlueprintUserMessages: [BP_Projectile_C_10] Server: BP_Projectile11
+[2018.01.21-15.54.16:215][271]LogBlueprintUserMessages: [BP_Projectile_C_11] Server: BP_Projectile10
+[2018.01.21-15.54.16:907][288]LogBlueprintUserMessages: [BP_Projectile_C_12] Server: BP_Projectile13
+[2018.01.21-15.54.16:908][288]LogBlueprintUserMessages: [BP_Projectile_C_13] Server: BP_Projectile12
+[2018.01.21-15.54.17:323][298]LogBlueprintUserMessages: [BP_Projectile_C_14] Server: BP_Projectile15
+[2018.01.21-15.54.17:323][298]LogBlueprintUserMessages: [BP_Projectile_C_15] Server: BP_Projectile14
+[2018.01.21-15.54.17:770][309]LogBlueprintUserMessages: [BP_Projectile_C_16] Server: BP_Projectile17
+[2018.01.21-15.54.17:771][309]LogBlueprintUserMessages: [BP_Projectile_C_17] Server: BP_Projectile16
+[2018.01.21-15.54.18:229][320]LogBlueprintUserMessages: [BP_Projectile_C_18] Server: BP_Projectile19
+[2018.01.21-15.54.18:229][320]LogBlueprintUserMessages: [BP_Projectile_C_19] Server: BP_Projectile18
+[2018.01.21-15.54.18:658][330]LogBlueprintUserMessages: [BP_Projectile_C_20] Server: BP_Projectile21
+[2018.01.21-15.54.18:659][330]LogBlueprintUserMessages: [BP_Projectile_C_21] Server: BP_Projectile20
+[2018.01.21-15.54.19:070][340]LogBlueprintUserMessages: [BP_Projectile_C_22] Server: BP_Projectile23
+[2018.01.21-15.54.19:071][340]LogBlueprintUserMessages: [BP_Projectile_C_23] Server: BP_Projectile22
+[2018.01.21-15.54.19:497][350]LogBlueprintUserMessages: [BP_Projectile_C_24] Server: BP_Projectile25
+[2018.01.21-15.54.19:498][350]LogBlueprintUserMessages: [BP_Projectile_C_25] Server: BP_Projectile24
+[2018.01.21-15.54.28:230][572]LogBlueprintUserMessages: [BP_Projectile_C_27] Server: BP_Projectile26
+[2018.01.21-15.54.28:230][572]LogBlueprintUserMessages: [BP_Projectile_C_26] Server: BP_Projectile27
+[2018.01.21-15.54.33:765][714]LogBlueprintUserMessages: [BP_Projectile_C_28] Server: BP_Projectile29
+[2018.01.21-15.54.33:766][714]LogBlueprintUserMessages: [BP_Projectile_C_29] Server: BP_Projectile28
+[2018.01.21-15.54.35:394][755]LogBlueprintUserMessages: [BP_Projectile_C_30] Server: BP_Projectile31
+[2018.01.21-15.54.35:395][755]LogBlueprintUserMessages: [BP_Projectile_C_31] Server: BP_Projectile30
+[2018.01.21-15.54.36:387][780]LogBlueprintUserMessages: [BP_Projectile_C_32] Server: BP_Projectile33
+[2018.01.21-15.54.36:387][780]LogBlueprintUserMessages: [BP_Projectile_C_33] Server: BP_Projectile32
+[2018.01.21-15.54.37:268][802]LogBlueprintUserMessages: [BP_Projectile_C_34] Server: BP_Projectile35
+[2018.01.21-15.54.37:268][802]LogBlueprintUserMessages: [BP_Projectile_C_35] Server: BP_Projectile34
+[2018.01.21-15.54.38:176][825]LogBlueprintUserMessages: [BP_Projectile_C_36] Server: BP_Projectile37
+[2018.01.21-15.54.38:177][825]LogBlueprintUserMessages: [BP_Projectile_C_37] Server: BP_Projectile36
+[2018.01.21-15.54.38:585][835]LogBlueprintUserMessages: [BP_Projectile_C_38] Server: BP_Projectile39
+[2018.01.21-15.54.38:586][835]LogBlueprintUserMessages: [BP_Projectile_C_39] Server: BP_Projectile38
+[2018.01.21-15.54.46:621][ 27]LogBlueprintUserMessages: [BP_Projectile_C_40] Server: BP_Projectile41
+[2018.01.21-15.54.46:621][ 27]LogBlueprintUserMessages: [BP_Projectile_C_41] Server: BP_Projectile40
+[2018.01.21-15.54.59:248][318]LogBlueprintUserMessages: [BP_Projectile_C_42] Server: BP_Projectile43
+[2018.01.21-15.54.59:248][318]LogBlueprintUserMessages: [BP_Projectile_C_43] Server: BP_Projectile42
+[2018.01.21-15.55.00:137][337]LogBlueprintUserMessages: [BP_Projectile_C_44] Server: BP_Projectile45
+[2018.01.21-15.55.00:139][337]LogBlueprintUserMessages: [BP_Projectile_C_45] Server: BP_Projectile44
+[2018.01.21-15.55.01:741][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.01:876][374]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.01:877][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.01:879][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.01:879][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.01:879][374]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.02:000][374]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.02:000][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.02:002][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.02:003][374]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.02:003][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.02:004][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.02:069][374]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59838, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.02:069][374]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59838, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.02
+[2018.01.21-15.55.02:069][374]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59838, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.02:070][374]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.02:070][374]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.02
+[2018.01.21-15.55.02:070][374]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.02:081][374]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.02:085][374]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.02:175][375]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.01.21-15.55.02:176][375]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.02:176][375]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.01.21-15.55.02:176][375]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.16:054][689]BlueprintLog: New page: Compile VehicleBlueprint
+[2018.01.21-15.55.23:569][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.23:649][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.23:649][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.23:653][749]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:23 AM)
+[2018.01.21-15.55.23:656][749]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.23:717][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061072s)
+[2018.01.21-15.55.23:719][749]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.23:719][749]LogPlayLevel: PIE: World Init took: (0.002226s)
+[2018.01.21-15.55.23:720][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.064174s)
+[2018.01.21-15.55.23:790][749]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.23:840][749]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.23:935][749]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.23:956][749]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.23
+[2018.01.21-15.55.23:957][749]LogWorld: Bringing up level for play took: 0.014706
+[2018.01.21-15.55.23:980][749]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.23:980][749]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.21-15.55.23:980][749]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.23:981][749]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.23:982][749]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.23:982][749]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2018.01.21-15.55.23:987][749]LogBlueprintUserMessages: [MyGameInstance_C_2] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.24:018][749]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel -0.278
+[2018.01.21-15.55.24:023][749]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:24 AM)
+[2018.01.21-15.55.24:150][749]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.24:150][749]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.24:150][749]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.21-15.55.24:151][749]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.24:151][749]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.24:152][749]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.24:152][749]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.24:182][749]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap -0.114
+[2018.01.21-15.55.24:232][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.24:237][749]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51739
+[2018.01.21-15.55.24:238][749]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 194173190044215140234144075170039010168001131101149166199087
+[2018.01.21-15.55.24:244][749]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 194173190044215140234144075170039010168001131101149166199087
+[2018.01.21-15.55.24:547][750]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51739
+[2018.01.21-15.55.24:548][750]LogHandshake: SendChallengeAck. InCookie: 194173190044215140234144075170039010168001131101149166199087
+[2018.01.21-15.55.24:548][750]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51739
+[2018.01.21-15.55.24:548][750]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.24:549][750]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:24, [UNetConnection] RemoteAddr: 127.0.0.1:51739, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.24:549][750]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51739, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.24:558][750]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.24:601][751]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.24:601][751]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.24:601][751]LogNet: This platform little endian=1
+[2018.01.21-15.55.24:657][752]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-F14535B04DE05BFD6A083981ACC73112 userId: DESKTOP-I9SMP4L-F14535B04DE05BFD6A083981ACC73112
+[2018.01.21-15.55.24:664][752]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.24:665][752]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.24:734][752]Cmd: MEM
+[2018.01.21-15.55.24:797][752]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.24:797][752]LogMemory: Process Physical Memory: 1435.77 MB used, 1439.46 MB peak
+[2018.01.21-15.55.24:797][752]LogMemory: Process Virtual Memory: 2536.67 MB used, 2590.37 MB peak
+[2018.01.21-15.55.24:797][752]LogMemory: Physical Memory: 6703.64 MB used,  1361.62 MB free, 8065.26 MB total
+[2018.01.21-15.55.24:797][752]LogMemory: Virtual Memory: 3420.23 MB used,  1361.62 MB free, 134217728.00 MB total
+[2018.01.21-15.55.24:797][752]LogMemory: 
+[2018.01.21-15.55.24:798][752]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.24:867][752]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.24:867][752]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.24:890][752]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.24
+[2018.01.21-15.55.24:891][752]LogWorld: Bringing up level for play took: 0.014242
+[2018.01.21-15.55.24:892][752]LogLoad: Took 0.226956 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.24:939][753]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.24:939][753]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-F14535B04DE05BFD6A083981ACC73112?SplitscreenCount=1
+[2018.01.21-15.55.24:941][753]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.24:953][753]LogNet: Join succeeded: DESKTOP-I9SMP4L-F145
+[2018.01.21-15.55.25:087][754]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.25:087][754]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.25:092][754]LogBlueprintUserMessages: [MyGameInstance_C_3] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.55.27:534][812]LogBlueprintUserMessages: [BP_Projectile_C_0] Client 1: Plane
+[2018.01.21-15.55.27:817][819]LogBlueprintUserMessages: [BP_Projectile_C_0] Server: BP_Projectile1
+[2018.01.21-15.55.27:818][819]LogBlueprintUserMessages: [BP_Projectile_C_1] Server: BP_Projectile
+[2018.01.21-15.55.34:727][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.34:849][966]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.34:850][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.34:852][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.34:852][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.34:852][966]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.34:965][966]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.34:965][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.34:967][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.34:967][966]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.34:967][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.34:968][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.35:029][966]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51739, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-15.55.35:030][966]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51739, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2018.01.21-15.55.35
+[2018.01.21-15.55.35:030][966]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51739, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-15.55.35:030][966]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-15.55.35:030][966]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2018.01.21-15.55.35
+[2018.01.21-15.55.35:030][966]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-15.55.35:044][966]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.35:044][966]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.35:094][967]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.01.21-15.55.35:095][967]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.35:095][967]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.01.21-15.55.35:095][967]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.35:862][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.35:961][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.35:962][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.35:965][  4]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:35 AM)
+[2018.01.21-15.55.35:968][  4]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.36:027][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059202s)
+[2018.01.21-15.55.36:029][  4]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.36:029][  4]LogPlayLevel: PIE: World Init took: (0.002038s)
+[2018.01.21-15.55.36:030][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.062217s)
+[2018.01.21-15.55.36:091][  4]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.36:139][  4]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.36:232][  4]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.36:256][  4]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.36
+[2018.01.21-15.55.36:257][  4]LogWorld: Bringing up level for play took: 0.015724
+[2018.01.21-15.55.36:281][  4]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.36:281][  4]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.01.21-15.55.36:282][  4]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.36:282][  4]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.36:285][  4]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.36:285][  4]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2018.01.21-15.55.36:294][  4]LogBlueprintUserMessages: [MyGameInstance_C_4] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.36:325][  4]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.029
+[2018.01.21-15.55.36:330][  4]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:36 AM)
+[2018.01.21-15.55.36:464][  4]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.36:464][  4]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.36:464][  4]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.01.21-15.55.36:465][  4]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.36:465][  4]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.36:466][  4]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.36:466][  4]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.36:496][  4]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.2
+[2018.01.21-15.55.36:556][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.36:563][  4]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52251
+[2018.01.21-15.55.36:563][  4]LogHandshake: SendConnectChallenge. Timestamp: 0.016928, Cookie: 074201137060048211156176117115181129144073007179068080003068
+[2018.01.21-15.55.36:569][  4]LogHandshake: SendChallengeResponse. Timestamp: 0.016928, Cookie: 074201137060048211156176117115181129144073007179068080003068
+[2018.01.21-15.55.36:857][  5]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52251
+[2018.01.21-15.55.36:857][  5]LogHandshake: SendChallengeAck. InCookie: 074201137060048211156176117115181129144073007179068080003068
+[2018.01.21-15.55.36:858][  5]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52251
+[2018.01.21-15.55.36:858][  5]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.36:858][  5]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:36, [UNetConnection] RemoteAddr: 127.0.0.1:52251, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.36:858][  5]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52251, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.36:870][  5]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.36:921][  6]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.36:921][  6]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.36:922][  6]LogNet: This platform little endian=1
+[2018.01.21-15.55.36:979][  7]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-5C98D40C48960932E4E10E808067DEFC userId: DESKTOP-I9SMP4L-5C98D40C48960932E4E10E808067DEFC
+[2018.01.21-15.55.36:987][  7]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.36:988][  7]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.37:068][  7]Cmd: MEM
+[2018.01.21-15.55.37:123][  7]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.37:124][  7]LogMemory: Process Physical Memory: 1455.90 MB used, 1456.40 MB peak
+[2018.01.21-15.55.37:124][  7]LogMemory: Process Virtual Memory: 2562.96 MB used, 2626.74 MB peak
+[2018.01.21-15.55.37:124][  7]LogMemory: Physical Memory: 6784.75 MB used,  1280.51 MB free, 8065.26 MB total
+[2018.01.21-15.55.37:124][  7]LogMemory: Virtual Memory: 3414.73 MB used,  1280.51 MB free, 134217728.00 MB total
+[2018.01.21-15.55.37:124][  7]LogMemory: 
+[2018.01.21-15.55.37:124][  7]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.37:196][  7]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.37:196][  7]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.37:217][  7]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.37
+[2018.01.21-15.55.37:218][  7]LogWorld: Bringing up level for play took: 0.014075
+[2018.01.21-15.55.37:219][  7]LogLoad: Took 0.231361 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.37:274][  8]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.37:274][  8]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-5C98D40C48960932E4E10E808067DEFC?SplitscreenCount=1
+[2018.01.21-15.55.37:275][  8]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.37:287][  8]LogNet: Join succeeded: DESKTOP-I9SMP4L-5C98
+[2018.01.21-15.55.37:359][  9]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.37:360][  9]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.37:366][  9]LogBlueprintUserMessages: [MyGameInstance_C_5] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.55.40:954][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.41:109][ 97]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.41:109][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.41:111][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.41:111][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.41:111][ 97]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.41:223][ 97]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.41:223][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.41:226][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.41:226][ 97]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.41:226][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.41:227][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.41:293][ 97]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52251, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.41:293][ 97]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52251, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.41
+[2018.01.21-15.55.41:294][ 97]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52251, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.41:294][ 97]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.41:294][ 97]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.41
+[2018.01.21-15.55.41:294][ 97]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.41:309][ 97]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.41:310][ 97]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.41:366][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.01.21-15.55.41:366][ 98]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.41:367][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.01.21-15.55.41:367][ 98]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.42:378][145]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.42:467][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.42:467][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.42:471][145]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:42 AM)
+[2018.01.21-15.55.42:474][145]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.42:541][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067297s)
+[2018.01.21-15.55.42:543][145]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.42:544][145]LogPlayLevel: PIE: World Init took: (0.002336s)
+[2018.01.21-15.55.42:544][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.070688s)
+[2018.01.21-15.55.42:624][145]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.42:673][145]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.42:770][145]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.42:795][145]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.42
+[2018.01.21-15.55.42:796][145]LogWorld: Bringing up level for play took: 0.015908
+[2018.01.21-15.55.42:817][145]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.42:817][145]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.21-15.55.42:817][145]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.42:818][145]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.42:819][145]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.42:819][145]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2018.01.21-15.55.42:824][145]LogBlueprintUserMessages: [MyGameInstance_C_6] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.42:851][145]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.555
+[2018.01.21-15.55.42:857][145]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:42 AM)
+[2018.01.21-15.55.42:982][145]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.42:982][145]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.42:982][145]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.01.21-15.55.42:982][145]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.42:983][145]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.42:984][145]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.42:984][145]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.43:013][145]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.718
+[2018.01.21-15.55.43:065][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.43:071][145]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52253
+[2018.01.21-15.55.43:071][145]LogHandshake: SendConnectChallenge. Timestamp: 0.016723, Cookie: 022130233127193058195063174031245168174083208196224070015106
+[2018.01.21-15.55.43:077][145]LogHandshake: SendChallengeResponse. Timestamp: 0.016723, Cookie: 022130233127193058195063174031245168174083208196224070015106
+[2018.01.21-15.55.43:375][146]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52253
+[2018.01.21-15.55.43:375][146]LogHandshake: SendChallengeAck. InCookie: 022130233127193058195063174031245168174083208196224070015106
+[2018.01.21-15.55.43:375][146]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52253
+[2018.01.21-15.55.43:375][146]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.43:376][146]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:43, [UNetConnection] RemoteAddr: 127.0.0.1:52253, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.43:376][146]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52253, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.43:390][146]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.43:431][147]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.43:431][147]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.43:431][147]LogNet: This platform little endian=1
+[2018.01.21-15.55.43:497][148]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-EA1A38E147D27BF64B6411B6FCF9F019 userId: DESKTOP-I9SMP4L-EA1A38E147D27BF64B6411B6FCF9F019
+[2018.01.21-15.55.43:515][148]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.43:516][148]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.43:589][148]Cmd: MEM
+[2018.01.21-15.55.43:657][148]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.43:657][148]LogMemory: Process Physical Memory: 1461.36 MB used, 1462.34 MB peak
+[2018.01.21-15.55.43:657][148]LogMemory: Process Virtual Memory: 2537.22 MB used, 2626.74 MB peak
+[2018.01.21-15.55.43:657][148]LogMemory: Physical Memory: 6754.84 MB used,  1310.42 MB free, 8065.26 MB total
+[2018.01.21-15.55.43:657][148]LogMemory: Virtual Memory: 3442.73 MB used,  1310.42 MB free, 134217728.00 MB total
+[2018.01.21-15.55.43:657][148]LogMemory: 
+[2018.01.21-15.55.43:657][148]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.43:732][148]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.43:733][148]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.43:757][148]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.43
+[2018.01.21-15.55.43:758][148]LogWorld: Bringing up level for play took: 0.015288
+[2018.01.21-15.55.43:758][148]LogLoad: Took 0.243036 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.43:804][149]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.43:805][149]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-EA1A38E147D27BF64B6411B6FCF9F019?SplitscreenCount=1
+[2018.01.21-15.55.43:806][149]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.43:814][149]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9310.000 Y=-2850.000 Z=92.000] for [VehicleBlueprint_C]
+[2018.01.21-15.55.43:815][149]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VehicleBlueprint_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -9310.000000 -2850.000000 92.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.01.21-15.55.43:815][149]LogNet: Join succeeded: DESKTOP-I9SMP4L-EA1A
+[2018.01.21-15.55.43:914][150]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.43:915][150]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.43:919][150]LogBlueprintUserMessages: [MyGameInstance_C_7] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.55.45:478][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.45:603][189]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.45:604][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.45:607][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.45:607][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.45:607][189]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.45:736][189]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.45:736][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.45:738][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.45:738][189]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.45:738][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.45:740][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.45:819][189]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52253, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.45:819][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52253, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.45
+[2018.01.21-15.55.45:819][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52253, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.45:820][189]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.45:820][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.45
+[2018.01.21-15.55.45:820][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.45:834][189]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.45:834][189]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.45:894][190]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.01.21-15.55.45:895][190]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.45:895][190]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.01.21-15.55.45:895][190]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.47:132][250]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.47:214][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.47:214][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.47:217][250]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:47 AM)
+[2018.01.21-15.55.47:220][250]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.47:282][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061236s)
+[2018.01.21-15.55.47:283][250]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.47:284][250]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2018.01.21-15.55.47:285][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.064211s)
+[2018.01.21-15.55.47:373][250]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.47:422][250]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.47:615][250]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.47:641][250]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.47
+[2018.01.21-15.55.47:643][250]LogWorld: Bringing up level for play took: 0.018336
+[2018.01.21-15.55.47:690][250]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.47:690][250]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.01.21-15.55.47:690][250]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.47:691][250]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.47:692][250]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.47:692][250]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 7777
+[2018.01.21-15.55.47:697][250]LogBlueprintUserMessages: [MyGameInstance_C_8] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.47:730][250]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 1.434
+[2018.01.21-15.55.47:735][250]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:47 AM)
+[2018.01.21-15.55.47:864][250]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.47:864][250]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.47:864][250]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.01.21-15.55.47:864][250]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.47:865][250]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.47:866][250]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.47:866][250]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.47:895][250]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 1.6
+[2018.01.21-15.55.47:950][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.47:958][250]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57351
+[2018.01.21-15.55.47:958][250]LogHandshake: SendConnectChallenge. Timestamp: 0.019788, Cookie: 054200191109044053173090127097199254047058049039214173012153
+[2018.01.21-15.55.47:964][250]LogHandshake: SendChallengeResponse. Timestamp: 0.019788, Cookie: 054200191109044053173090127097199254047058049039214173012153
+[2018.01.21-15.55.48:275][251]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57351
+[2018.01.21-15.55.48:275][251]LogHandshake: SendChallengeAck. InCookie: 054200191109044053173090127097199254047058049039214173012153
+[2018.01.21-15.55.48:275][251]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57351
+[2018.01.21-15.55.48:275][251]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.48:276][251]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:48, [UNetConnection] RemoteAddr: 127.0.0.1:57351, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.48:276][251]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57351, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.48:292][251]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.48:343][252]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.48:343][252]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.48:343][252]LogNet: This platform little endian=1
+[2018.01.21-15.55.48:401][253]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-1541F9A440DEA19A4426C9AE683D497F userId: DESKTOP-I9SMP4L-1541F9A440DEA19A4426C9AE683D497F
+[2018.01.21-15.55.48:408][253]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.48:408][253]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.48:476][253]Cmd: MEM
+[2018.01.21-15.55.48:537][253]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.48:537][253]LogMemory: Process Physical Memory: 1470.70 MB used, 1471.29 MB peak
+[2018.01.21-15.55.48:537][253]LogMemory: Process Virtual Memory: 2556.28 MB used, 2626.74 MB peak
+[2018.01.21-15.55.48:537][253]LogMemory: Physical Memory: 6770.84 MB used,  1294.41 MB free, 8065.26 MB total
+[2018.01.21-15.55.48:537][253]LogMemory: Virtual Memory: 3474.73 MB used,  1294.41 MB free, 134217728.00 MB total
+[2018.01.21-15.55.48:537][253]LogMemory: 
+[2018.01.21-15.55.48:537][253]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.48:608][253]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.48:609][253]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.48:633][253]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.48
+[2018.01.21-15.55.48:634][253]LogWorld: Bringing up level for play took: 0.015474
+[2018.01.21-15.55.48:635][253]LogLoad: Took 0.226654 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.48:685][254]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.48:685][254]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-1541F9A440DEA19A4426C9AE683D497F?SplitscreenCount=1
+[2018.01.21-15.55.48:686][254]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.48:697][254]LogNet: Join succeeded: DESKTOP-I9SMP4L-1541
+[2018.01.21-15.55.48:824][255]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.48:825][255]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.48:830][255]LogBlueprintUserMessages: [MyGameInstance_C_9] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.55.51:041][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.51:159][308]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.51:160][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.51:162][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.51:162][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.51:162][308]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.51:274][308]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.51:274][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.51:276][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.51:276][308]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.51:276][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.51:277][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.51:349][308]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57351, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.51:349][308]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57351, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.51
+[2018.01.21-15.55.51:349][308]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57351, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.51:350][308]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.51:350][308]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.51
+[2018.01.21-15.55.51:350][308]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.51:362][308]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.51:362][308]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.51:421][309]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.01.21-15.55.51:421][309]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.51:421][309]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.01.21-15.55.51:421][309]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.52:167][342]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.52:248][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.52:248][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.52:252][342]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:52 AM)
+[2018.01.21-15.55.52:255][342]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.52:312][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056731s)
+[2018.01.21-15.55.52:314][342]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.52:315][342]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2018.01.21-15.55.52:315][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.059664s)
+[2018.01.21-15.55.52:391][342]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.52:437][342]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.52:540][342]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.52:562][342]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.52
+[2018.01.21-15.55.52:563][342]LogWorld: Bringing up level for play took: 0.015036
+[2018.01.21-15.55.52:584][342]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.52:584][342]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2018.01.21-15.55.52:584][342]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.52:585][342]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.52:587][342]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.52:587][342]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 7777
+[2018.01.21-15.55.52:591][342]LogBlueprintUserMessages: [MyGameInstance_C_10] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.52:622][342]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.326
+[2018.01.21-15.55.52:627][342]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:52 AM)
+[2018.01.21-15.55.52:757][342]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.52:758][342]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.52:758][342]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2018.01.21-15.55.52:758][342]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.52:758][342]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.52:759][342]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.52:760][342]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.52:790][342]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.495
+[2018.01.21-15.55.52:845][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.52:850][342]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57352
+[2018.01.21-15.55.52:850][342]LogHandshake: SendConnectChallenge. Timestamp: 0.016925, Cookie: 107225073096037068016085148253050049228177125228239248001062
+[2018.01.21-15.55.52:856][342]LogHandshake: SendChallengeResponse. Timestamp: 0.016925, Cookie: 107225073096037068016085148253050049228177125228239248001062
+[2018.01.21-15.55.53:138][343]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57352
+[2018.01.21-15.55.53:138][343]LogHandshake: SendChallengeAck. InCookie: 107225073096037068016085148253050049228177125228239248001062
+[2018.01.21-15.55.53:139][343]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57352
+[2018.01.21-15.55.53:139][343]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.53:139][343]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:53, [UNetConnection] RemoteAddr: 127.0.0.1:57352, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.53:139][343]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57352, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.53:150][343]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.53:193][344]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.53:193][344]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.53:193][344]LogNet: This platform little endian=1
+[2018.01.21-15.55.53:253][345]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-7246A15A40E054A757545180AF237AAC userId: DESKTOP-I9SMP4L-7246A15A40E054A757545180AF237AAC
+[2018.01.21-15.55.53:259][345]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.53:260][345]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.53:330][345]Cmd: MEM
+[2018.01.21-15.55.53:410][345]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.53:411][345]LogMemory: Process Physical Memory: 1480.56 MB used, 1480.57 MB peak
+[2018.01.21-15.55.53:411][345]LogMemory: Process Virtual Memory: 2583.50 MB used, 2626.74 MB peak
+[2018.01.21-15.55.53:411][345]LogMemory: Physical Memory: 6778.84 MB used,  1286.42 MB free, 8065.26 MB total
+[2018.01.21-15.55.53:411][345]LogMemory: Virtual Memory: 3522.73 MB used,  1286.42 MB free, 134217728.00 MB total
+[2018.01.21-15.55.53:411][345]LogMemory: 
+[2018.01.21-15.55.53:411][345]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.53:478][345]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.53:479][345]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.53:504][345]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.53
+[2018.01.21-15.55.53:504][345]LogWorld: Bringing up level for play took: 0.014889
+[2018.01.21-15.55.53:505][345]LogLoad: Took 0.245385 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.53:556][346]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.53:556][346]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-7246A15A40E054A757545180AF237AAC?SplitscreenCount=1
+[2018.01.21-15.55.53:557][346]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.53:564][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3500.000 Y=17040.000 Z=102.000] for [VehicleBlueprint_C]
+[2018.01.21-15.55.53:565][346]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VehicleBlueprint_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: 3500.000000 17040.000000 102.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.01.21-15.55.53:565][346]LogNet: Join succeeded: DESKTOP-I9SMP4L-7246
+[2018.01.21-15.55.53:644][347]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.53:647][347]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.53:650][347]LogBlueprintUserMessages: [MyGameInstance_C_11] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.55.55:126][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.55:243][384]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.55:244][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.55:246][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.55:246][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.55:246][384]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.55.55:797][384]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.55:798][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.55.55:799][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.55.55:799][384]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.55.55:799][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.55.55:800][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.55:870][384]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57352, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.55:870][384]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57352, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.55
+[2018.01.21-15.55.55:870][384]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57352, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.55.55:870][384]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.55:870][384]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.55.55
+[2018.01.21-15.55.55:870][384]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.55.55:888][384]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.55:888][384]LogExit: GameNetDriver None shut down
+[2018.01.21-15.55.55:941][385]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.01.21-15.55.55:941][385]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.55:941][385]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.01.21-15.55.55:941][385]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.55.56:702][423]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.55.56:789][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.56:789][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.55.56:792][423]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:56 AM)
+[2018.01.21-15.55.56:795][423]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.55.56:856][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060144s)
+[2018.01.21-15.55.56:857][423]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.56:858][423]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2018.01.21-15.55.56:858][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.062856s)
+[2018.01.21-15.55.56:932][423]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.55.56:983][423]LogInit: FAudioDevice initialized.
+[2018.01.21-15.55.57:084][423]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.55.57:106][423]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.57
+[2018.01.21-15.55.57:107][423]LogWorld: Bringing up level for play took: 0.014969
+[2018.01.21-15.55.57:128][423]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.57:128][423]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2018.01.21-15.55.57:128][423]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.57:129][423]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.55.57:130][423]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.57:130][423]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 7777
+[2018.01.21-15.55.57:135][423]LogBlueprintUserMessages: [MyGameInstance_C_12] Server: Error: trying to leave current state: 0
+[2018.01.21-15.55.57:163][423]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.867
+[2018.01.21-15.55.57:169][423]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:55:57 AM)
+[2018.01.21-15.55.57:307][423]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.55.57:307][423]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.57:307][423]LogTemp: Display: ParseSettings for IpNetDriver_13
+[2018.01.21-15.55.57:307][423]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.55.57:308][423]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.55.57:309][423]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.57:309][423]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.55.57:339][423]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 1.043
+[2018.01.21-15.55.57:389][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.55.57:395][423]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57353
+[2018.01.21-15.55.57:395][423]LogHandshake: SendConnectChallenge. Timestamp: 0.018722, Cookie: 046061079031250001209089021119053138116016058030152038234039
+[2018.01.21-15.55.57:402][423]LogHandshake: SendChallengeResponse. Timestamp: 0.018722, Cookie: 046061079031250001209089021119053138116016058030152038234039
+[2018.01.21-15.55.57:709][424]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57353
+[2018.01.21-15.55.57:709][424]LogHandshake: SendChallengeAck. InCookie: 046061079031250001209089021119053138116016058030152038234039
+[2018.01.21-15.55.57:711][424]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57353
+[2018.01.21-15.55.57:712][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.55.57:712][424]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:55:57, [UNetConnection] RemoteAddr: 127.0.0.1:57353, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.57:712][424]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57353, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.55.57:720][424]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: PendingNetDriver IpNetDriver_13, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.55.57:759][425]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.55.57:760][425]LogNet: Remote platform little endian=1
+[2018.01.21-15.55.57:760][425]LogNet: This platform little endian=1
+[2018.01.21-15.55.57:821][426]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-748AAAA74D535995D11A3398981CB76D userId: DESKTOP-I9SMP4L-748AAAA74D535995D11A3398981CB76D
+[2018.01.21-15.55.57:827][426]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.55.57:827][426]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.55.57:910][426]Cmd: MEM
+[2018.01.21-15.55.57:969][426]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.55.57:969][426]LogMemory: Process Physical Memory: 1487.96 MB used, 1488.48 MB peak
+[2018.01.21-15.55.57:969][426]LogMemory: Process Virtual Memory: 2558.33 MB used, 2626.74 MB peak
+[2018.01.21-15.55.57:969][426]LogMemory: Physical Memory: 6776.17 MB used,  1289.09 MB free, 8065.26 MB total
+[2018.01.21-15.55.57:969][426]LogMemory: Virtual Memory: 3522.73 MB used,  1289.09 MB free, 134217728.00 MB total
+[2018.01.21-15.55.57:970][426]LogMemory: 
+[2018.01.21-15.55.57:970][426]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.55.58:037][426]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.55.58:038][426]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.55.58:060][426]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.55.58
+[2018.01.21-15.55.58:061][426]LogWorld: Bringing up level for play took: 0.014980
+[2018.01.21-15.55.58:061][426]LogLoad: Took 0.234072 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.55.58:109][427]LogNet: Client netspeed is 10000
+[2018.01.21-15.55.58:109][427]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-748AAAA74D535995D11A3398981CB76D?SplitscreenCount=1
+[2018.01.21-15.55.58:110][427]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.58:124][427]LogNet: Join succeeded: DESKTOP-I9SMP4L-748A
+[2018.01.21-15.55.58:263][428]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.58:263][428]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.55.58:268][428]LogBlueprintUserMessages: [MyGameInstance_C_13] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.56.00:234][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.00:360][474]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.00:360][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.56.00:362][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.56.00:362][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.56.00:362][474]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.56.00:481][474]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.00:482][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.56.00:484][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.56.00:484][474]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.56.00:484][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.56.00:487][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.00:561][474]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57353, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.56.00:562][474]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57353, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.56.00
+[2018.01.21-15.56.00:562][474]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57353, Name: IpConnection_13, Driver: GameNetDriver IpNetDriver_12, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.56.00:562][474]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.56.00:562][474]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.56.00
+[2018.01.21-15.56.00:562][474]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_12, Driver: GameNetDriver IpNetDriver_13, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.56.00:575][474]LogExit: GameNetDriver None shut down
+[2018.01.21-15.56.00:575][474]LogExit: GameNetDriver None shut down
+[2018.01.21-15.56.00:624][475]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.01.21-15.56.00:624][475]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.00:624][475]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.01.21-15.56.00:624][475]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.01:758][530]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-15.56.02:014][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.02:015][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-15.56.02:018][530]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:56:02 AM)
+[2018.01.21-15.56.02:021][530]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel
+[2018.01.21-15.56.02:080][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058372s)
+[2018.01.21-15.56.02:081][530]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.56.02:082][530]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2018.01.21-15.56.02:083][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel to /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel (0.061533s)
+[2018.01.21-15.56.02:151][530]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-15.56.02:197][530]LogInit: FAudioDevice initialized.
+[2018.01.21-15.56.02:303][530]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-15.56.02:324][530]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.56.02
+[2018.01.21-15.56.02:325][530]LogWorld: Bringing up level for play took: 0.014518
+[2018.01.21-15.56.02:346][530]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.56.02:347][530]LogTemp: Display: ParseSettings for IpNetDriver_14
+[2018.01.21-15.56.02:347][530]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.56.02:348][530]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-15.56.02:349][530]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.56.02:349][530]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 7777
+[2018.01.21-15.56.02:354][530]LogBlueprintUserMessages: [MyGameInstance_C_14] Server: Error: trying to leave current state: 0
+[2018.01.21-15.56.02:384][530]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel 0.089
+[2018.01.21-15.56.02:389][530]PIE: New page: PIE session: StandardLevel (Jan 21, 2018, 5:56:02 AM)
+[2018.01.21-15.56.02:521][530]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-15.56.02:521][530]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.56.02:522][530]LogTemp: Display: ParseSettings for IpNetDriver_15
+[2018.01.21-15.56.02:522][530]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-15.56.02:522][530]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-15.56.02:523][530]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.56.02:524][530]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-15.56.02:554][530]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.259
+[2018.01.21-15.56.02:606][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.02:611][530]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65054
+[2018.01.21-15.56.02:611][530]LogHandshake: SendConnectChallenge. Timestamp: 0.016916, Cookie: 167027086200166148107207242060019238126149016251169145251017
+[2018.01.21-15.56.02:618][530]LogHandshake: SendChallengeResponse. Timestamp: 0.016916, Cookie: 167027086200166148107207242060019238126149016251169145251017
+[2018.01.21-15.56.02:840][531]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65054
+[2018.01.21-15.56.02:840][531]LogHandshake: SendChallengeAck. InCookie: 167027086200166148107207242060019238126149016251169145251017
+[2018.01.21-15.56.02:841][531]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65054
+[2018.01.21-15.56.02:841][531]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-15.56.02:841][531]LogNet: NotifyAcceptedConnection: Name: StandardLevel, TimeStamp: 01/21/18 10:56:02, [UNetConnection] RemoteAddr: 127.0.0.1:65054, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.56.02:841][531]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65054, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-15.56.02:855][531]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: PendingNetDriver IpNetDriver_15, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-15.56.02:906][532]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel.StandardLevel: Accepted
+[2018.01.21-15.56.02:906][532]LogNet: Remote platform little endian=1
+[2018.01.21-15.56.02:906][532]LogNet: This platform little endian=1
+[2018.01.21-15.56.02:952][533]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-8A310F4C484D0E701EC2848C5C13A2FB userId: DESKTOP-I9SMP4L-8A310F4C484D0E701EC2848C5C13A2FB
+[2018.01.21-15.56.02:958][533]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-15.56.02:959][533]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-15.56.03:023][533]Cmd: MEM
+[2018.01.21-15.56.03:087][533]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-15.56.03:087][533]LogMemory: Process Physical Memory: 1492.75 MB used, 1493.31 MB peak
+[2018.01.21-15.56.03:087][533]LogMemory: Process Virtual Memory: 2599.15 MB used, 2626.74 MB peak
+[2018.01.21-15.56.03:087][533]LogMemory: Physical Memory: 6800.89 MB used,  1264.37 MB free, 8065.26 MB total
+[2018.01.21-15.56.03:088][533]LogMemory: Virtual Memory: 3570.73 MB used,  1264.37 MB free, 134217728.00 MB total
+[2018.01.21-15.56.03:088][533]LogMemory: 
+[2018.01.21-15.56.03:088][533]Allocator Stats for TBB: (not implemented)
+[2018.01.21-15.56.03:158][533]LogAIModule: Creating AISystem for world StandardLevel
+[2018.01.21-15.56.03:159][533]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-15.56.03:182][533]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_StandardLevel.StandardLevel up for play (max tick rate 60) at 2018.01.21-10.56.03
+[2018.01.21-15.56.03:183][533]LogWorld: Bringing up level for play took: 0.014475
+[2018.01.21-15.56.03:184][533]LogLoad: Took 0.224491 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_StandardLevel)
+[2018.01.21-15.56.03:229][534]LogNet: Client netspeed is 10000
+[2018.01.21-15.56.03:229][534]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=DESKTOP-I9SMP4L-8A310F4C484D0E701EC2848C5C13A2FB?SplitscreenCount=1
+[2018.01.21-15.56.03:230][534]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.56.03:241][534]LogNet: Join succeeded: DESKTOP-I9SMP4L-8A31
+[2018.01.21-15.56.03:326][535]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.56.03:326][535]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-15.56.03:332][535]LogBlueprintUserMessages: [MyGameInstance_C_15] Client 1: Error: trying to leave current state: 0
+[2018.01.21-15.56.37:485][340]LogBlueprintUserMessages: [BP_Projectile_C_0] Client 1: Plane
+[2018.01.21-15.56.37:754][346]LogBlueprintUserMessages: [BP_Projectile_C_0] Server: BP_Projectile1
+[2018.01.21-15.56.37:755][346]LogBlueprintUserMessages: [BP_Projectile_C_1] Server: BP_Projectile
+[2018.01.21-15.56.38:664][367]LogBlueprintUserMessages: [BP_Projectile_C_1] Client 1: Plane
+[2018.01.21-15.56.39:170][379]LogBlueprintUserMessages: [BP_Projectile_C_2] Server: BP_Projectile3
+[2018.01.21-15.56.39:171][379]LogBlueprintUserMessages: [BP_Projectile_C_3] Server: BP_Projectile2
+[2018.01.21-15.56.39:939][397]LogBlueprintUserMessages: [BP_Projectile_C_2] Client 1: Plane
+[2018.01.21-15.56.40:071][400]LogBlueprintUserMessages: [BP_Projectile_C_4] Server: BP_Projectile5
+[2018.01.21-15.56.40:072][400]LogBlueprintUserMessages: [BP_Projectile_C_5] Server: BP_Projectile4
+[2018.01.21-15.56.40:550][410]LogBlueprintUserMessages: [BP_Projectile_C_6] Server: BP_Projectile7
+[2018.01.21-15.56.40:551][410]LogBlueprintUserMessages: [BP_Projectile_C_7] Server: BP_Projectile6
+[2018.01.21-15.56.41:288][426]LogBlueprintUserMessages: [BP_Projectile_C_4] Client 1: Plane
+[2018.01.21-15.56.41:551][432]LogBlueprintUserMessages: [BP_Projectile_C_8] Server: BP_Projectile9
+[2018.01.21-15.56.41:551][432]LogBlueprintUserMessages: [BP_Projectile_C_9] Server: BP_Projectile8
+[2018.01.21-15.56.42:026][443]LogBlueprintUserMessages: [BP_Projectile_C_10] Server: BP_Projectile11
+[2018.01.21-15.56.42:026][443]LogBlueprintUserMessages: [BP_Projectile_C_11] Server: BP_Projectile10
+[2018.01.21-15.56.42:531][454]LogBlueprintUserMessages: [BP_Projectile_C_12] Server: BP_Projectile13
+[2018.01.21-15.56.42:532][454]LogBlueprintUserMessages: [BP_Projectile_C_13] Server: BP_Projectile12
+[2018.01.21-15.56.43:172][468]LogBlueprintUserMessages: [BP_Projectile_C_7] Client 1: Plane
+[2018.01.21-15.56.43:346][472]LogBlueprintUserMessages: [BP_Projectile_C_14] Server: BP_Projectile15
+[2018.01.21-15.56.43:346][472]LogBlueprintUserMessages: [BP_Projectile_C_15] Server: BP_Projectile14
+[2018.01.21-15.56.43:789][482]LogBlueprintUserMessages: [BP_Projectile_C_16] Server: BP_Projectile17
+[2018.01.21-15.56.43:790][482]LogBlueprintUserMessages: [BP_Projectile_C_17] Server: BP_Projectile16
+[2018.01.21-15.56.44:309][493]LogBlueprintUserMessages: [BP_Projectile_C_9] Client 1: Plane
+[2018.01.21-15.56.45:265][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.45:515][514]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.45:515][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.56.45:517][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.56.45:517][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.56.45:517][514]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-15.56.45:675][514]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.45:675][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.56.45:677][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.56.45:677][514]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.56.45:677][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-15.56.45:678][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel' with GeneratedClass '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/StandardLevel.StandardLevel:PersistentLevel.StandardLevel'
+[2018.01.21-15.56.45:739][514]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65054, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.56.45:739][514]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65054, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.56.45
+[2018.01.21-15.56.45:739][514]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65054, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: None, Owner: None
+[2018.01.21-15.56.45:739][514]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.56.45:739][514]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-15.56.45
+[2018.01.21-15.56.45:740][514]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: None, Owner: None
+[2018.01.21-15.56.45:752][514]LogExit: GameNetDriver None shut down
+[2018.01.21-15.56.45:753][514]LogExit: GameNetDriver None shut down
+[2018.01.21-15.56.45:813][515]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.01.21-15.56.45:813][515]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.45:813][515]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.01.21-15.56.45:813][515]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.52:080][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.21-15.56.54:456][695]Cmd: QUIT_EDITOR
+[2018.01.21-15.56.54:839][695]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.21-15.56.54:916][695]LogExit: Preparing to exit.
+[2018.01.21-15.56.55:827][695]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/' was aborted.
+[2018.01.21-15.56.55:950][695]LogExit: Editor shut down
+[2018.01.21-15.56.55:983][695]LogExit: Transaction tracking system shut down
+[2018.01.21-15.56.56:320][695]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.21-15.56.56:320][695]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/' was aborted.
+[2018.01.21-15.56.56:321][695]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.21-15.56.56:321][695]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.21-15.56.56:321][695]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.21-15.56.56:660][695]LogExit: Object subsystem successfully closed.
+[2018.01.21-15.56.56:700][695]LogD3D11RHI: Shutdown
+[2018.01.21-15.56.56:700][695]LogD3D11RHI: CleanupD3DDevice
+[2018.01.21-15.56.57:070][695]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.21-15.56.57:156][695]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.01.21-15.56.57:157][695]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.01.21-15.56.57:157][695]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.01.21-15.56.57:161][695]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.01.21-15.56.57:161][695]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.01.21-15.56.57:161][695]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.01.21-15.56.57:161][695]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/Collections/' was aborted.
+[2018.01.21-15.56.57:161][695]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Content/Developers/AricsPC/Collections/' was aborted.
+[2018.01.21-15.56.57:161][695]LogDirectoryWatcher: A directory notification for 'C:/Users/Aric's PC/Documents/Unreal Projects/CarBlueprintsForReal/Saved/Collections/' was aborted.
+[2018.01.21-15.56.57:162][695]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2018.01.21-15.56.57:163][695]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2018.01.21-15.56.57:164][695]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module Media (479)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2018.01.21-15.56.57:165][695]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2018.01.21-15.56.57:166][695]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2018.01.21-15.56.57:839][695]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2018.01.21-15.56.57:839][695]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2018.01.21-15.56.57:840][695]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2018.01.21-15.56.57:841][695]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2018.01.21-15.56.57:842][695]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2018.01.21-15.56.57:912][695]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2018.01.21-15.56.57:914][695]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2018.01.21-15.56.57:914][695]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2018.01.21-15.56.57:915][695]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2018.01.21-15.56.57:915][695]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2018.01.21-15.56.57:936][695]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2018.01.21-15.56.57:936][695]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2018.01.21-15.56.57:936][695]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2018.01.21-15.56.57:937][695]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2018.01.21-15.56.57:938][695]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2018.01.21-15.56.58:089][695]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (314)
+[2018.01.21-15.56.58:090][695]LogModuleManager: Shutting down and abandoning module RawInput (312)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2018.01.21-15.56.58:091][695]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.01.21-15.56.58:092][695]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.01.21-15.56.58:093][695]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.01.21-15.56.58:096][695]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.01.21-15.56.58:097][695]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.01.21-15.56.58:097][695]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module OculusEditor (256)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (254)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2018.01.21-15.56.58:101][695]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2018.01.21-15.56.58:202][695]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2018.01.21-15.56.58:448][695]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (244)
+[2018.01.21-15.56.58:449][695]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (242)
+[2018.01.21-15.56.58:449][695]LogModuleManager: Shutting down and abandoning module FacialAnimation (240)
+[2018.01.21-15.56.58:449][695]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (238)
+[2018.01.21-15.56.58:449][695]LogModuleManager: Shutting down and abandoning module GraphEditor (237)
+[2018.01.21-15.56.58:449][695]LogModuleManager: Shutting down and abandoning module ContentBrowser (235)
+[2018.01.21-15.56.58:452][695]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (232)
+[2018.01.21-15.56.58:452][695]LogModuleManager: Shutting down and abandoning module Paper2D (230)
+[2018.01.21-15.56.58:452][695]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (228)
+[2018.01.21-15.56.58:452][695]LogModuleManager: Shutting down and abandoning module WmfMedia (226)
+[2018.01.21-15.56.58:458][695]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module VREditor (212)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module StringTableEditor (210)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (208)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (206)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module FunctionalTesting (204)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (202)
+[2018.01.21-15.56.58:459][695]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (201)
+[2018.01.21-15.56.58:488][695]LogModuleManager: Shutting down and abandoning module UMG (198)
+[2018.01.21-15.56.58:488][695]LogModuleManager: Shutting down and abandoning module UMGEditor (197)
+[2018.01.21-15.56.58:489][695]LogModuleManager: Shutting down and abandoning module Sequencer (196)
+[2018.01.21-15.56.58:489][695]LogModuleManager: Shutting down and abandoning module MessageLog (193)
+[2018.01.21-15.56.58:489][695]LogModuleManager: Shutting down and abandoning module SlateReflector (188)
+[2018.01.21-15.56.58:489][695]LogModuleManager: Shutting down and abandoning module Slate (186)
+[2018.01.21-15.56.58:489][695]LogModuleManager: Shutting down and abandoning module EditorStyle (184)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module KismetCompiler (168)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module LevelSequence (166)
+[2018.01.21-15.56.58:505][695]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (161)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (159)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (157)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module MaterialBaking (153)
+[2018.01.21-15.56.58:506][695]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (150)
+[2018.01.21-15.56.58:511][695]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.21-15.56.58:666][695]LogDerivedDataCache: Shutdown
+[2018.01.21-15.56.58:666][695]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.21-15.56.58:666][695]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.21-15.56.58:667][695]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.21-15.56.58:672][695]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (99)
+[2018.01.21-15.56.58:673][695]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (97)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (95)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (93)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (85)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.21-15.56.58:674][695]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.21-15.56.58:675][695]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.21-15.56.58:675][695]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.21-15.56.58:675][695]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.21-15.56.58:675][695]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.21-15.56.58:682][695]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.21-15.56.58:682][695]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.21-15.56.58:682][695]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.21-15.56.58:682][695]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.21-15.56.58:682][695]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.21-15.56.58:683][695]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.21-15.56.58:683][695]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (52)
+[2018.01.21-15.56.58:683][695]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
+[2018.01.21-15.56.58:683][695]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-15.56.58:683][695]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-15.56.58:684][695]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-15.56.58:728][695]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-15.56.58:728][695]LogOnline: Display: Unloading online subsystem: NULL
+[2018.01.21-15.56.58:729][695]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.21-15.56.58:729][695]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.21-15.56.58:729][695]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.21-15.56.58:729][695]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB949A489-4966-6803-66A4-D7B2B7591239%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=cd1f60b7479b32bd24c174b1375c1b70%7C4ba7aa541e964517b0d99766beec29d1%7Cb30741d6-520e-4fea-be44-def22d0e3946&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.21-15.56.58:758][695]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.21-15.56.58:784][695]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.21-15.56.58:785][695]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.21-15.56.58:785][695]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.21-15.56.58:786][695]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.21-15.56.58:786][695]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.21-15.56.58:884][695]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.21-15.56.58:885][695]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.21-15.56.58:888][695]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.21-15.56.58:888][695]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.21-15.56.58:889][695]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.21-15.56.58:904][695]LogExit: Exiting.
+[2018.01.21-15.56.59:243][695]Log file closed, 01/21/18 10:56:59
