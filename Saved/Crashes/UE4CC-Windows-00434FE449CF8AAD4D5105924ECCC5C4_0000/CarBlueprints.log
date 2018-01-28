@@ -1,0 +1,1302 @@
+﻿Log file open, 01/21/18 11:51:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CarBlueprints
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(164775855) SRandInit(164775855).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.140747
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.21-16.51.24:965][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-16.51.24:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.21-16.51.24:999][  0]LogInit: Computer: LAPTOP-QGRD1O7A
+[2018.01.21-16.51.24:999][  0]LogInit: User: agsch
+[2018.01.21-16.51.24:999][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.21-16.51.24:999][  0]LogInit: High frequency timer resolution =2.835934 MHz
+[2018.01.21-16.51.25:000][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.21-16.51.25:000][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-16.51.25:000][  0]LogMemory: Process Physical Memory: 278.59 MB used, 278.59 MB peak
+[2018.01.21-16.51.25:000][  0]LogMemory: Process Virtual Memory: 275.82 MB used, 275.82 MB peak
+[2018.01.21-16.51.25:000][  0]LogMemory: Physical Memory: 3454.31 MB used,  4618.23 MB free, 8072.54 MB total
+[2018.01.21-16.51.25:000][  0]LogMemory: Virtual Memory: 702.29 MB used,  4618.23 MB free, 134217728.00 MB total
+[2018.01.21-16.51.25:830][  0]LogInit: Using OS detected language (en-US).
+[2018.01.21-16.51.25:830][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.21-16.51.25:901][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.21-16.51.29:274][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.21-16.51.29:379][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.01.21-16.51.29:379][  0]LogD3D11RHI:       2019/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.21-16.51.29:386][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.01.21-16.51.29:386][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.21-16.51.29:388][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.21-16.51.29:388][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.21-16.51.29:388][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.21-16.51.29:398][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.21-16.51.29:398][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2018.01.21-16.51.29:398][  0]LogWindows: EnumDisplayDevices:
+[2018.01.21-16.51.29:398][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.01.21-16.51.29:398][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.01.21-16.51.29:398][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.01.21-16.51.29:398][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.21-16.51.29:398][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.01.21-16.51.29:398][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.21-16.51.29:398][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.21-16.51.29:398][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.21-16.51.29:419][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.21-16.51.29:468][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.21-16.51.29:480][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Intermediate/Shaders/WorkingDirectory/7936/).
+[2018.01.21-16.51.29:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agsch/AppData/Local/Temp/UnrealShaderWorkingDir/67287B214362C6209F0FF9A50FAEB986/'.
+[2018.01.21-16.51.29:481][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.21-16.51.31:964][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.21-16.51.32:020][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.21-16.51.32:071][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.21-16.51.32:122][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.21-16.51.32:181][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.21-16.51.32:236][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.21-16.51.32:285][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.21-16.51.32:337][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.21-16.51.32:381][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.21-16.51.32:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.21-16.51.32:486][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.21-16.51.32:539][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.21-16.51.32:587][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.21-16.51.32:638][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.21-16.51.32:687][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.21-16.51.32:784][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.21-16.51.32:784][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.21-16.51.32:824][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.21-16.51.32:926][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.21-16.51.32:956][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.21-16.51.33:005][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.21-16.51.33:057][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.21-16.51.33:104][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.21-16.51.33:160][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.21-16.51.33:160][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.21-16.51.33:744][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.21-16.51.34:203][  0]LogDerivedDataCache: Loaded boot cache 0.46s 93MB C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.21-16.51.34:203][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.21-16.51.34:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.21-16.51.34:204][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.21-16.51.34:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.21-16.51.34:204][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.21-16.51.34:234][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.21-16.51.34:247][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agsch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.21-16.51.34:262][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.21-16.51.34:269][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.21-16.51.34:289][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-16.51.34:289][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.21-16.51.35:581][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2018.01.21-16.51.35:750][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.21-16.51.36:384][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.21-16.51.36:796][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.21-16.51.36:853][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.21-16.51.36:855][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.21-16.51.36:855][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.21-16.51.36:855][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.21-16.51.36:855][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.21-16.51.37:896][  0]LogNetVersion: CarBlueprints , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3571599761)
+[2018.01.21-16.51.38:510][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.069238 seconds
+[2018.01.21-16.51.38:518][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.21-16.51.38:518][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.01.21-16.51.38:518][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.21-16.51.44:995][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.21-16.51.45:040][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.21-16.51.46:000][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.21-16.51.46:548][  0]SourceControl: Source control is disabled
+[2018.01.21-16.51.46:548][  0]SourceControl: Source control is disabled
+[2018.01.21-16.51.46:611][  0]SourceControl: Source control is disabled
+[2018.01.21-16.51.46:663][  0]SourceControl: Source control is disabled
+[2018.01.21-16.51.47:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.21-16.51.47:545][  0]LogOcInput: OculusInput pre-init called
+[2018.01.21-16.51.47:859][  0]LogEngine: Initializing Engine...
+[2018.01.21-16.51.47:864][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.21-16.51.48:311][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.21-16.51.48:311][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.21-16.51.48:491][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.21-16.51.48:506][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-16.51.48:646][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-16.51.48:743][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/agsch/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.21-16.51.48:767][  0]LogInit: Texture streaming: Enabled
+[2018.01.21-16.51.48:890][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.21-16.51.49:198][  0]LogInit: Transaction tracking system initialized
+[2018.01.21-16.51.49:600][  0]BlueprintLog: New page: Editor Load
+[2018.01.21-16.51.50:688][  0]LocalizationService: Localization service is disabled
+[2018.01.21-16.51.51:516][  0]LogConsoleResponse: Display: 
+[2018.01.21-16.51.52:078][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.21-16.51.52:078][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.21-16.51.52:080][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.21-16.51.52:386][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarMaster/Content/' took 0.02s
+[2018.01.21-16.51.53:595][  0]SourceControl: Source control is disabled
+[2018.01.21-16.51.53:598][  0]Cmd: MAP LOAD FILE="../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-16.51.53:604][  0]LightingResults: New page: Lighting Build
+[2018.01.21-16.51.53:658][  0]MapCheck: New page: Map Check
+[2018.01.21-16.51.53:658][  0]LightingResults: New page: Lighting Build
+[2018.01.21-16.51.54:102][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.01.21-16.51.54:108][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-16.51.54:130][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-16.51.54:209][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.606ms to complete.
+[2018.01.21-16.51.54:209][  0]LogFileHelpers: Loading map 'MainMenu' took 0.612
+[2018.01.21-16.51.54:509][  0]LogCollectionManager: Loaded 0 collections in 0.002189 seconds
+[2018.01.21-16.51.54:631][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarMaster/Saved/Collections/' took 0.01s
+[2018.01.21-16.51.54:631][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarMaster/Content/Developers/agsch/Collections/' took 0.01s
+[2018.01.21-16.51.54:631][  0]LogFileCache: Scanning file cache for directory 'C:/Users/agsch/Documents/Unreal Projects/CarMaster/Content/Collections/' took 0.01s
+[2018.01.21-16.51.54:631][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.21-16.51.54:648][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2388 classes and 503 folders.
+[2018.01.21-16.51.54:735][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.21-16.51.55:284][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.21-16.51.55:351][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.01.21-16.51.55:563][  0]LogSlate: Took 0.014826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-16.51.55:572][  0]LogSlate: Took 0.006053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.21-16.51.55:588][  0]LogSlate: Took 0.007266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.21-16.51.55:822][  0]LogRenderer: Reallocating scene render targets to support 912x436 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-16.51.56:262][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.01.21-16.51.56:262][  0]LogLoad: (Engine Initialization) Total time: 34.15 seconds
+[2018.01.21-16.51.56:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.21-16.51.56:264][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.21-16.51.56:282][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.01.21-16.51.56:282][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.01.21-16.51.56:282][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1
+[2018.01.21-16.51.56:282][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.01.21-16.51.56:282][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1
+[2018.01.21-16.51.56:304][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.21-16.51.56:361][  0]LogSlate: Took 0.007516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-16.51.56:395][  1]LogAssetRegistry: Asset discovery search completed in 20.8402 seconds
+[2018.01.21-16.51.56:398][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.21-16.51.56:398][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.01.21-16.51.57:328][ 46]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-16.52.07:264][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-16.52.07:264][607]LoadErrors: Failed to load /Game/VehicleAdv/Materials/M_FPGun.M_FPGun Referenced by WeaponMesh_GEN_VARIABLE
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:265][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:265][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:265][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2018.01.21-16.52.07:265][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-16.52.07:266][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:266][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2018.01.21-16.52.07:267][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-16.52.07:267][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:267][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-16.52.07:267][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:267][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:268][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2018.01.21-16.52.07:268][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-16.52.07:269][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:269][607]LoadErrors: Error: /Game/VehicleAdv/Materials/M_FPGun : Can't find file for asset. /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2018.01.21-16.52.07:269][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-16.52.07:269][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:269][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-16.52.07:270][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdv/Materials/M_FPGun.uasset.
+[2018.01.21-16.52.07:515][607]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.52.07:515][607]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.52.07:515][607]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.52.07:604][607]LogBlueprint: Warning: [Compiler HUD] [0045.49] Compile of HUD failed. 3 Fatal Issue(s) 0 Warning(s) [in 124 ms] (/Game/VehicleAdvBP/Blueprints/Widgets/HUD.HUD)
+[2018.01.21-16.52.07:623][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-16.52.07:623][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by M_FPGun
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-16.52.07:624][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by M_FPGun
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-16.52.07:624][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by M_FPGun
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.01.21-16.52.07:624][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-16.52.07:624][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by M_FPGun
+[2018.01.21-16.52.07:625][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2018.01.21-16.52.07:625][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige'
+[2018.01.21-16.52.07:625][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige Referenced by MaterialExpressionMaterialFunctionCall_13
+[2018.01.21-16.52.07:625][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige' while loading NULL.
+[2018.01.21-16.52.07:625][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen'
+[2018.01.21-16.52.07:625][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen Referenced by MaterialExpressionMaterialFunctionCall_4
+[2018.01.21-16.52.07:625][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen' while loading NULL.
+[2018.01.21-16.52.07:626][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4'
+[2018.01.21-16.52.07:626][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4 Referenced by MaterialExpressionMaterialFunctionCall_8
+[2018.01.21-16.52.07:626][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4' while loading NULL.
+[2018.01.21-16.52.07:626][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4'
+[2018.01.21-16.52.07:626][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4 Referenced by MaterialExpressionMaterialFunctionCall_9
+[2018.01.21-16.52.07:626][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4' while loading NULL.
+[2018.01.21-16.52.07:626][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N'
+[2018.01.21-16.52.07:627][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_N.T_FPGun_N Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2018.01.21-16.52.07:627][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_N' while loading NULL.
+[2018.01.21-16.52.07:627][607]LogLinker: Warning: Can't find file '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M'
+[2018.01.21-16.52.07:627][607]LoadErrors: Failed to load /Game/FirstPerson/FPWeapon/Textures/T_FPGun_M.T_FPGun_M Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.01.21-16.52.07:627][607]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/FPWeapon/Textures/T_FPGun_M' while loading NULL.
+[2018.01.21-16.52.07:662][607]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: Failed to compile Material /Game/VehicleAdv/Materials/M_FPGun.M_FPGun for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Missing Material Function
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2018.01.21-16.52.07:666][607]LogMaterial: Warning: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2018.01.21-16.52.07:995][607]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.21-16.52.08:605][607]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2018.01.21-16.52.09:762][607]LogSlate: Took 0.005939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.21-16.52.25:270][318]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.52.25:350][318]Cmd: MAP LOAD FILE="../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.21-16.52.25:350][318]LightingResults: New page: Lighting Build
+[2018.01.21-16.52.25:351][318]LoadErrors: New page: Loading map: VehicleAdvExampleMap.umap
+[2018.01.21-16.52.25:352][318]MapCheck: New page: Map Check
+[2018.01.21-16.52.25:352][318]LightingResults: New page: Lighting Build
+[2018.01.21-16.52.25:618][318]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.21-16.52.25:699][318]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.21-16.52.25:759][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.814ms to complete.
+[2018.01.21-16.52.25:760][318]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 0.411
+[2018.01.21-16.52.27:704][414]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-16.52.27:770][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.52.27:770][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-16.53.25:462][ 48]LogSlate: Took 0.004389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.21-16.53.46:067][946]BlueprintLog: New page: Compile HUD
+[2018.01.21-16.53.46:300][946]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.53.46:300][946]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.53.46:643][946]LogBlueprint: Warning: [Compiler HUD] [0144.53] Compile of HUD failed. 2 Fatal Issue(s) 0 Warning(s) [in 575 ms] (/Game/VehicleAdvBP/Blueprints/Widgets/HUD.HUD)
+[2018.01.21-16.54.10:813][177]BlueprintLog: New page: Compile HUD
+[2018.01.21-16.54.10:974][177]LogBlueprint: Error: [Compiler HUD] In use pin  Player Score List  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.01.21-16.54.11:286][177]LogBlueprint: Warning: [Compiler HUD] [0169.17] Compile of HUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 472 ms] (/Game/VehicleAdvBP/Blueprints/Widgets/HUD.HUD)
+[2018.01.21-16.54.19:380][617]BlueprintLog: New page: Compile HUD
+[2018.01.21-16.54.21:067][660]LogSavePackage: Save=115.38ms
+[2018.01.21-16.54.21:067][660]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/HUDA3F1C24B4E70FBFD39116389977B4889.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/Widgets/HUD.uasset'
+[2018.01.21-16.54.21:072][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/Widgets/HUD.uasset
+[2018.01.21-16.54.23:125][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-16.54.23:177][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.23:177][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-16.54.23:179][767]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.54.23:179][767]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.54.23:194][767]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.54.23:194][767]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.54.23:194][767]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 6:54:23 AM)
+[2018.01.21-16.54.23:195][767]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap
+[2018.01.21-16.54.23:316][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121149s)
+[2018.01.21-16.54.23:317][767]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.54.23:317][767]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.01.21-16.54.23:317][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap (0.122334s)
+[2018.01.21-16.54.23:346][767]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-16.54.23:385][767]LogInit: FAudioDevice initialized.
+[2018.01.21-16.54.23:448][767]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-16.54.23:457][767]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-11.54.23
+[2018.01.21-16.54.23:459][767]LogWorld: Bringing up level for play took: 0.007826
+[2018.01.21-16.54.23:566][767]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.01.21-16.54.23:572][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.23:573][767]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.21-16.54.23:573][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.23:574][767]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-16.54.23:574][767]LogInit: WinSock: I am LAPTOP-QGRD1O7A (192.168.86.101:0)
+[2018.01.21-16.54.23:575][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.23:575][767]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.01.21-16.54.23:581][767]LogBlueprintUserMessages: [HUD_C_3] Server: 0
+[2018.01.21-16.54.23:583][767]LogBlueprintUserMessages: [MyGameInstance_C_0] Server: Error: trying to leave current state: 0
+[2018.01.21-16.54.23:591][767]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap -0.514
+[2018.01.21-16.54.23:594][767]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 6:54:23 AM)
+[2018.01.21-16.54.23:662][767]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-16.54.23:662][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.23:662][767]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.21-16.54.23:662][767]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-16.54.23:663][767]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-16.54.23:664][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.23:666][767]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-16.54.23:678][767]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap -0.427
+[2018.01.21-16.54.23:697][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.23:701][767]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57099
+[2018.01.21-16.54.23:701][767]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 230068149095219246117233091127078218042008008211154236076026
+[2018.01.21-16.54.23:742][767]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 230068149095219246117233091127078218042008008211154236076026
+[2018.01.21-16.54.23:788][767]LogRenderer: Reallocating scene render targets to support 912x504 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-16.54.23:896][768]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57099
+[2018.01.21-16.54.23:896][768]LogHandshake: SendChallengeAck. InCookie: 230068149095219246117233091127078218042008008211154236076026
+[2018.01.21-16.54.23:896][768]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57099
+[2018.01.21-16.54.23:897][768]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.23:897][768]LogNet: NotifyAcceptedConnection: Name: VehicleAdvExampleMap, TimeStamp: 01/21/18 11:54:23, [UNetConnection] RemoteAddr: 127.0.0.1:57099, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-16.54.23:897][768]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57099, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-16.54.23:904][768]LogNetVersion: CarBlueprints 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3229010851)
+[2018.01.21-16.54.23:904][768]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-16.54.23:971][769]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap: Accepted
+[2018.01.21-16.54.23:971][769]LogNet: Remote platform little endian=1
+[2018.01.21-16.54.23:971][769]LogNet: This platform little endian=1
+[2018.01.21-16.54.24:005][770]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=LAPTOP-QGRD1O7A-713B2C2F44CD214212C892B15158C448 userId: LAPTOP-QGRD1O7A-713B2C2F44CD214212C892B15158C448
+[2018.01.21-16.54.24:007][770]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-16.54.24:007][770]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-16.54.24:040][770]Cmd: MEM
+[2018.01.21-16.54.24:065][770]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-16.54.24:065][770]LogMemory: Process Physical Memory: 1470.37 MB used, 1470.37 MB peak
+[2018.01.21-16.54.24:065][770]LogMemory: Process Virtual Memory: 2639.18 MB used, 2639.18 MB peak
+[2018.01.21-16.54.24:065][770]LogMemory: Physical Memory: 4768.42 MB used,  3304.12 MB free, 8072.54 MB total
+[2018.01.21-16.54.24:065][770]LogMemory: Virtual Memory: 3496.93 MB used,  3304.12 MB free, 134217728.00 MB total
+[2018.01.21-16.54.24:065][770]LogMemory: 
+[2018.01.21-16.54.24:065][770]Allocator Stats for TBB: (not implemented)
+[2018.01.21-16.54.24:100][770]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.54.24:100][770]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.24:107][770]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-11.54.24
+[2018.01.21-16.54.24:107][770]LogWorld: Bringing up level for play took: 0.004704
+[2018.01.21-16.54.24:107][770]LogLoad: Took 0.099849 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap)
+[2018.01.21-16.54.24:129][771]LogNet: Client netspeed is 10000
+[2018.01.21-16.54.24:129][771]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=LAPTOP-QGRD1O7A-713B2C2F44CD214212C892B15158C448?SplitscreenCount=1
+[2018.01.21-16.54.24:130][771]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.54.24:134][771]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5140.000 Y=7290.000 Z=160.000] for [VehicleBlueprint_C]
+[2018.01.21-16.54.24:135][771]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VehicleBlueprint_C at Rotation: Pitch 0.000000 Yaw -179.999954 Roll 0.000000
+Translation: -5140.000000 7290.000000 160.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.01.21-16.54.24:135][771]LogNet: Join succeeded: LAPTOP-QGRD1O7A-713B
+[2018.01.21-16.54.24:170][772]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.54.24:201][773]LogBlueprintUserMessages: [MyGameInstance_C_1] Client 1: Error: trying to leave current state: 0
+[2018.01.21-16.54.24:205][773]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.54.26:853][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.26:917][887]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.54.26:917][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.54.26:918][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.54.26:918][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.54.26:918][887]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-16.54.26:976][887]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.54.26:976][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.54.26:976][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.54.26:976][887]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.54.26:976][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-16.54.26:977][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.27:006][887]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-16.54.27:006][887]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, Channels: 10, Time: 2018.01.21-16.54.27
+[2018.01.21-16.54.27:006][887]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.21-16.54.27:007][887]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57099, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.21-16.54.27:007][887]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57099, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-16.54.27
+[2018.01.21-16.54.27:007][887]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57099, Name: IpConnection_1, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.21-16.54.27:010][887]LogExit: GameNetDriver None shut down
+[2018.01.21-16.54.27:011][887]LogExit: GameNetDriver None shut down
+[2018.01.21-16.54.27:155][888]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.01.21-16.54.27:155][888]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.54.27:155][888]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.01.21-16.54.27:155][888]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.54.30:656][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-16.54.30:683][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.30:683][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-16.54.30:684][ 92]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 6:54:30 AM)
+[2018.01.21-16.54.30:685][ 92]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap
+[2018.01.21-16.54.30:721][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036154s)
+[2018.01.21-16.54.30:722][ 92]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.54.30:722][ 92]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.01.21-16.54.30:723][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap (0.037517s)
+[2018.01.21-16.54.30:746][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-16.54.30:778][ 92]LogInit: FAudioDevice initialized.
+[2018.01.21-16.54.30:824][ 92]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-16.54.30:830][ 92]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-11.54.30
+[2018.01.21-16.54.30:830][ 92]LogWorld: Bringing up level for play took: 0.005055
+[2018.01.21-16.54.30:845][ 92]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.30:846][ 92]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.21-16.54.30:846][ 92]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.30:846][ 92]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.21-16.54.30:846][ 92]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.30:846][ 92]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2018.01.21-16.54.30:849][ 92]LogBlueprintUserMessages: [HUD_C_8] Server: 0
+[2018.01.21-16.54.30:850][ 92]LogBlueprintUserMessages: [MyGameInstance_C_2] Server: Error: trying to leave current state: 0
+[2018.01.21-16.54.30:858][ 92]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap 0.753
+[2018.01.21-16.54.30:859][ 92]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 6:54:30 AM)
+[2018.01.21-16.54.30:921][ 92]LogNet: Browse: 127.0.0.1//Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2018.01.21-16.54.30:921][ 92]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.30:921][ 92]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.21-16.54.30:921][ 92]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.21-16.54.30:921][ 92]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.21-16.54.30:921][ 92]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.30:921][ 92]LogNet: Game client on port 7777, rate 10000
+[2018.01.21-16.54.30:927][ 92]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap 0.822
+[2018.01.21-16.54.30:946][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.54.30:950][ 92]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57100
+[2018.01.21-16.54.30:950][ 92]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 248057202094167052035231131051186062252196022149255174096040
+[2018.01.21-16.54.30:952][ 92]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 248057202094167052035231131051186062252196022149255174096040
+[2018.01.21-16.54.31:072][ 93]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57100
+[2018.01.21-16.54.31:072][ 93]LogHandshake: SendChallengeAck. InCookie: 248057202094167052035231131051186062252196022149255174096040
+[2018.01.21-16.54.31:072][ 93]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57100
+[2018.01.21-16.54.31:073][ 93]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.21-16.54.31:073][ 93]LogNet: NotifyAcceptedConnection: Name: VehicleAdvExampleMap, TimeStamp: 01/21/18 11:54:31, [UNetConnection] RemoteAddr: 127.0.0.1:57100, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-16.54.31:073][ 93]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57100, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.21-16.54.31:075][ 93]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.21-16.54.31:108][ 94]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap.VehicleAdvExampleMap: Accepted
+[2018.01.21-16.54.31:108][ 94]LogNet: Remote platform little endian=1
+[2018.01.21-16.54.31:108][ 94]LogNet: This platform little endian=1
+[2018.01.21-16.54.31:137][ 95]LogNet: Login request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=LAPTOP-QGRD1O7A-4E1AC5664E546D9E6A98C8B1B4F3D73F userId: LAPTOP-QGRD1O7A-4E1AC5664E546D9E6A98C8B1B4F3D73F
+[2018.01.21-16.54.31:139][ 95]LogNet: Welcomed by server (Level: /Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap, Game: /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C)
+[2018.01.21-16.54.31:140][ 95]LogLoad: LoadMap: 127.0.0.1//Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap?game=/Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode_C
+[2018.01.21-16.54.31:170][ 95]Cmd: MEM
+[2018.01.21-16.54.31:196][ 95]LogMemory: Platform Memory Stats for Windows
+[2018.01.21-16.54.31:196][ 95]LogMemory: Process Physical Memory: 1471.80 MB used, 1483.39 MB peak
+[2018.01.21-16.54.31:196][ 95]LogMemory: Process Virtual Memory: 2480.73 MB used, 2645.85 MB peak
+[2018.01.21-16.54.31:196][ 95]LogMemory: Physical Memory: 4773.67 MB used,  3298.87 MB free, 8072.54 MB total
+[2018.01.21-16.54.31:196][ 95]LogMemory: Virtual Memory: 3408.93 MB used,  3298.87 MB free, 134217728.00 MB total
+[2018.01.21-16.54.31:196][ 95]LogMemory: 
+[2018.01.21-16.54.31:196][ 95]Allocator Stats for TBB: (not implemented)
+[2018.01.21-16.54.31:224][ 95]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.54.31:224][ 95]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.21-16.54.31:230][ 95]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_2_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-11.54.31
+[2018.01.21-16.54.31:230][ 95]LogWorld: Bringing up level for play took: 0.004793
+[2018.01.21-16.54.31:231][ 95]LogLoad: Took 0.090934 seconds to LoadMap(/Game/VehicleAdvBP/Maps/UEDPIE_1_VehicleAdvExampleMap)
+[2018.01.21-16.54.31:250][ 96]LogNet: Client netspeed is 10000
+[2018.01.21-16.54.31:250][ 96]LogNet: Join request: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap?Name=LAPTOP-QGRD1O7A-4E1AC5664E546D9E6A98C8B1B4F3D73F?SplitscreenCount=1
+[2018.01.21-16.54.31:251][ 96]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.54.31:255][ 96]LogBlueprintUserMessages: [HUD_C_11] Server: 0
+[2018.01.21-16.54.31:256][ 96]LogBlueprintUserMessages: [HUD_C_11] Server: 0
+[2018.01.21-16.54.31:256][ 96]LogNet: Join succeeded: LAPTOP-QGRD1O7A-4E1A
+[2018.01.21-16.54.31:311][ 98]LogBlueprintUserMessages: [MyGameInstance_C_3] Client 1: Error: trying to leave current state: 0
+[2018.01.21-16.54.31:359][ 99]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.54.31:380][100]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.01.21-16.55.00:460][218]PIE: Warning: Attempting to move a fully simulated skeletal mesh VehicleMesh. Please use the Teleport flag
+[2018.01.21-16.55.00:465][218]LogBlueprintUserMessages: [HUD_C_14] Server: 1
+[2018.01.21-16.55.00:465][218]LogBlueprintUserMessages: [HUD_C_14] Server: 0
+[2018.01.21-16.55.00:473][218]LogBlueprintUserMessages: [HUD_C_15] Client 1: 1
+[2018.01.21-16.55.00:475][218]LogBlueprintUserMessages: [HUD_C_15] Client 1: 0
+[2018.01.21-16.55.01:729][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.55.01:798][268]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.55.01:798][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.55.01:799][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.55.01:799][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.55.01:799][268]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.01.21-16.55.01:863][268]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.55.01:864][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.55.01:865][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.55.01:865][268]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.55.01:865][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-16.55.01:866][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.55.01:904][268]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57100, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.21-16.55.01:904][268]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57100, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-16.55.01
+[2018.01.21-16.55.01:904][268]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57100, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.21-16.55.01:905][268]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.21-16.55.01:905][268]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.21-16.55.01
+[2018.01.21-16.55.01:905][268]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.21-16.55.01:909][268]LogExit: GameNetDriver None shut down
+[2018.01.21-16.55.01:909][268]LogExit: GameNetDriver None shut down
+[2018.01.21-16.55.01:954][269]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.01.21-16.55.01:954][269]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.55.01:954][269]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.01.21-16.55.01:954][269]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.55.56:241][216]LogRenderer: Reallocating scene render targets to support 912x540 Format 10 NumSamples 1 (Frame:1).
+[2018.01.21-16.56.53:373][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_loop_big_2)
+[2018.01.21-16.56.55:340][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_loop_big_2)
+[2018.01.21-16.56.56:088][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_loop_big_2)
+[2018.01.21-16.57.02:618][660]LogActorFactory: Actor Factory created Cube
+[2018.01.21-16.57.04:658][779]LogActorFactory: Actor Factory created Cube
+[2018.01.21-16.58.31:638][583]LogSavePackage: Save=452.50ms
+[2018.01.21-16.58.31:638][583]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMapE5E4C5494F8C99BE5263E9A323228B2D.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-16.58.31:642][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-16.58.32:683][583]LogSlate: Took 0.004627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.21-16.58.34:259][583]LogSavePackage: Save=2435.04ms
+[2018.01.21-16.58.34:259][583]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData92CB048440BFF074A66F9FA1A4610C35.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-16.58.34:263][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-16.58.34:813][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-16.58.34:844][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.58.34:844][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-16.58.34:844][606]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 6:58:34 AM)
+[2018.01.21-16.58.34:845][606]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-16.58.34:880][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035060s)
+[2018.01.21-16.58.34:881][606]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-16.58.34:881][606]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2018.01.21-16.58.34:881][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.036362s)
+[2018.01.21-16.58.34:909][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-16.58.34:945][606]LogInit: FAudioDevice initialized.
+[2018.01.21-16.58.35:000][606]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-16.58.35:008][606]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-11.58.35
+[2018.01.21-16.58.35:012][606]LogWorld: Bringing up level for play took: 0.009837
+[2018.01.21-16.58.35:028][606]LogBlueprintUserMessages: [HUD_C_18] 0
+[2018.01.21-16.58.35:030][606]LogBlueprintUserMessages: [HUD_C_19] 0
+[2018.01.21-16.58.35:031][606]LogBlueprintUserMessages: [MyGameInstance_C_4] Error: trying to leave current state: 0
+[2018.01.21-16.58.35:039][606]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.934
+[2018.01.21-16.58.35:040][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.58.48:611][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.58.48:690][405]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.58.48:690][405]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-16.58.48:691][405]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-16.58.48:691][405]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-16.58.48:691][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-16.58.48:714][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-16.58.48:865][406]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.01.21-16.58.48:865][406]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-16.59.25:246][137]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.25:246][137]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.25:246][137]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.25:246][137]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.27:337][238]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.27:337][238]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.27:337][238]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.27:337][238]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:196][712]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.37:196][712]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:196][712]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:196][712]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:965][747]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.37:965][747]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:965][747]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.37:965][747]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.43:350][  3]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.43:350][  3]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.43:350][  3]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.43:350][  3]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.46:743][165]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.46:743][165]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.46:743][165]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.46:744][165]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.49:170][277]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.49:170][277]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.49:170][277]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.49:170][277]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.50:256][326]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.50:256][326]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.50:256][326]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.50:256][326]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.51:074][364]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.51:075][364]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.51:075][364]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.51:075][364]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.53:542][480]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.53:542][480]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.53:542][480]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.53:542][480]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.55:000][546]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-16.59.55:000][546]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.55:000][546]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-16.59.55:000][546]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_12:PersistentLevel.BP_Projectile_C_1.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.00.23:198][862]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.00.24:785][884]LogSavePackage: Save=59.83ms
+[2018.01.21-17.00.24:785][884]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_ProjectileD51FD5D54B8EFC00F7581C890B831555.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.00.24:789][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.00.27:513][ 18]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.00.27:546][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.00.27:546][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.00.27:546][ 18]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:00:27 AM)
+[2018.01.21-17.00.27:547][ 18]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.00.27:591][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043975s)
+[2018.01.21-17.00.27:592][ 18]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.00.27:592][ 18]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2018.01.21-17.00.27:593][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.045951s)
+[2018.01.21-17.00.27:625][ 18]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.00.27:664][ 18]LogInit: FAudioDevice initialized.
+[2018.01.21-17.00.27:729][ 18]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.00.27:742][ 18]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-12.00.27
+[2018.01.21-17.00.27:743][ 18]LogWorld: Bringing up level for play took: 0.011759
+[2018.01.21-17.00.27:767][ 18]LogBlueprintUserMessages: [HUD_C_24] 0
+[2018.01.21-17.00.27:771][ 18]LogBlueprintUserMessages: [HUD_C_25] 0
+[2018.01.21-17.00.27:772][ 18]LogBlueprintUserMessages: [MyGameInstance_C_5] Error: trying to leave current state: 0
+[2018.01.21-17.00.27:782][ 18]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.323
+[2018.01.21-17.00.27:782][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.00.32:784][311]LogBlueprintUserMessages: [BP_Projectile_C_0] HIT BLOCK
+[2018.01.21-17.00.46:116][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.00.46:196][ 54]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.00.46:196][ 54]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.00.46:197][ 54]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.00.46:197][ 54]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.00.46:197][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.00.46:222][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.00.46:358][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.01.21-17.00.46:358][ 55]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.05.42:533][820]LogSavePackage: Save=395.41ms
+[2018.01.21-17.05.42:534][820]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap3D91993C428822C8B46208BAC48A3389.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.05.42:539][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.05.44:451][820]LogSavePackage: Save=1834.54ms
+[2018.01.21-17.05.44:451][820]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltDataDCCD8D9F485718ADF8B7C0AA1B8D9DBA.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.05.44:455][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.05.46:257][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.21-17.05.51:211][211]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.05.51:240][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.05.51:240][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.05.51:241][211]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:05:51 AM)
+[2018.01.21-17.05.51:241][211]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.05.51:277][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035469s)
+[2018.01.21-17.05.51:277][211]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.05.51:278][211]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.01.21-17.05.51:278][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.036797s)
+[2018.01.21-17.05.51:304][211]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.05.51:336][211]LogInit: FAudioDevice initialized.
+[2018.01.21-17.05.51:386][211]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.05.51:402][211]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-12.05.51
+[2018.01.21-17.05.51:405][211]LogWorld: Bringing up level for play took: 0.015125
+[2018.01.21-17.05.51:421][211]LogBlueprintUserMessages: [HUD_C_29] 0
+[2018.01.21-17.05.51:422][211]LogBlueprintUserMessages: [HUD_C_30] 0
+[2018.01.21-17.05.51:422][211]LogBlueprintUserMessages: [MyGameInstance_C_6] Error: trying to leave current state: 0
+[2018.01.21-17.05.51:429][211]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.676
+[2018.01.21-17.05.51:430][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.05.57:202][545]LogBlueprintUserMessages: [BP_Projectile_C_0] HIT BLOCK
+[2018.01.21-17.05.58:562][626]LogBlueprintUserMessages: [BP_Projectile_C_1] HIT BLOCK
+[2018.01.21-17.06.01:787][819]LogBlueprintUserMessages: [BP_Projectile_C_2] HIT BLOCK
+[2018.01.21-17.06.02:639][870]LogBlueprintUserMessages: [BP_Projectile_C_3] HIT BLOCK
+[2018.01.21-17.06.02:840][882]LogBlueprintUserMessages: [BP_Projectile_C_4] HIT BLOCK
+[2018.01.21-17.06.03:174][902]LogBlueprintUserMessages: [BP_Projectile_C_5] HIT BLOCK
+[2018.01.21-17.06.03:508][922]LogBlueprintUserMessages: [BP_Projectile_C_6] HIT BLOCK
+[2018.01.21-17.06.04:279][968]LogBlueprintUserMessages: [BP_Projectile_C_7] HIT BLOCK
+[2018.01.21-17.06.04:683][992]LogBlueprintUserMessages: [BP_Projectile_C_8] HIT BLOCK
+[2018.01.21-17.06.05:052][ 14]LogBlueprintUserMessages: [BP_Projectile_C_9] HIT BLOCK
+[2018.01.21-17.06.05:473][ 39]LogBlueprintUserMessages: [BP_Projectile_C_10] HIT BLOCK
+[2018.01.21-17.06.05:756][ 56]LogBlueprintUserMessages: [BP_Projectile_C_11] HIT BLOCK
+[2018.01.21-17.06.06:091][ 76]LogBlueprintUserMessages: [BP_Projectile_C_12] HIT BLOCK
+[2018.01.21-17.06.07:007][131]LogBlueprintUserMessages: [BP_Projectile_C_13] HIT BLOCK
+[2018.01.21-17.06.07:379][153]LogBlueprintUserMessages: [BP_Projectile_C_14] HIT BLOCK
+[2018.01.21-17.06.07:616][167]LogBlueprintUserMessages: [BP_Projectile_C_15] HIT BLOCK
+[2018.01.21-17.06.07:850][181]LogBlueprintUserMessages: [BP_Projectile_C_16] HIT BLOCK
+[2018.01.21-17.06.08:033][192]LogBlueprintUserMessages: [BP_Projectile_C_17] HIT BLOCK
+[2018.01.21-17.06.08:217][203]LogBlueprintUserMessages: [BP_Projectile_C_18] HIT BLOCK
+[2018.01.21-17.06.08:399][214]LogBlueprintUserMessages: [BP_Projectile_C_19] HIT BLOCK
+[2018.01.21-17.06.08:599][226]LogBlueprintUserMessages: [BP_Projectile_C_20] HIT BLOCK
+[2018.01.21-17.06.08:834][240]LogBlueprintUserMessages: [BP_Projectile_C_21] HIT BLOCK
+[2018.01.21-17.06.09:441][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.06.09:518][276]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.06.09:518][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.06.09:518][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.06.09:519][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.06.09:519][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.06.09:540][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.06.09:682][277]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.01.21-17.06.09:682][277]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.08.12:837][435]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.08.14:115][456]LogSavePackage: Save=46.67ms
+[2018.01.21-17.08.14:115][456]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_ProjectileB793559041BC73A356FBFABB7598B232.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.08.14:119][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.08.16:156][553]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.21-17.08.19:020][718]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.08.19:046][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.08.19:046][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.08.19:046][718]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:08:19 AM)
+[2018.01.21-17.08.19:047][718]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.08.19:079][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032183s)
+[2018.01.21-17.08.19:080][718]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.08.19:080][718]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.01.21-17.08.19:080][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.033346s)
+[2018.01.21-17.08.19:108][718]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.08.19:139][718]LogInit: FAudioDevice initialized.
+[2018.01.21-17.08.19:178][718]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.08.19:184][718]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2018.01.21-12.08.19
+[2018.01.21-17.08.19:185][718]LogWorld: Bringing up level for play took: 0.005037
+[2018.01.21-17.08.19:200][718]LogBlueprintUserMessages: [HUD_C_35] 0
+[2018.01.21-17.08.19:201][718]LogBlueprintUserMessages: [HUD_C_36] 0
+[2018.01.21-17.08.19:201][718]LogBlueprintUserMessages: [MyGameInstance_C_7] Error: trying to leave current state: 0
+[2018.01.21-17.08.19:204][718]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.099
+[2018.01.21-17.08.19:205][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.08.26:198][130]LogBlueprintUserMessages: [BP_Projectile_C_0] HIT BLOCK
+[2018.01.21-17.08.29:703][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.08.29:778][340]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.08.29:778][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.08.29:779][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.08.29:779][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.08.29:779][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.08.29:803][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.08.29:966][341]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.01.21-17.08.29:966][341]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.14.46:842][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.21-17.15.07:303][958]LogSavePackage: Save=392.64ms
+[2018.01.21-17.15.07:303][958]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap2E9E5A394202A5888C72D0A28B9A4B86.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.15.07:307][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.15.09:221][958]LogSavePackage: Save=1835.02ms
+[2018.01.21-17.15.09:221][958]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData19B1CDCA405F451489EA82A41C612E52.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.15.09:224][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.15.09:927][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.15.09:950][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.15.09:950][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.15.09:950][  0]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:15:09 AM)
+[2018.01.21-17.15.09:951][  0]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.15.09:983][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031083s)
+[2018.01.21-17.15.09:984][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.15.09:984][  0]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.01.21-17.15.09:984][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.032305s)
+[2018.01.21-17.15.10:012][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.15.10:041][  0]LogInit: FAudioDevice initialized.
+[2018.01.21-17.15.10:088][  0]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.15.10:111][  0]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.15.10
+[2018.01.21-17.15.10:112][  0]LogWorld: Bringing up level for play took: 0.018247
+[2018.01.21-17.15.10:138][  0]LogBlueprintUserMessages: [HUD_C_37] 0
+[2018.01.21-17.15.10:142][  0]LogBlueprintUserMessages: [HUD_C_38] 0
+[2018.01.21-17.15.10:143][  0]LogBlueprintUserMessages: [MyGameInstance_C_8] Error: trying to leave current state: 0
+[2018.01.21-17.15.10:148][  0]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.043
+[2018.01.21-17.15.10:149][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.15.29:187][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.15.29:254][260]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.15.29:255][260]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.15.29:256][260]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.15.29:256][260]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.15.29:256][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.15.29:283][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.15.29:438][261]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.01.21-17.15.29:438][261]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.20.45:427][174]LogSavePackage: Save=502.15ms
+[2018.01.21-17.20.45:428][174]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMapBE1C020E4F9FB1906422F496F11C1BA5.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.20.45:436][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.20.47:821][174]LogSavePackage: Save=2289.96ms
+[2018.01.21-17.20.47:821][174]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltDataBA85324C438D2C4840C45282151B53E4.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.20.47:825][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.20.48:991][242]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.20.49:023][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.20.49:023][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.20.49:023][242]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:20:49 AM)
+[2018.01.21-17.20.49:024][242]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.20.49:062][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037580s)
+[2018.01.21-17.20.49:062][242]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.20.49:063][242]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2018.01.21-17.20.49:063][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.039234s)
+[2018.01.21-17.20.49:098][242]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.20.49:138][242]LogInit: FAudioDevice initialized.
+[2018.01.21-17.20.49:184][242]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.20.49:193][242]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.20.49
+[2018.01.21-17.20.49:195][242]LogWorld: Bringing up level for play took: 0.009336
+[2018.01.21-17.20.49:214][242]LogBlueprintUserMessages: [HUD_C_39] 0
+[2018.01.21-17.20.49:218][242]LogBlueprintUserMessages: [HUD_C_40] 0
+[2018.01.21-17.20.49:218][242]LogBlueprintUserMessages: [MyGameInstance_C_9] Error: trying to leave current state: 0
+[2018.01.21-17.20.49:222][242]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.117
+[2018.01.21-17.20.49:223][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.20.54:618][583]LogBlueprintUserMessages: [BP_Projectile_C_0] HIT BLOCK
+[2018.01.21-17.20.56:820][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.20.56:892][727]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.20.56:892][727]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.20.56:893][727]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.20.56:893][727]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.20.56:893][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.20.56:920][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.20.57:067][728]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.01.21-17.20.57:067][728]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.21.11:933][306]LogSavePackage: Save=410.08ms
+[2018.01.21-17.21.11:933][306]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMapD5DAD73142214D103B74A88218B11FE2.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.21.11:937][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.21.13:865][306]LogSavePackage: Save=1877.03ms
+[2018.01.21-17.21.13:865][306]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData5488677C43A6F08223644AA450DC899A.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.21.13:868][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.21.14:330][333]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.21.14:355][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.14:355][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.21.14:356][333]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:21:14 AM)
+[2018.01.21-17.21.14:356][333]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.21.14:384][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027646s)
+[2018.01.21-17.21.14:385][333]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.21.14:385][333]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.01.21-17.21.14:385][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.028913s)
+[2018.01.21-17.21.14:414][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.21.14:443][333]LogInit: FAudioDevice initialized.
+[2018.01.21-17.21.14:482][333]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.21.14:488][333]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.21.14
+[2018.01.21-17.21.14:488][333]LogWorld: Bringing up level for play took: 0.005673
+[2018.01.21-17.21.14:503][333]LogBlueprintUserMessages: [HUD_C_41] 0
+[2018.01.21-17.21.14:504][333]LogBlueprintUserMessages: [HUD_C_42] 0
+[2018.01.21-17.21.14:505][333]LogBlueprintUserMessages: [MyGameInstance_C_10] Error: trying to leave current state: 0
+[2018.01.21-17.21.14:509][333]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.404
+[2018.01.21-17.21.14:509][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.25:541][ 57]LogBlueprintUserMessages: [BP_Projectile_C_1] HIT BLOCK
+[2018.01.21-17.21.33:284][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.33:362][558]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.21.33:362][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.21.33:362][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.21.33:362][558]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.21.33:362][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.21.33:394][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.33:543][559]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.01.21-17.21.33:543][559]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.21.35:487][682]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.21.35:523][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.35:523][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.21.35:523][682]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:21:35 AM)
+[2018.01.21-17.21.35:524][682]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.21.35:564][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039490s)
+[2018.01.21-17.21.35:565][682]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.21.35:565][682]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.01.21-17.21.35:566][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.040939s)
+[2018.01.21-17.21.35:602][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.21.35:644][682]LogInit: FAudioDevice initialized.
+[2018.01.21-17.21.35:690][682]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.21.35:701][682]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.21.35
+[2018.01.21-17.21.35:702][682]LogWorld: Bringing up level for play took: 0.008332
+[2018.01.21-17.21.35:719][682]LogBlueprintUserMessages: [HUD_C_43] 0
+[2018.01.21-17.21.35:720][682]LogBlueprintUserMessages: [HUD_C_44] 0
+[2018.01.21-17.21.35:720][682]LogBlueprintUserMessages: [MyGameInstance_C_11] Error: trying to leave current state: 0
+[2018.01.21-17.21.35:726][682]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.38
+[2018.01.21-17.21.35:726][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.43:198][156]LogBlueprintUserMessages: [BP_Projectile_C_0] HIT BLOCK
+[2018.01.21-17.21.44:568][239]LogBlueprintUserMessages: [BP_Projectile_C_1] HIT BLOCK
+[2018.01.21-17.21.45:610][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.45:684][305]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.21.45:684][305]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.21.45:685][305]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.21.45:685][305]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.21.45:685][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.21.45:717][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.21.45:862][306]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.01.21-17.21.45:862][306]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.24.51:302][662]LogSavePackage: Save=551.74ms
+[2018.01.21-17.24.51:302][662]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap1892318F4E4A4E9C913403BBC1692DA6.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.24.51:316][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.24.53:686][662]LogSavePackage: Save=2299.16ms
+[2018.01.21-17.24.53:686][662]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData048E7D72485EF35EDF3BE98652C68C60.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.24.53:690][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.25.09:027][350]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.25.10:762][395]LogSavePackage: Save=55.86ms
+[2018.01.21-17.25.10:762][395]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_Projectile5375B43F4E4A0637436A5A946A5339AF.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.25.10:766][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.25.13:186][540]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.25.13:216][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.25.13:216][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.25.13:217][540]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:25:13 AM)
+[2018.01.21-17.25.13:218][540]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.25.13:256][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038027s)
+[2018.01.21-17.25.13:257][540]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.25.13:257][540]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2018.01.21-17.25.13:257][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.039537s)
+[2018.01.21-17.25.13:285][540]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.25.13:321][540]LogInit: FAudioDevice initialized.
+[2018.01.21-17.25.13:367][540]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.25.13:377][540]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.25.13
+[2018.01.21-17.25.13:378][540]LogWorld: Bringing up level for play took: 0.008997
+[2018.01.21-17.25.13:403][540]LogBlueprintUserMessages: [HUD_C_45] 0
+[2018.01.21-17.25.13:407][540]LogBlueprintUserMessages: [HUD_C_46] 0
+[2018.01.21-17.25.13:408][540]LogBlueprintUserMessages: [MyGameInstance_C_12] Error: trying to leave current state: 0
+[2018.01.21-17.25.13:419][540]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.686
+[2018.01.21-17.25.13:420][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.25.21:789][ 85]LogBlueprintUserMessages: [BP_Projectile_C_2] cast fail
+[2018.01.21-17.25.22:343][121]LogBlueprintUserMessages: [BP_Projectile_C_3] cast fail
+[2018.01.21-17.25.22:808][150]LogBlueprintUserMessages: [BP_Projectile_C_4] cast fail
+[2018.01.21-17.25.23:125][169]LogBlueprintUserMessages: [BP_Projectile_C_5] cast fail
+[2018.01.21-17.25.23:871][216]LogBlueprintUserMessages: [BP_Projectile_C_6] cast fail
+[2018.01.21-17.25.24:324][245]LogBlueprintUserMessages: [BP_Projectile_C_7] cast fail
+[2018.01.21-17.25.24:510][257]LogBlueprintUserMessages: [BP_Projectile_C_8] cast fail
+[2018.01.21-17.25.24:668][267]LogBlueprintUserMessages: [BP_Projectile_C_9] cast fail
+[2018.01.21-17.25.25:772][340]LogBlueprintUserMessages: [BP_Projectile_C_10] cast fail
+[2018.01.21-17.25.26:248][372]LogBlueprintUserMessages: [BP_Projectile_C_11] cast fail
+[2018.01.21-17.25.36:396][ 18]LogBlueprintUserMessages: [BP_Projectile_C_17] cast fail
+[2018.01.21-17.25.39:002][184]LogBlueprintUserMessages: [BP_Projectile_C_18] cast fail
+[2018.01.21-17.25.39:185][196]LogBlueprintUserMessages: [BP_Projectile_C_19] cast fail
+[2018.01.21-17.25.39:339][206]LogBlueprintUserMessages: [BP_Projectile_C_20] cast fail
+[2018.01.21-17.25.39:505][217]LogBlueprintUserMessages: [BP_Projectile_C_21] cast fail
+[2018.01.21-17.25.41:017][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.25.41:089][317]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.25.41:089][317]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.25.41:090][317]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.25.41:090][317]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.25.41:090][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.25.41:125][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.25.41:279][318]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.01.21-17.25.41:279][318]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.26.10:388][780]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.26.11:669][801]LogSavePackage: Save=55.66ms
+[2018.01.21-17.26.11:669][801]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_Projectile66B6AE914FCA3F06A2B9EDBC2964B824.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.26.11:674][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.26.14:878][992]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.26.14:910][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.26.14:910][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.26.14:910][992]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:26:14 AM)
+[2018.01.21-17.26.14:912][992]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.26.14:952][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040228s)
+[2018.01.21-17.26.14:953][992]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.26.14:954][992]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2018.01.21-17.26.14:954][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.041952s)
+[2018.01.21-17.26.14:986][992]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.26.15:029][992]LogInit: FAudioDevice initialized.
+[2018.01.21-17.26.15:082][992]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.26.15:097][992]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.26.15
+[2018.01.21-17.26.15:099][992]LogWorld: Bringing up level for play took: 0.013984
+[2018.01.21-17.26.15:116][992]LogBlueprintUserMessages: [HUD_C_47] 0
+[2018.01.21-17.26.15:118][992]LogBlueprintUserMessages: [HUD_C_48] 0
+[2018.01.21-17.26.15:118][992]LogBlueprintUserMessages: [MyGameInstance_C_13] Error: trying to leave current state: 0
+[2018.01.21-17.26.15:125][992]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.02
+[2018.01.21-17.26.15:126][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.26.20:588][328]LogBlueprintUserMessages: [BP_Projectile_C_0] cast fail
+[2018.01.21-17.26.20:915][349]LogBlueprintUserMessages: [BP_Projectile_C_1] cast fail
+[2018.01.21-17.26.21:213][368]LogBlueprintUserMessages: [BP_Projectile_C_2] cast fail
+[2018.01.21-17.26.22:175][431]LogBlueprintUserMessages: [BP_Projectile_C_3] cast fail
+[2018.01.21-17.26.22:486][451]LogBlueprintUserMessages: [BP_Projectile_C_4] cast fail
+[2018.01.21-17.26.22:860][475]LogBlueprintUserMessages: [BP_Projectile_C_5] cast fail
+[2018.01.21-17.26.23:104][491]LogBlueprintUserMessages: [BP_Projectile_C_6] cast fail
+[2018.01.21-17.26.23:307][504]LogBlueprintUserMessages: [BP_Projectile_C_7] cast fail
+[2018.01.21-17.26.23:481][515]LogBlueprintUserMessages: [BP_Projectile_C_8] cast fail
+[2018.01.21-17.26.23:652][526]LogBlueprintUserMessages: [BP_Projectile_C_9] cast fail
+[2018.01.21-17.26.23:828][537]LogBlueprintUserMessages: [BP_Projectile_C_10] cast fail
+[2018.01.21-17.26.24:097][554]LogBlueprintUserMessages: [BP_Projectile_C_11] cast fail
+[2018.01.21-17.26.24:643][590]LogBlueprintUserMessages: [BP_Projectile_C_12] cast fail
+[2018.01.21-17.26.25:034][616]LogBlueprintUserMessages: [BP_Projectile_C_13] cast fail
+[2018.01.21-17.26.25:362][637]LogBlueprintUserMessages: [BP_Projectile_C_14] cast fail
+[2018.01.21-17.26.25:586][652]LogBlueprintUserMessages: [BP_Projectile_C_15] cast fail
+[2018.01.21-17.26.25:943][675]LogBlueprintUserMessages: [BP_Projectile_C_16] cast fail
+[2018.01.21-17.26.26:186][691]LogBlueprintUserMessages: [BP_Projectile_C_17] cast fail
+[2018.01.21-17.26.26:447][708]LogBlueprintUserMessages: [BP_Projectile_C_18] cast fail
+[2018.01.21-17.26.26:768][729]LogBlueprintUserMessages: [BP_Projectile_C_19] cast fail
+[2018.01.21-17.26.26:965][742]LogBlueprintUserMessages: [BP_Projectile_C_20] cast fail
+[2018.01.21-17.26.27:366][768]LogBlueprintUserMessages: [BP_Projectile_C_21] cast fail
+[2018.01.21-17.27.23:601][403]LogBlueprintUserMessages: [BP_Projectile_C_24] cast fail
+[2018.01.21-17.27.23:780][414]LogBlueprintUserMessages: [BP_Projectile_C_25] cast fail
+[2018.01.21-17.27.23:957][425]LogBlueprintUserMessages: [BP_Projectile_C_26] cast fail
+[2018.01.21-17.27.24:813][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.27.24:893][479]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.27.24:893][479]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.27.24:894][479]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.27.24:894][479]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.27.24:894][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.27.24:929][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.27.25:087][480]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.01.21-17.27.25:087][480]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.28.05:030][511]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.28.06:448][533]LogSavePackage: Save=59.33ms
+[2018.01.21-17.28.06:448][533]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_ProjectileB6F1009241657945F66A2894A5B7D715.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.28.06:453][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.28.14:681][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.21-17.28.15:944][ 57]Cmd: DELETE
+[2018.01.21-17.28.15:944][ 57]Cmd: ACTOR DELETE
+[2018.01.21-17.28.15:946][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.21-17.28.15:986][ 57]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.01.21-17.29.20:980][113]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.29.22:734][148]LogSavePackage: Save=65.73ms
+[2018.01.21-17.29.22:734][148]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_Projectile7AAA0B0540E34A0832B6BA9FAF0DB510.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.29.22:739][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.29.27:815][412]LogActorFactory: Actor Factory created Cube
+[2018.01.21-17.29.29:897][557]LogActorFactory: Actor Factory created Cube
+[2018.01.21-17.29.43:567][470]LogSavePackage: Save=577.95ms
+[2018.01.21-17.29.43:567][470]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMapEDDD96694D57E646FD5B02A39AC35FCC.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.29.43:573][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.29.46:039][470]LogSavePackage: Save=2375.76ms
+[2018.01.21-17.29.46:039][470]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltDataC1153F074EA7D030FCCCB18F37A2E425.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.29.46:043][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.29.46:654][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.29.46:691][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.29.46:692][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.29.46:692][501]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:29:46 AM)
+[2018.01.21-17.29.46:693][501]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.29.46:736][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043184s)
+[2018.01.21-17.29.46:737][501]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.29.46:737][501]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.01.21-17.29.46:738][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.044794s)
+[2018.01.21-17.29.46:766][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.29.46:807][501]LogInit: FAudioDevice initialized.
+[2018.01.21-17.29.46:855][501]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.29.46:863][501]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.29.46
+[2018.01.21-17.29.46:865][501]LogWorld: Bringing up level for play took: 0.007930
+[2018.01.21-17.29.46:881][501]LogBlueprintUserMessages: [HUD_C_49] 0
+[2018.01.21-17.29.46:883][501]LogBlueprintUserMessages: [HUD_C_50] 0
+[2018.01.21-17.29.46:883][501]LogBlueprintUserMessages: [MyGameInstance_C_14] Error: trying to leave current state: 0
+[2018.01.21-17.29.46:890][501]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.785
+[2018.01.21-17.29.46:891][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.30.06:782][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.30.06:868][737]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.30.06:868][737]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.30.06:868][737]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.30.06:869][737]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.30.06:869][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.30.06:901][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.30.06:982][738]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.01.21-17.30.06:982][738]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.30.23:655][926]LogSavePackage: Save=584.56ms
+[2018.01.21-17.30.23:655][926]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap80B412554CF8BEA8DF18C3A7EC82A3AB.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.30.23:659][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.30.26:026][926]LogSavePackage: Save=2293.58ms
+[2018.01.21-17.30.26:026][926]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData94D5642E4317929080E5E0841108BF15.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.30.26:030][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.30.27:097][994]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.30.27:127][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.30.27:128][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.30.27:128][994]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:30:27 AM)
+[2018.01.21-17.30.27:129][994]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.30.27:174][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044114s)
+[2018.01.21-17.30.27:175][994]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.30.27:175][994]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2018.01.21-17.30.27:176][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.046710s)
+[2018.01.21-17.30.27:208][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.30.27:246][994]LogInit: FAudioDevice initialized.
+[2018.01.21-17.30.27:309][994]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.30.27:334][994]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.30.27
+[2018.01.21-17.30.27:335][994]LogWorld: Bringing up level for play took: 0.019484
+[2018.01.21-17.30.27:354][994]LogBlueprintUserMessages: [HUD_C_51] 0
+[2018.01.21-17.30.27:356][994]LogBlueprintUserMessages: [HUD_C_52] 0
+[2018.01.21-17.30.27:356][994]LogBlueprintUserMessages: [MyGameInstance_C_15] Error: trying to leave current state: 0
+[2018.01.21-17.30.27:364][994]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.741
+[2018.01.21-17.30.27:364][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.31.09:991][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.31.10:072][610]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.31.10:072][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.31.10:073][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.31.10:073][610]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.31.10:073][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.31.10:108][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.31.10:196][611]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.01.21-17.31.10:196][611]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.31.31:732][606]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.31.33:040][624]LogSavePackage: Save=60.83ms
+[2018.01.21-17.31.33:040][624]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_ProjectileD0F4CA684FFD71C0CC3A498C01A812C9.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.31.33:044][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.32.07:439][347]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.32.08:716][367]LogSavePackage: Save=59.36ms
+[2018.01.21-17.32.08:716][367]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_Projectile088CCDD548D3834EDD983A97F12FF52A.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.32.08:719][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.32.14:155][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.32.14:187][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.32.14:187][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.32.14:187][636]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:32:14 AM)
+[2018.01.21-17.32.14:188][636]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.32.14:225][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036095s)
+[2018.01.21-17.32.14:225][636]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.32.14:226][636]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.01.21-17.32.14:226][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.037473s)
+[2018.01.21-17.32.14:258][636]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.32.14:294][636]LogInit: FAudioDevice initialized.
+[2018.01.21-17.32.14:347][636]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.32.14:366][636]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.32.14
+[2018.01.21-17.32.14:368][636]LogWorld: Bringing up level for play took: 0.016396
+[2018.01.21-17.32.14:386][636]LogBlueprintUserMessages: [HUD_C_53] 0
+[2018.01.21-17.32.14:387][636]LogBlueprintUserMessages: [HUD_C_54] 0
+[2018.01.21-17.32.14:388][636]LogBlueprintUserMessages: [MyGameInstance_C_16] Error: trying to leave current state: 0
+[2018.01.21-17.32.14:394][636]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.289
+[2018.01.21-17.32.14:395][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.32.16:385][759]LogBlueprintUserMessages: [BP_Projectile_C_0] cast fail
+[2018.01.21-17.32.16:385][759]LogBlueprintUserMessages: [BP_Projectile_C_0] DIE
+[2018.01.21-17.32.16:681][778]LogBlueprintUserMessages: [BP_Projectile_C_1] cast fail
+[2018.01.21-17.32.16:681][778]LogBlueprintUserMessages: [BP_Projectile_C_1] DIE
+[2018.01.21-17.32.27:901][465]LogBlueprintUserMessages: [BP_Projectile_C_7] cast fail
+[2018.01.21-17.32.27:901][465]LogBlueprintUserMessages: [BP_Projectile_C_7] DIE
+[2018.01.21-17.32.28:498][501]LogBlueprintUserMessages: [BP_Projectile_C_8] cast fail
+[2018.01.21-17.32.28:498][501]LogBlueprintUserMessages: [BP_Projectile_C_8] DIE
+[2018.01.21-17.32.29:441][557]LogBlueprintUserMessages: [BP_Projectile_C_9] cast fail
+[2018.01.21-17.32.29:441][557]LogBlueprintUserMessages: [BP_Projectile_C_9] DIE
+[2018.01.21-17.32.29:860][582]LogBlueprintUserMessages: [BP_Projectile_C_10] cast fail
+[2018.01.21-17.32.29:860][582]LogBlueprintUserMessages: [BP_Projectile_C_10] DIE
+[2018.01.21-17.32.30:530][620]LogBlueprintUserMessages: [BP_Projectile_C_11] cast fail
+[2018.01.21-17.32.30:530][620]LogBlueprintUserMessages: [BP_Projectile_C_11] DIE
+[2018.01.21-17.32.30:729][632]LogBlueprintUserMessages: [BP_Projectile_C_12] cast fail
+[2018.01.21-17.32.30:729][632]LogBlueprintUserMessages: [BP_Projectile_C_12] DIE
+[2018.01.21-17.32.37:020][ 36]LogBlueprintUserMessages: [BP_Projectile_C_13] cast fail
+[2018.01.21-17.32.37:020][ 36]LogBlueprintUserMessages: [BP_Projectile_C_13] DIE
+[2018.01.21-17.32.37:152][ 44]LogBlueprintUserMessages: [BP_Projectile_C_14] cast fail
+[2018.01.21-17.32.37:153][ 44]LogBlueprintUserMessages: [BP_Projectile_C_14] DIE
+[2018.01.21-17.32.38:931][149]LogBlueprintUserMessages: [BP_Projectile_C_15] DIE
+[2018.01.21-17.32.38:931][149]LogBlueprintUserMessages: [BP_Projectile_C_15] DIE
+[2018.01.21-17.32.43:382][415]LogBlueprintUserMessages: [BP_Projectile_C_16] cast fail
+[2018.01.21-17.32.43:382][415]LogBlueprintUserMessages: [BP_Projectile_C_16] DIE
+[2018.01.21-17.32.43:567][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.32.43:641][427]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.32.43:641][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.32.43:642][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.32.43:642][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.32.43:642][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.32.43:673][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.32.43:758][428]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.01.21-17.32.43:758][428]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.33.05:380][328]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-17.33.05:380][328]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.05:380][328]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_16:PersistentLevel.BP_Projectile_C_11.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.05:380][328]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_11.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.11:979][646]LogActorComponent: ReregisterComponent: (/Game/VehicleAdvBP/Blueprints/RocketProjectile.RocketProjectile_C:ProjectileCollision_GEN_VARIABLE) Not currently registered. Aborting.
+[2018.01.21-17.33.11:979][646]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_16:PersistentLevel.BP_Projectile_C_11.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.11:979][646]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_3:PersistentLevel.BP_Projectile_C_11.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.11:979][646]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_5:PersistentLevel.RocketProjectile_C_0.ProjectileCollision) Not currently registered. Aborting.
+[2018.01.21-17.33.13:173][700]BlueprintLog: New page: Compile BP_Projectile
+[2018.01.21-17.33.15:058][740]LogSavePackage: Save=67.19ms
+[2018.01.21-17.33.15:058][740]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/BP_Projectile82B6AE5B42DD360096A290BBBF8D680E.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset'
+[2018.01.21-17.33.15:062][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Blueprints/BP_Projectile.uasset
+[2018.01.21-17.33.17:941][902]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.33.17:978][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.33.17:978][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.33.17:979][902]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:33:17 AM)
+[2018.01.21-17.33.17:979][902]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.33.18:026][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046115s)
+[2018.01.21-17.33.18:027][902]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.33.18:027][902]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2018.01.21-17.33.18:028][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.047809s)
+[2018.01.21-17.33.18:067][902]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.33.18:114][902]LogInit: FAudioDevice initialized.
+[2018.01.21-17.33.18:170][902]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.33.18:189][902]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.33.18
+[2018.01.21-17.33.18:190][902]LogWorld: Bringing up level for play took: 0.015057
+[2018.01.21-17.33.18:208][902]LogBlueprintUserMessages: [HUD_C_55] 0
+[2018.01.21-17.33.18:211][902]LogBlueprintUserMessages: [HUD_C_56] 0
+[2018.01.21-17.33.18:212][902]LogBlueprintUserMessages: [MyGameInstance_C_17] Error: trying to leave current state: 0
+[2018.01.21-17.33.18:221][902]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.116
+[2018.01.21-17.33.18:222][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.33.31:489][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.33.31:577][701]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.33.31:577][701]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.33.31:578][701]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.33.31:578][701]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.33.31:578][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.33.31:613][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.33.31:697][702]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.01.21-17.33.31:697][702]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.33.36:262][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.21-17.33.52:107][897]LogSavePackage: Save=486.20ms
+[2018.01.21-17.33.52:107][897]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap3D834BF44AFF2A9D0996F7883BC511B1.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.01.21-17.33.52:112][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.01.21-17.33.54:429][897]LogSavePackage: Save=2262.20ms
+[2018.01.21-17.33.54:429][897]LogSavePackage: Moving '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Saved/VehicleAdvExampleMap_BuiltData50D9961646D44138D1CDAE8146177C20.tmp' to '../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2018.01.21-17.33.54:433][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/agsch/Documents/Unreal Projects/CarMaster/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset
+[2018.01.21-17.33.55:484][961]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.21-17.33.55:517][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.33.55:518][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.21-17.33.55:518][961]PIE: New page: PIE session: VehicleAdvExampleMap (Jan 21, 2018, 7:33:55 AM)
+[2018.01.21-17.33.55:519][961]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.01.21-17.33.55:561][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041905s)
+[2018.01.21-17.33.55:562][961]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.01.21-17.33.55:562][961]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.01.21-17.33.55:562][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.043437s)
+[2018.01.21-17.33.55:599][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.21-17.33.55:640][961]LogInit: FAudioDevice initialized.
+[2018.01.21-17.33.55:694][961]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.01.21-17.33.55:713][961]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.01.21-12.33.55
+[2018.01.21-17.33.55:715][961]LogWorld: Bringing up level for play took: 0.014604
+[2018.01.21-17.33.55:734][961]LogBlueprintUserMessages: [HUD_C_57] 0
+[2018.01.21-17.33.55:737][961]LogBlueprintUserMessages: [HUD_C_58] 0
+[2018.01.21-17.33.55:738][961]LogBlueprintUserMessages: [MyGameInstance_C_18] Error: trying to leave current state: 0
+[2018.01.21-17.33.55:745][961]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.36
+[2018.01.21-17.33.55:745][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.34.06:385][605]LogBlueprintUserMessages: [BP_Projectile_C_2] cast fail
+[2018.01.21-17.34.06:385][605]LogBlueprintUserMessages: [BP_Projectile_C_2] DIE
+[2018.01.21-17.34.08:079][713]LogBlueprintUserMessages: [BP_Projectile_C_3] cast fail
+[2018.01.21-17.34.08:079][713]LogBlueprintUserMessages: [BP_Projectile_C_3] DIE
+[2018.01.21-17.34.09:337][791]LogBlueprintUserMessages: [BP_Projectile_C_5] cast fail
+[2018.01.21-17.34.09:337][791]LogBlueprintUserMessages: [BP_Projectile_C_5] DIE
+[2018.01.21-17.34.09:469][799]LogBlueprintUserMessages: [BP_Projectile_C_6] cast fail
+[2018.01.21-17.34.09:469][799]LogBlueprintUserMessages: [BP_Projectile_C_6] DIE
+[2018.01.21-17.34.10:547][868]LogBlueprintUserMessages: [BP_Projectile_C_7] cast fail
+[2018.01.21-17.34.10:548][868]LogBlueprintUserMessages: [BP_Projectile_C_7] DIE
+[2018.01.21-17.34.10:920][892]LogBlueprintUserMessages: [BP_Projectile_C_8] cast fail
+[2018.01.21-17.34.10:920][892]LogBlueprintUserMessages: [BP_Projectile_C_8] DIE
+[2018.01.21-17.34.11:142][906]LogBlueprintUserMessages: [BP_Projectile_C_9] cast fail
+[2018.01.21-17.34.11:142][906]LogBlueprintUserMessages: [BP_Projectile_C_9] DIE
+[2018.01.21-17.34.11:340][918]LogBlueprintUserMessages: [BP_Projectile_C_10] cast fail
+[2018.01.21-17.34.11:340][918]LogBlueprintUserMessages: [BP_Projectile_C_10] DIE
+[2018.01.21-17.34.11:757][944]LogBlueprintUserMessages: [BP_Projectile_C_11] cast fail
+[2018.01.21-17.34.11:758][944]LogBlueprintUserMessages: [BP_Projectile_C_11] DIE
+[2018.01.21-17.34.12:563][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.34.12:630][994]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.34.12:630][994]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.21-17.34.12:631][994]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.21-17.34.12:631][994]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.21-17.34.12:631][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.21-17.34.12:663][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.01.21-17.34.12:747][995]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.01.21-17.34.12:747][995]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.21-17.34.53:389][ 63]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.01.21-17.34.53:840][ 63]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.450 s
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: 
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: Stack: 
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006E343E36
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006E0CC2D2
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006E0E4746
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000068A8D3E6
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000006598FB2B
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000064C5259A
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000064AE737C
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000064AEA8E9
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000064C16C25
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000069E54A47
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000069E5AC21
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006A0903A3
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000069EB1E65
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000069EABC21
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000069EAB335
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor.exe!0x00000000483A5DFD
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor.exe!0x00000000483B3970
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor.exe!0x00000000483B39EA
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor.exe!0x00000000483C02D9
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: UE4Editor.exe!0x00000000483C1C47
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: KERNEL32.DLL!0x00000000B1FC1FE4
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: ntdll.dll!0x00000000B21FEFB1
+[2018.01.21-17.34.53:840][ 63]LogOutputDevice: Error: 
+[2018.01.21-17.34.53:842][ 63]LogStats:                SubmitErrorReport -  0.000 s
