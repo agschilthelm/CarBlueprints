@@ -19,83 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56264d60-084b-4669-a8e4-46032dfe400d" name="Default Changelist" comment="Adding Legacy Map">
-      <change beforePath="$PROJECT_DIR$/Content/VehicleAdvBP/Blueprints/BP_Weapon_Pickup.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleAdvBP/Blueprints/BP_Weapon_Pickup.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" afterDir="false" />
+    <list default="true" id="56264d60-084b-4669-a8e4-46032dfe400d" name="Default Changelist" comment="Adding Boost">
       <change beforePath="$PROJECT_DIR$/Content/VehicleAdvBP/Maps/LegacyMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleAdvBP/Maps/LegacyMap.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/VehicleAdvBP/Maps/LegacyMap_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleAdvBP/Maps/LegacyMap_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto5.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto6.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto7.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto7.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Maps/LegacyMap_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/VehicleAdvBP/Maps/LegacyMap_Auto1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_BaseWeapon_2018-01-02-22-11-59.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-02-22-11-59.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-11-20-44-15.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-11-20-55-10.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-11-21-04-47.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-14-12-59-17.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-15-13-42-57.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-15-13-50-00.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-15-14-25-46.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-21-11-33-49.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-21-11-47-24.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-21-12-05-35.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-21-12-17-18.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-21-12-45-57.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Projectile_2018-01-28-13-22-37.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Weapon_Pickup_2018-01-13-10-04-44.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BP_Weapon_Pickup_2018-01-15-14-03-54.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BasicAsset01_2018-01-02-21-26-21.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/BasicAsset01_2018-01-02-21-56-11.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/HUD_2018-01-28-13-17-48.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/HUD_2018-01-28-13-23-45.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/HUD_2018-01-28-14-00-21.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/HUD_2018-01-28-14-38-16.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/LoopSmall_2018-01-11-21-04-48.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyGameState2_2018-01-28-14-09-27.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyGameState2_2018-01-28-14-14-43.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyGameState_2018-01-28-13-10-29.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyPlayerState_2018-01-28-13-21-09.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyPlayerState_2018-01-28-13-44-56.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyPlayerState_2018-01-28-13-59-00.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/MyPlayerState_2018-01-28-14-11-20.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-11-10-59.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-11-23-54.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-11-33-55.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-11-59-06.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-12-12-00.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-06-12-43-38.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-07-19-10-55.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_Explosion_2018-01-07-19-16-48.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeCarDamage_2018-01-06-12-14-12.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeCarDamage_2018-01-06-17-14-05.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeCarDamage_2018-01-06-17-20-39.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeCarDamage_2018-01-07-18-07-58.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeTrail_2018-01-06-11-35-40.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeTrail_2018-01-06-12-15-44.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeTrail_2018-01-07-18-27-31.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/P_SmokeTrail_2018-01-07-18-37-56.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketLauncher_2018-01-06-11-55-23.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-02-22-12-00.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-06-11-45-10.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-06-11-55-23.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-07-18-19-57.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-07-18-43-36.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-07-19-17-29.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-11-21-04-47.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-14-12-59-18.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-15-13-42-58.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-15-13-50-00.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-21-12-45-59.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/RocketProjectile_2018-01-21-12-53-16.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/StandardLevel_2018-01-13-08-12-54.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/StandardLevel_2018-01-21-11-47-23.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Backup/StandardLevel_2018-01-21-12-05-33.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Backup/StandardLevel_2018-01-13-08-23-24.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Backup/StandardLevel_2018-01-15-13-49-59.umap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/CarBlueprints.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CarBlueprints.log" afterDir="false" />
     </list>
@@ -137,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587317654322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Boost">
+      <created>1587435218898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587435218899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,12 +89,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Legacy Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Legacy Map" />
+    <MESSAGE value="Adding Boost" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Boost" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2372" y="197" key="Vcs.Push.Dialog.v2" timestamp="1587317945329">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="362" y="156" key="Vcs.Push.Dialog.v2" timestamp="1587435224029">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="362" y="156" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587435224029" />
     <state x="2372" y="197" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587317945329" />
   </component>
 </project>
